@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="槟城升阳少年 vs 森美兰金鹿|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a8a5a460f61e8bd17efaa1795b421402.png" group-title="篮球",槟城升阳少年 vs 森美兰金鹿|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿利根迪女足 vs 曼雷萨女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9b86a931bcb39de2bb8b0a0aaefb6906.png" group-title="篮球",阿利根迪女足 vs 曼雷萨女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="苏杜明斯克 vs 特莫基明斯克B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n9397f9f5bd17ba3a3e202b46eeb7bc98.png" group-title="篮球",苏杜明斯克 vs 特莫基明斯克B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埃森勒 vs 巴赫斯塞希尔科勒吉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aaf7d289e9c8bf71d7df7b89edcd2c03.png" group-title="篮球",埃森勒 vs 巴赫斯塞希尔科勒吉|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="新西伯利亚 vs 阿尔泰巴尔瑙尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/71896f12baaa05074a484c43931ef7c6.png" group-title="篮球",新西伯利亚 vs 阿尔泰巴尔瑙尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939699.m3u8?auth_key=1794743861-0-0-52640fd871b0ab7080db577ec00d236a
+https://pullgz721.qmuiw.com/live/sd-2-3939699.m3u8?auth_key=1794744172-0-0-0939f5b44ccd765d53489aabf4ca4153
 #EXTINF:-1 tvg-name="东京羽田酷猫女篮 vs 山梨县蜂王女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7be43a07bf4cf8d560e67639138d828a.png" group-title="篮球",东京羽田酷猫女篮 vs 山梨县蜂王女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
