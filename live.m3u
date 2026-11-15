@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东京羽田酷猫女篮 vs 山梨县蜂王女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7be43a07bf4cf8d560e67639138d828a.png" group-title="篮球",东京羽田酷猫女篮 vs 山梨县蜂王女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="名古屋钻石海豚 vs 东京太阳摇滚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5701c1bc70a4cd2a8f2fe9f3ffc72904.png" group-title="篮球",名古屋钻石海豚 vs 东京太阳摇滚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934311.m3u8?auth_key=1794745135-0-0-adec58ef9dda80d94a0a957aed62a944
+https://pullgz721.qmuiw.com/live/sd-2-3934311.m3u8?auth_key=1794745481-0-0-fa4c12194a1a40765161eafd973498e2
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
