@@ -36,40 +36,16 @@ const FALLBACK_DOMAINS = [
 const KEY_STR = "KANGEQIU@8868!~.";
 const IV_STR = "0200010900030207";
 
-// Static sports channels that broadcast NBA in China. Sources: public
-// M3U lists (fanmingming/live itv.m3u, iptv-org). These endpoints answer,
-// but their CDNs reject datacenter IPs, so playback could NOT be verified
-// from the build environment — they are expected to work on home broadband.
+// Static sports channels. The six Chinese channels added 2026-11-15
+// (五星体育, 劲爆体育, NewTV精品/超级体育, iHOT爱体育, CCTV-5+) were all
+// confirmed dead by the user the same day (their CDNs reject playback);
+// they were removed. Only channels verified playable from the build
+// environment are listed here.
 const CHANNELS = [
   {
-    name: "五星体育",
-    logo: "https://live.fanmingming.com/tv/五星体育.png",
-    url: "http://gslbserv.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3",
-  },
-  {
-    name: "劲爆体育",
-    logo: "https://live.fanmingming.com/tv/劲爆体育.png",
-    url: "http://gslbserv.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3",
-  },
-  {
-    name: "NewTV精品体育",
-    logo: "https://live.fanmingming.com/tv/NEWTV精品体育.png",
-    url: "http://gslbserv.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3",
-  },
-  {
-    name: "NewTV超级体育",
-    logo: "https://live.fanmingming.com/tv/NEWTV超级体育.png",
-    url: "http://gslbserv.itv.cmvideo.cn/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3",
-  },
-  {
-    name: "iHOT爱体育",
-    logo: "https://live.fanmingming.com/tv/IHOT爱体育.png",
-    url: "http://gslbserv.itv.cmvideo.cn/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3",
-  },
-  {
-    name: "CCTV-5+ 体育赛事",
-    logo: "https://i.imgur.com/OK8mdJV.png",
-    url: "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
+    name: "ESPN 2 (美国)",
+    logo: "https://i.imgur.com/00tsvjE.png",
+    url: "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
   },
 ];
 
