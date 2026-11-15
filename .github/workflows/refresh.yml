@@ -1,0 +1,25 @@
+# schedule intentionally omitted: the workflow is dispatched every 5 minutes
+# by an external trigger (systemd timer via the GitHub API). Keeping the
+# built-in schedule cron caused races with the external dispatcher — both
+# runs pushed at the same time and one failed with "fetch first"
+# (seen 2026-11-15 04:57 on wudaliansai-live).
+name: Refresh playlist
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node fetch.mjs
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add live.m3u
+          git diff --cached --quiet || git commit -m "refresh live.m3u"
+          git push
