@@ -1,31 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="香川五箭 vs 东京八王子市火车|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/42c4e7101dbccc08f3ae423748e72714.png" group-title="篮球",香川五箭 vs 东京八王子市火车|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="岛根魔术 vs 宇都宫皇者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/eeefbdedda12dba4c46c4ab4ecbcbc4b.png" group-title="篮球",岛根魔术 vs 宇都宫皇者|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="富士通红浪女篮 vs 丰田阳光女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a6bbbf90cd934f978e053c5fd369ef84.png" group-title="篮球",富士通红浪女篮 vs 丰田阳光女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="高阳索诺天枪 vs 原州东浦新世代|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4a5ba2f4b39c4cb6db259ed9fb916da1.png" group-title="篮球",高阳索诺天枪 vs 原州东浦新世代|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="金泽武士团 vs 横滨卓越|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9d65f9ee3fc6ae51a0ef4149c6b72c8f.png" group-title="篮球",金泽武士团 vs 横滨卓越|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934176.m3u8?auth_key=1794726596-0-0-78e34b0271b0a43be48de79f71e3e462
-#EXTINF:-1 tvg-name="岩手大公牛 vs 山形飞龙|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcb478f91fa9177647848bc08ccc209c.png" group-title="篮球",岩手大公牛 vs 山形飞龙|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934326.m3u8?auth_key=1794726596-0-0-cfaf0ceb90d22a8746035ed90387f593
-#EXTINF:-1 tvg-name="北海道风神 vs 佐贺气球人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/91dbdd6543d4ba046a7e386f6d4726f1.png" group-title="篮球",北海道风神 vs 佐贺气球人|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934607.m3u8?auth_key=1794726596-0-0-31608a0b3feaef4b4446d09b2e48cf85
-#EXTINF:-1 tvg-name="秋田北部喜悦 vs 大阪七福神|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/518fcabe90dafc4100d80de02554a004.png" group-title="篮球",秋田北部喜悦 vs 大阪七福神|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934756.m3u8?auth_key=1794726596-0-0-ee1a58300a303809aa06bde5c1e97b66
+#EXTINF:-1 tvg-name="金泽武士团 vs 横滨卓越|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9d65f9ee3fc6ae51a0ef4149c6b72c8f.png" group-title="篮球",金泽武士团 vs 横滨卓越|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="岩手大公牛 vs 山形飞龙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcb478f91fa9177647848bc08ccc209c.png" group-title="篮球",岩手大公牛 vs 山形飞龙|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="北海道风神 vs 佐贺气球人|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/91dbdd6543d4ba046a7e386f6d4726f1.png" group-title="篮球",北海道风神 vs 佐贺气球人|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="秋田北部喜悦 vs 大阪七福神|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/518fcabe90dafc4100d80de02554a004.png" group-title="篮球",秋田北部喜悦 vs 大阪七福神|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="立川骰子 vs 东京地球之友|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35304b4487874d6acf7bfe72fa73966b.png" group-title="篮球",立川骰子 vs 东京地球之友|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="冈山三环 vs 静冈顶点|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/29f80ba7947910cdcebb747a145ec440.png" group-title="篮球",冈山三环 vs 静冈顶点|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3935248.m3u8?auth_key=1794726596-0-0-00571abdfeb6ff64f9f79217f2e3b5fb
+#EXTINF:-1 tvg-name="冈山三环 vs 静冈顶点|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/29f80ba7947910cdcebb747a145ec440.png" group-title="篮球",冈山三环 vs 静冈顶点|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="越谷阿尔法 vs 福岛火绊|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f41f13f4060b6acecd0ad5b4ff04886b.png" group-title="篮球",越谷阿尔法 vs 福岛火绊|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3935547.m3u8?auth_key=1794726596-0-0-a4ee84db7ee6ea8e4620c92d8e799626
+https://pullgz721.qmuiw.com/live/sd-2-3935547.m3u8?auth_key=1794727592-0-0-2bd0b4c6049dd07d2434ee486de2a1bc
+#EXTINF:-1 tvg-name="布里斯班子弹 vs 塔斯马尼亚跳伞蚁|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png" group-title="篮球",布里斯班子弹 vs 塔斯马尼亚跳伞蚁|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3925957.m3u8?auth_key=1794727592-0-0-a2cd226d9e841c4d9ec32a46d01ff724
 #EXTINF:-1 tvg-name="新潟天鹅 vs 岐阜猛扑|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/df12f3ae37595a207de0e0ad55e4c0d1.png" group-title="篮球",新潟天鹅 vs 岐阜猛扑|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3935099.m3u8?auth_key=1794726596-0-0-cbfe506484ae2a9184a3fb9d836c7bdd
+https://pullgz721.qmuiw.com/live/sd-2-3935099.m3u8?auth_key=1794727592-0-0-e6ac161313555906eaf13e2d24fe44ba
 #EXTINF:-1 tvg-name="德拉萨大学绿色弓箭手 vs ADU猎鹰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/16fec5097306406fae0ec071105833f1.png" group-title="篮球",德拉萨大学绿色弓箭手 vs ADU猎鹰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957867.m3u8?auth_key=1794726596-0-0-f75b71351b73be49b1ec8afe5e45dae7
+https://pullgz721.qmuiw.com/live/sd-2-3957867.m3u8?auth_key=1794727592-0-0-6874cd62d35f2fee393931000dfeaf2c
+#EXTINF:-1 tvg-name="台啤永丰云豹 vs 新北国王|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dc026ad9211e3f42bdc552d24dfd8342.png" group-title="篮球",台啤永丰云豹 vs 新北国王|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3940430.m3u8?auth_key=1794727592-0-0-d3938dadf32c41a90f922a8ba6109fa4
+#EXTINF:-1 tvg-name="名古屋战鹰 vs 爱媛维京人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5fd4c2782c645694211128efa12ce7cf.png" group-title="篮球",名古屋战鹰 vs 爱媛维京人|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3934949.m3u8?auth_key=1794727592-0-0-952164c358d5ccfea97879d2107cd2e9
+#EXTINF:-1 tvg-name="河内DM公牛 vs 万塔黑龙|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/24af5403649edfcd80ac9c89e4767bcb.png" group-title="篮球",河内DM公牛 vs 万塔黑龙|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3960262.m3u8?auth_key=1794727592-0-0-871d2009378dd93ac90b64c43c6a1a9c
+#EXTINF:-1 tvg-name="龙仁三星女篮 vs BNK釜山萨姆女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f32dc2e6652e5866f55f47e4d9318bf1.png" group-title="篮球",龙仁三星女篮 vs BNK釜山萨姆女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3946152.m3u8?auth_key=1794727592-0-0-3ea4975380e5b2147b2e18a9e3bd441b
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
