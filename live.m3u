@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="新西伯利亚 vs 阿尔泰巴尔瑙尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/71896f12baaa05074a484c43931ef7c6.png" group-title="篮球",新西伯利亚 vs 阿尔泰巴尔瑙尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939699.m3u8?auth_key=1794744172-0-0-0939f5b44ccd765d53489aabf4ca4153
 #EXTINF:-1 tvg-name="东京羽田酷猫女篮 vs 山梨县蜂王女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7be43a07bf4cf8d560e67639138d828a.png" group-title="篮球",东京羽田酷猫女篮 vs 山梨县蜂王女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
