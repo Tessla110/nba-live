@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="上海浦发银行女篮 vs 河南豫光金铅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c35932bb9740f4d95a0832975f722be5.png" group-title="篮球",上海浦发银行女篮 vs 河南豫光金铅女篮|完场
+#EXTINF:-1 tvg-name="富阳 vs 宁波|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/344d896ca97b766d0e02469f78964072.png" group-title="篮球",富阳 vs 宁波|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="富阳 vs 宁波|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/344d896ca97b766d0e02469f78964072.png" group-title="篮球",富阳 vs 宁波|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938990.m3u8?auth_key=1794750076-0-0-6e8907dcdc453ae90c18ab7f4b00f4fc
 #EXTINF:-1 tvg-name="云和 vs 义乌|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e5f75fbd82e93506fb9cd87867a3bf08.png" group-title="篮球",云和 vs 义乌|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瓦斯科达伽马U23 vs 格达斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74af422c829232898cc4dfadb3065c61.png" group-title="篮球",瓦斯科达伽马U23 vs 格达斯|完场
