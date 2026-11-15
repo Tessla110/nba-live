@@ -1,11 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="卡塔亚篮球 vs 突袭者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3b6292151913497cabd3077852499b37.png" group-title="篮球",卡塔亚篮球 vs 突袭者|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CD坎皮尼奥 vs 科英布拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5abed54d61d6cb81fd25f33407b951f8.png" group-title="篮球",CD坎皮尼奥 vs 科英布拉|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克瓦内尔 vs 奥卡尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7784ad860b2bc0bfc7cb060139ae9a9.png" group-title="篮球",克瓦内尔 vs 奥卡尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3935830.m3u8?auth_key=1794748381-0-0-8d4a9ae90273d6dec23b450aafe6d2bd
+https://pullgz721.qmuiw.com/live/sd-2-3935830.m3u8?auth_key=1794748721-0-0-fcadd1f89deca4b88dc41895a5935e78
+#EXTINF:-1 tvg-name="TVDE协会 vs 葡萄牙竞技B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/af0743232eb13c7b2a7c3ea3be182962.png" group-title="篮球",TVDE协会 vs 葡萄牙竞技B队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马拉加 vs 吉罗纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80430f985036f02f596f67a22d95f7c9.png" group-title="篮球",马拉加 vs 吉罗纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3932877.m3u8?auth_key=1794748381-0-0-1875e41f31277f0993032bc4883864dc
+https://pullgz721.qmuiw.com/live/sd-2-3932877.m3u8?auth_key=1794748721-0-0-9c6ed11b71f8800dceb453ef416b972a
+#EXTINF:-1 tvg-name="武汉盛帆黄鹤女篮 vs 大连文体旅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c654d3c56f74e62af5ceb3c9fb7451de.png" group-title="篮球",武汉盛帆黄鹤女篮 vs 大连文体旅女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="山东赤水河酒女篮 vs 新疆天山女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a5dd1e3f6bffdc47b90bea563134aa2.png" group-title="篮球",山东赤水河酒女篮 vs 新疆天山女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3958885.m3u8?auth_key=1794748721-0-0-12e2fcdab88107dc3d48ba1daff05f7e
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
