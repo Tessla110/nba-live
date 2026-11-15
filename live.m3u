@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奈良雄心 vs 青森热力|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a41b7bd9bf7e51d0b0c1155e8c7f9a8a.png" group-title="篮球",奈良雄心 vs 青森热力|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="澳门黑骑士 vs 广州龙狮B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8acff09c5ad2b1791364cb2c4df1627f.png" group-title="篮球",澳门黑骑士 vs 广州龙狮B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪拜 vs 苏博斯巴达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7ceee3b48fa0f0bcf1a705348539cbb.png" group-title="篮球",迪拜 vs 苏博斯巴达|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ADMU蓝鹰 vs UST咆哮虎|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a5a85ebe8fca4abdb0d757ed08f494ad.png" group-title="篮球",ADMU蓝鹰 vs UST咆哮虎|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957946.m3u8?auth_key=1794739970-0-0-cd728c3058e36574927939ad38e1dab3
+https://pullgz721.qmuiw.com/live/sd-2-3957946.m3u8?auth_key=1794740225-0-0-19fda3feb9c78335ec3e08a4a6e47a3c
 #EXTINF:-1 tvg-name="新北中信特攻 vs 台北台新战神|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/05160cc9c217d7bc9677133fb04cd8fc.png" group-title="篮球",新北中信特攻 vs 台北台新战神|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3940448.m3u8?auth_key=1794739970-0-0-da0c665e9e409bcf352854ca0bc139d1
+https://pullgz721.qmuiw.com/live/sd-2-3940448.m3u8?auth_key=1794740225-0-0-69c57110f47357a7fb3e1463e5976cf7
 #EXTINF:-1 tvg-name="富邦勇士 vs 桃园领航猿|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f320afb71a9a48c49ead69a2160a92e4.png" group-title="篮球",富邦勇士 vs 桃园领航猿|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960164.m3u8?auth_key=1794739970-0-0-2bfe5c4bd0b8f0c5598e819871fed289
+https://pullgz721.qmuiw.com/live/sd-2-3960164.m3u8?auth_key=1794740225-0-0-8fe9fa0c019d5f7fd224764c3706002a
 #EXTINF:-1 tvg-name="卡克拉萨克蒂BC U21 vs BBM CLS 骑士U21|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b564e4fdced8f666c3b54ceb73ba8742.png" group-title="篮球",卡克拉萨克蒂BC U21 vs BBM CLS 骑士U21|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960265.m3u8?auth_key=1794739970-0-0-22c04b14fc635f1b3ae3f804728e608e
+https://pullgz721.qmuiw.com/live/sd-2-3960265.m3u8?auth_key=1794740225-0-0-33716100ee109b6a158b14ec3e2cc3b8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
