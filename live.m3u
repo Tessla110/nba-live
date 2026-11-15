@@ -9,11 +9,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="那不勒斯 vs 泰利斯特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e31a96ecaca7412cf84102dcfe9802bb.png" group-title="篮球",那不勒斯 vs 泰利斯特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="鲁沃迪普利亚 vs 都灵|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0a64a5318692a73706e7877432a89328.png" group-title="篮球",鲁沃迪普利亚 vs 都灵|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="星光纳沙尔 vs 德皮罗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a9c80c658fd263304b0afbff72164b00.png" group-title="篮球",星光纳沙尔 vs 德皮罗|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="韦尔斯飞人 vs 上瓦特枪手|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80cdcd72f20f4345a57588cbf4679baf.png" group-title="篮球",韦尔斯飞人 vs 上瓦特枪手|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929307.m3u8?auth_key=1794765724-0-0-770653467b9e18bd8511c5e0d5b13179
+https://pullgz721.qmuiw.com/live/sd-2-3929307.m3u8?auth_key=1794766045-0-0-73c86620775705f3acb2c1856d645348
 #EXTINF:-1 tvg-name="克洛斯 vs 库弗斯泰因|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/22cfb637d322b5ba5d3cb34b1a64eb84.png" group-title="篮球",克洛斯 vs 库弗斯泰因|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929453.m3u8?auth_key=1794765724-0-0-fddfe6b743c2e1d65b516a3ba926ba4c
+https://pullgz721.qmuiw.com/live/sd-2-3929453.m3u8?auth_key=1794766045-0-0-2a757ccbb0d1cf3322478902bcce725d
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
