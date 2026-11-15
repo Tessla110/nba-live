@@ -4,6 +4,9 @@
 # runs pushed at the same time and one failed with "fetch first"
 # (seen 2026-11-15 04:57 on wudaliansai-live).
 name: Refresh playlist
+concurrency:
+  group: refresh-playlist
+  cancel-in-progress: true  
 on:
   workflow_dispatch:
 permissions:
