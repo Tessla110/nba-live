@@ -9,9 +9,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="GDB加格兰迪亚 vs CAA萨莱西|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8930cce79ae141c9a00cf82ea971fe9c.png" group-title="篮球",GDB加格兰迪亚 vs CAA萨莱西|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="马里兰州巴尔的摩女篮 vs 陶森大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7e42c877862c3b6ec1be2c0766d4878a.png" group-title="篮球",马里兰州巴尔的摩女篮 vs 陶森大学女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西雅图大学 vs 爱达荷州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/da61c47ee62997dbf0b7c3f4555c5a7a.png" group-title="篮球",西雅图大学 vs 爱达荷州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949300.m3u8?auth_key=1794782454-0-0-fbfeb456f83eaed3afbef29284d9e356
+https://pullgz721.qmuiw.com/live/sd-2-3949300.m3u8?auth_key=1794782797-0-0-d2845fb01e98e717c0b092edb1d616a6
 #EXTINF:-1 tvg-name="詹姆斯麦迪逊大学 vs 默西赫斯特大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a4862010cc7bdcb92aa272a4ba71d33.png" group-title="篮球",詹姆斯麦迪逊大学 vs 默西赫斯特大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949329.m3u8?auth_key=1794782454-0-0-3b24a6527b42400e5160988fc34f586b
+https://pullgz721.qmuiw.com/live/sd-2-3949329.m3u8?auth_key=1794782797-0-0-e2001d92446ead2116826a7c3a0b9f1e
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
