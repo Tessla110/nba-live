@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布里斯班子弹 vs 塔斯马尼亚跳伞蚁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png" group-title="篮球",布里斯班子弹 vs 塔斯马尼亚跳伞蚁|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="新潟天鹅 vs 岐阜猛扑|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/df12f3ae37595a207de0e0ad55e4c0d1.png" group-title="篮球",新潟天鹅 vs 岐阜猛扑|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德拉萨大学绿色弓箭手 vs ADU猎鹰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/16fec5097306406fae0ec071105833f1.png" group-title="篮球",德拉萨大学绿色弓箭手 vs ADU猎鹰|完场
@@ -18,8 +16,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="龙仁三星女篮 vs BNK釜山萨姆女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f32dc2e6652e5866f55f47e4d9318bf1.png" group-title="篮球",龙仁三星女篮 vs BNK釜山萨姆女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="昌原LG猎隼 vs 水原KT音速弹|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b3a61f88692a8a3836f3b93ba65b98da.png" group-title="篮球",昌原LG猎隼 vs 水原KT音速弹|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933693.m3u8?auth_key=1794733652-0-0-dc3aa5ebf34ce0409a66ec443b0f9fbf
+https://pullgz721.qmuiw.com/live/sd-2-3933693.m3u8?auth_key=1794733973-0-0-ea805baae991161764394d34560c1165
 #EXTINF:-1 tvg-name="釜山宙斯盾 vs 大邱石油公社飞马|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0add24fc964de3ea25e83417aa301f81.png" group-title="篮球",釜山宙斯盾 vs 大邱石油公社飞马|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933755.m3u8?auth_key=1794733652-0-0-e5a786ee2cde626c91f36e7b4e73ffbd
+https://pullgz721.qmuiw.com/live/sd-2-3933755.m3u8?auth_key=1794733973-0-0-3cf4da4a927043bfbfedf586b4cf2611
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
