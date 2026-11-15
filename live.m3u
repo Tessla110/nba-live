@@ -2,8 +2,10 @@
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="梅加第比利斯 vs 黑色堡垒|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7ff394d019bd457dbcee657135585679.png" group-title="篮球",梅加第比利斯 vs 黑色堡垒|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960167.m3u8?auth_key=1794751400-0-0-e0ca479e78028ff59dbd84c895709e96
+https://pullgz721.qmuiw.com/live/sd-2-3960167.m3u8?auth_key=1794751722-0-0-93e1e10fd35f125af8448b6554d416f9
+#EXTINF:-1 tvg-name="卢克索 vs 阿尔塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/48e38430d0c02913445011ee50122974.png" group-title="篮球",卢克索 vs 阿尔塔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="代尼兹利 vs 卡伊罗瓦市|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fcd60342b8e79c5b8babc306f3a7337.png" group-title="篮球",代尼兹利 vs 卡伊罗瓦市|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929822.m3u8?auth_key=1794751400-0-0-994d035b22497a1641bb998b59a4eacb
+https://pullgz721.qmuiw.com/live/sd-2-3929822.m3u8?auth_key=1794751722-0-0-d41e7faf3bde37e1db5d2065d5fe87ba
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
