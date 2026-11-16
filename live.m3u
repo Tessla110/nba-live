@@ -1,21 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨马拉女篮 vs 新西伯利亚迪纳摩女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38134086682da4fa4f4c4aac84d0e049.png" group-title="篮球",萨马拉女篮 vs 新西伯利亚迪纳摩女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莱莫恩大学女篮 vs 佛罗里达迈阿密大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a68be4493beadf3714bda0b9c62a443e.png" group-title="篮球",莱莫恩大学女篮 vs 佛罗里达迈阿密大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="摩海德州立大学 vs 迈阿密大学汉密尔顿分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n0f7a7aeb7f63f8daafe49c53d6b5147a.png" group-title="篮球",摩海德州立大学 vs 迈阿密大学汉密尔顿分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乔治华盛顿大学 vs 费罗姆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e01e288db3d7c7656e925fbdc69b024.png" group-title="篮球",乔治华盛顿大学 vs 费罗姆|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3956773.m3u8?auth_key=1794854786-0-0-ea8f027fbbb9ea727b878a15a4defb13
-#EXTINF:-1 tvg-name="北阿拉巴马 vs 费斯克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n3ccba68566326336d62ff5ae4d113188.png" group-title="篮球",北阿拉巴马 vs 费斯克|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3956825.m3u8?auth_key=1794854786-0-0-3b7c08a5383f3e215779754f44f642f1
+https://pullgz721.qmuiw.com/live/sd-2-3956773.m3u8?auth_key=1794855094-0-0-da8c27209167fa3270c0a1c406924ad2
+#EXTINF:-1 tvg-name="北阿拉巴马 vs 费斯克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n3ccba68566326336d62ff5ae4d113188.png" group-title="篮球",北阿拉巴马 vs 费斯克|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斯洛基 vs 戈拉兹德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf954e071f588f928a0580d82e28604.png" group-title="篮球",斯洛基 vs 戈拉兹德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="拉巴特体育联 vs KAC马拉喀什|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a1580dab2684e448391b897d2d94ad0.png" group-title="篮球",拉巴特体育联 vs KAC马拉喀什|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布拉卡 vs 国际布拉蒂斯拉瓦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9cf7850b0ea2916c4020064716be46f6.png" group-title="篮球",布拉卡 vs 国际布拉蒂斯拉瓦|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942762.m3u8?auth_key=1794854786-0-0-2eb17d47cc5b8c12373262f0bdad547d
+https://pullgz721.qmuiw.com/live/sd-2-3942762.m3u8?auth_key=1794855094-0-0-0e913fb8ebbb4c561e0c3a0bd712f668
 #EXTINF:-1 tvg-name="加利尔夏普尔 vs 艾罗尼埃拉特|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ff029c2e17dfcbe2b6f4514a8dab5e6.png" group-title="篮球",加利尔夏普尔 vs 艾罗尼埃拉特|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938063.m3u8?auth_key=1794854786-0-0-99fede2cc08f39e38e88b625a0e144cb
+https://pullgz721.qmuiw.com/live/sd-2-3938063.m3u8?auth_key=1794855094-0-0-2e037295e1fcf33d9ab2f00432974959
+#EXTINF:-1 tvg-name="恩尼加斯扎尼 vs 达布罗瓦戈尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/658b633bcd22d5dc7e3df00eadcc02fb.png" group-title="篮球",恩尼加斯扎尼 vs 达布罗瓦戈尼|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3927523.m3u8?auth_key=1794855094-0-0-b675c46d478adb685fc24f0b5584b820
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
