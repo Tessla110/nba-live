@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣何塞州立大学 vs 阿拉巴马州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/13104e3af18e1bd643768ab356a2a5c0.png" group-title="篮球",圣何塞州立大学 vs 阿拉巴马州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="国王 vs 雷霆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="NBA",国王 vs 雷霆|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨尔瓦多骑士 vs SQMP|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8dee11a367e4d6e022bdbfd64bbb1ca1.png" group-title="篮球",萨尔瓦多骑士 vs SQMP|完场
@@ -10,7 +8,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕拉尔米拿罗斯 vs 阿瓜斯卡连特斯公鸡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80a1520cb56fc2adeb8c501d143a41f8.png" group-title="篮球",帕拉尔米拿罗斯 vs 阿瓜斯卡连特斯公鸡|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣贝达红狮 vs UPHSD阿尔塔斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c927fdb4f201b8973d4a0995f62b0ae2.png" group-title="篮球",圣贝达红狮 vs UPHSD阿尔塔斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960407.m3u8?auth_key=1794817629-0-0-b481a9e869c0f5c47d92c48464f8afa7
+https://pullgz721.qmuiw.com/live/sd-2-3960407.m3u8?auth_key=1794818445-0-0-35e066f5c05d38bb6f6b09a5f5aa2a69
+#EXTINF:-1 tvg-name="MVP篮球U21 vs 宾内卡梭罗U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e040beca5858a3ce41a9ad2d840c47eb.png" group-title="篮球",MVP篮球U21 vs 宾内卡梭罗U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="JRU重型轰炸机 vs 阿雷利亚诺大学酋长|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d07c02ab99c2b6cb790cf8d265fedc9.png" group-title="篮球",JRU重型轰炸机 vs 阿雷利亚诺大学酋长|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/41e7b23bec26d7f427a56c9dacaae78a.png" group-title="篮球",永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛
