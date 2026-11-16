@@ -1,17 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="霍隆夏普尔 vs 哈普尔哈埃梅克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80dee56076750cdb3a40d8bf80ec2af2.png" group-title="篮球",霍隆夏普尔 vs 哈普尔哈埃梅克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="里雄莱锡安马卡比 vs 比尔舒华夏普尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b69cf5dc17384931a9671e7112fea134.png" group-title="篮球",里雄莱锡安马卡比 vs 比尔舒华夏普尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科隆莱茵之星 vs 科布伦茨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0fadb00af1d067f95d20b5798e04b3ee.png" group-title="篮球",科隆莱茵之星 vs 科布伦茨|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="SC德尔比 vs 维也纳篮球会|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c95c18b3a4ec5144964ef52e438bd0a0.png" group-title="篮球",SC德尔比 vs 维也纳篮球会|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="首都前进 vs 猛龙905|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4c0a9a51e1ba674ef313ee6f765e26bd.png" group-title="NBA",首都前进 vs 猛龙905|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="得州大学埃尔帕索分校 vs 佛罗里达农工大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f20096d34066fc0c483ee5d2f86867f.png" group-title="篮球",得州大学埃尔帕索分校 vs 佛罗里达农工大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维拉斯PV vs 克罗诺斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcb5aaac316808c05556f86f0e3d67e0.png" group-title="篮球",维拉斯PV vs 克罗诺斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="拉玛尔女篮 vs 德克萨斯农工康莫斯女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n4552e379f3055cfbec52b74f94d5ef5e.png" group-title="篮球",拉玛尔女篮 vs 德克萨斯农工康莫斯女篮|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="墨西哥城队长 vs 奥西奥拉魔术|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c0e3d0b119a9407ea25ab7d3cbd49b90.png" group-title="NBA",墨西哥城队长 vs 奥西奥拉魔术|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="乌伦代大学 vs 阿雷迪卡|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/981fb7a07642678679c4c56163afece2.png" group-title="篮球",乌伦代大学 vs 阿雷迪卡|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
