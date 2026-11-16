@@ -1,27 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="斯洛基 vs 戈拉兹德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf954e071f588f928a0580d82e28604.png" group-title="篮球",斯洛基 vs 戈拉兹德|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="拉巴特体育联 vs KAC马拉喀什|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a1580dab2684e448391b897d2d94ad0.png" group-title="篮球",拉巴特体育联 vs KAC马拉喀什|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布拉卡 vs 国际布拉蒂斯拉瓦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9cf7850b0ea2916c4020064716be46f6.png" group-title="篮球",布拉卡 vs 国际布拉蒂斯拉瓦|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莱克敦中队 vs 俄克拉荷马城蓝色|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b8306ab513744ac098282f0f60878053.png" group-title="NBA",莱克敦中队 vs 俄克拉荷马城蓝色|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克拉夫诺斯 vs 普罗蒂斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1f5e39ac819e41b59efe819708be8621.png" group-title="篮球",克拉夫诺斯 vs 普罗蒂斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加利尔夏普尔 vs 艾罗尼埃拉特|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ff029c2e17dfcbe2b6f4514a8dab5e6.png" group-title="篮球",加利尔夏普尔 vs 艾罗尼埃拉特|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938063.m3u8?auth_key=1794859486-0-0-e82c2820f343b484ef8266aceaeb001f
+#EXTINF:-1 tvg-name="加利尔夏普尔 vs 艾罗尼埃拉特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ff029c2e17dfcbe2b6f4514a8dab5e6.png" group-title="篮球",加利尔夏普尔 vs 艾罗尼埃拉特|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="恩尼加斯扎尼 vs 达布罗瓦戈尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/658b633bcd22d5dc7e3df00eadcc02fb.png" group-title="篮球",恩尼加斯扎尼 vs 达布罗瓦戈尼|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="霍隆夏普尔 vs 哈普尔哈埃梅克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80dee56076750cdb3a40d8bf80ec2af2.png" group-title="篮球",霍隆夏普尔 vs 哈普尔哈埃梅克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="里雄莱锡安马卡比 vs 比尔舒华夏普尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b69cf5dc17384931a9671e7112fea134.png" group-title="篮球",里雄莱锡安马卡比 vs 比尔舒华夏普尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938724.m3u8?auth_key=1794859486-0-0-b29e8559d28433fdda4ee7af5a182890
+#EXTINF:-1 tvg-name="里雄莱锡安马卡比 vs 比尔舒华夏普尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b69cf5dc17384931a9671e7112fea134.png" group-title="篮球",里雄莱锡安马卡比 vs 比尔舒华夏普尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科隆莱茵之星 vs 科布伦茨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0fadb00af1d067f95d20b5798e04b3ee.png" group-title="篮球",科隆莱茵之星 vs 科布伦茨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938671.m3u8?auth_key=1794859486-0-0-41f9cb37a7e272df65e44d707d825698
+https://pullgz721.qmuiw.com/live/sd-2-3938671.m3u8?auth_key=1794859834-0-0-068bc3ca928a1c3ae0a16d4d15405149
 #EXTINF:-1 tvg-name="SC德尔比 vs 维也纳篮球会|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c95c18b3a4ec5144964ef52e438bd0a0.png" group-title="篮球",SC德尔比 vs 维也纳篮球会|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942784.m3u8?auth_key=1794859486-0-0-b01740b03450fc694beb2828911c8677
+https://pullgz721.qmuiw.com/live/sd-2-3942784.m3u8?auth_key=1794859834-0-0-95e1b58607ae7f092af9376c3d2d8e6f
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
