@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东京电击 vs 神户鹳鸟|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89b38d35baabff51bf0bee892f9df289.png" group-title="篮球",东京电击 vs 神户鹳鸟|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="横滨海盗 vs 川崎雷霆勇者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0a84ca1946994fa91f8c159bf040b54f.png" group-title="篮球",横滨海盗 vs 川崎雷霆勇者|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="广岛蜻蜓 vs 千叶阿尔提里|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/24080d2818e83e2d82c7a72f02db0ace.png" group-title="篮球",广岛蜻蜓 vs 千叶阿尔提里|完场
@@ -13,11 +11,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="千叶喷射机 vs 三远新凤凰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/78966bd85f23715c200e909acd4f2780.png" group-title="篮球",千叶喷射机 vs 三远新凤凰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="琉球黄金帝王 vs 富山松鸡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2f50bb1376a9bac9e8f23f0d0a0cfc6b.png" group-title="篮球",琉球黄金帝王 vs 富山松鸡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934282.m3u8?auth_key=1794834720-0-0-0649f3cdcefe4f586a6c11ae8e043721
+#EXTINF:-1 tvg-name="琉球黄金帝王 vs 富山松鸡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2f50bb1376a9bac9e8f23f0d0a0cfc6b.png" group-title="篮球",琉球黄金帝王 vs 富山松鸡|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 合肥文旅女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 合肥文旅女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958887.m3u8?auth_key=1794834720-0-0-219b89dbf6c903fb430a38d43be8a7ec
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958887.m3u8?auth_key=1794835071-0-0-68b7eb39b74f8fc9db6b69beb94cd7e7
 #EXTINF:-1 tvg-name="江苏南钢女篮 vs 石家庄英励女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/31cb7287295a89750e0489d65325d7e4.png" group-title="篮球",江苏南钢女篮 vs 石家庄英励女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958888.m3u8?auth_key=1794834720-0-0-f107468b83628b7aa42de9b69d0c17bc
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958888.m3u8?auth_key=1794835071-0-0-a8583d5476327a683727b53b06e985d4
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
