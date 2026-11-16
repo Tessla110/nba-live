@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="莱克敦中队 vs 俄克拉荷马城蓝色|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b8306ab513744ac098282f0f60878053.png" group-title="NBA",莱克敦中队 vs 俄克拉荷马城蓝色|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克拉夫诺斯 vs 普罗蒂斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1f5e39ac819e41b59efe819708be8621.png" group-title="篮球",克拉夫诺斯 vs 普罗蒂斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加利尔夏普尔 vs 艾罗尼埃拉特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ff029c2e17dfcbe2b6f4514a8dab5e6.png" group-title="篮球",加利尔夏普尔 vs 艾罗尼埃拉特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="图鲁斯 vs 拉波特尼奇|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n469f3d42753806d3831e10e51a321b29.png" group-title="篮球",图鲁斯 vs 拉波特尼奇|完场
@@ -18,6 +14,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科隆莱茵之星 vs 科布伦茨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0fadb00af1d067f95d20b5798e04b3ee.png" group-title="篮球",科隆莱茵之星 vs 科布伦茨|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="SC德尔比 vs 维也纳篮球会|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c95c18b3a4ec5144964ef52e438bd0a0.png" group-title="篮球",SC德尔比 vs 维也纳篮球会|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942784.m3u8?auth_key=1794860495-0-0-8f8adc59698217ef16ed792180c39e8b
+https://pullgz721.qmuiw.com/live/sd-2-3942784.m3u8?auth_key=1794860794-0-0-73db91820c46d42cdd5b176f9951d4a3
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
