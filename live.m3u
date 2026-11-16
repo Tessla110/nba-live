@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="汽车城邮轮 vs 诺布尔斯维尔爆炸|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fc13ae4523cc94e1b89422275851ea34.png" group-title="NBA",汽车城邮轮 vs 诺布尔斯维尔爆炸|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣约翰大学 vs 雪城大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6ba150d23eafa770a339b557d087acd.png" group-title="篮球",圣约翰大学 vs 雪城大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奇才 vs 火箭|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac18ecfecac3af349477383866cf8ef5.png" group-title="NBA",奇才 vs 火箭|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="洛约拉马利蒙特女篮 vs 夏威夷大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f204193b65af72447336d8da819e553.png" group-title="篮球",洛约拉马利蒙特女篮 vs 夏威夷大学女篮|完场
@@ -42,6 +38,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="JRU重型轰炸机 vs 阿雷利亚诺大学酋长|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d07c02ab99c2b6cb790cf8d265fedc9.png" group-title="篮球",JRU重型轰炸机 vs 阿雷利亚诺大学酋长|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/41e7b23bec26d7f427a56c9dacaae78a.png" group-title="篮球",永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="升级U22 vs 伊韦廖尼U22|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/54f6391ddecc4d70978b09faa462537b.png" group-title="篮球",升级U22 vs 伊韦廖尼U22|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="富川KEB女篮 vs 友利银行女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ec7668c871d5b6749b1e2632dce5d1d5.png" group-title="篮球",富川KEB女篮 vs 友利银行女篮|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
