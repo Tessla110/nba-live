@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="俄勒冈州立大学 vs 东德克萨斯农工大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/58d784132399bfa7a2592f3226c8b5ac.png" group-title="篮球",俄勒冈州立大学 vs 东德克萨斯农工大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加州圣玛丽大学 vs 波特兰州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f23c2d4ed0305800353a8799c2a4830.png" group-title="篮球",加州圣玛丽大学 vs 波特兰州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学圣地亚哥分校 vs 得克萨斯南方大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/70f29e59dd2e4397b7dd19c6e36622af.png" group-title="篮球",加州大学圣地亚哥分校 vs 得克萨斯南方大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="丹佛大学 vs 科罗拉多大学斯普林司分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac9ac334d5702ff218024418ba6bd1a7.png" group-title="篮球",丹佛大学 vs 科罗拉多大学斯普林司分校|完场
@@ -20,6 +16,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿德莱德闪电女篮 vs 吉朗毒液女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d08a111d5ed37a380093202fd5a277ff.png" group-title="篮球",阿德莱德闪电女篮 vs 吉朗毒液女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="EAC将军 vs CSB开拓者|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0594676a76dc417a8a94ecb81fc1e593.png" group-title="篮球",EAC将军 vs CSB开拓者|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960413.m3u8?auth_key=1794909792-0-0-1474f62c81cd756184ab48b1c51cac4a
+https://pullgz721.qmuiw.com/live/sd-2-3960413.m3u8?auth_key=1794910131-0-0-d5aa66d2ce7f482865c4dbe5d11f6d22
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
