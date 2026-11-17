@@ -12,10 +12,20 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣荷塞 vs 摩日达斯克鲁济斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f8ab1cca77a4214895224deba4560fb.png" group-title="篮球",圣荷塞 vs 摩日达斯克鲁济斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克鲁塞罗 vs 福塔雷萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/69fc9596a6d89c251ae27b3d853996eb.png" group-title="篮球",克鲁塞罗 vs 福塔雷萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794874802-0-0-a4e50d4428e9fde0e4c6755f26977380
+https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794875128-0-0-793eff463f8235da9adbf625220aa095
 #EXTINF:-1 tvg-name="马里兰大学 vs 艾尔康州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n59d683c499917317cbc0b7589beda32a.png" group-title="篮球",马里兰大学 vs 艾尔康州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949347.m3u8?auth_key=1794874802-0-0-87864df77687b871f4c1aed38cc26e16
+https://pullgz721.qmuiw.com/live/sd-2-3949347.m3u8?auth_key=1794875128-0-0-6f594b900baa9d37cb4cc5da06bd0192
 #EXTINF:-1 tvg-name="马里兰巴尔的摩分校 vs 艾奥纳学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/686608095ea2b59204277c37c88745f5.png" group-title="篮球",马里兰巴尔的摩分校 vs 艾奥纳学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949357.m3u8?auth_key=1794874802-0-0-6b9ab03f98253e064d28311918191cb8
+https://pullgz721.qmuiw.com/live/sd-2-3949357.m3u8?auth_key=1794875128-0-0-a8e2ab17995d67e0744bb6ae0b874862
+#EXTINF:-1 tvg-name="俄亥俄州立大学 vs 普雷里维尤农工大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2fcadd7cf8b59d61079b6f45dfa99280.png" group-title="篮球",俄亥俄州立大学 vs 普雷里维尤农工大学|视频直播
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="弗吉尼亚理工大学 vs 里奇蒙德大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5c790a95711502e93d158a23e6a21b78.png" group-title="篮球",弗吉尼亚理工大学 vs 里奇蒙德大学|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3949356.m3u8?auth_key=1794875128-0-0-e1a90972447e4fa584ff400827e99c7f
+#EXTINF:-1 tvg-name="克莱姆森大学 vs 军事学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/84304c9c47762a18d1f4a43cdb680d93.png" group-title="篮球",克莱姆森大学 vs 军事学院|视频直播
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="佐治亚大学 vs 杰克森维尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/522d4b43efc78097d9d8829b499829ce.png" group-title="篮球",佐治亚大学 vs 杰克森维尔|视频直播
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="肯特州立大学 vs 东肯塔基大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n30c6418bb71904de0f520d35c7dd385b.png" group-title="篮球",肯特州立大学 vs 东肯塔基大学|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3950412.m3u8?auth_key=1794875128-0-0-32708de4234f0ef40d5f0fc6ef93b61c
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
