@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="上海浦发银行女篮 vs 河南豫光金铅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c35932bb9740f4d95a0832975f722be5.png" group-title="篮球",上海浦发银行女篮 vs 河南豫光金铅女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="临安 vs 丽水|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/171628627af36f77a99eac5385860cf9.png" group-title="篮球",临安 vs 丽水|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瑞安 vs 永康|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/58c47ccbdec5b5a1239006fd1f5b48b3.png" group-title="篮球",瑞安 vs 永康|完场
@@ -10,6 +8,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德瓦联U21 vs 永恒篮球会U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b9ac28f143ff08fbe26d6a46b217d2a4.png" group-title="篮球",德瓦联U21 vs 永恒篮球会U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌克兰女篮 vs 法国女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/322fb0dcae7369b6969f956bab204b53.bmp" group-title="篮球",乌克兰女篮 vs 法国女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957890.m3u8?auth_key=1794924982-0-0-a2422f0f726823de7e0a2f63a9a32712
+https://pullgz721.qmuiw.com/live/sd-2-3957890.m3u8?auth_key=1794925313-0-0-41de12871bf3b132f6739e13fb3ab425
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
