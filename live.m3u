@@ -26,8 +26,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台北市立大学女篮 vs 台湾师范大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4e8d0cc35136cce9fe879fcbdda56f9c.png" group-title="篮球",台北市立大学女篮 vs 台湾师范大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 合肥文旅女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 合肥文旅女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958893.m3u8?auth_key=1795005925-0-0-ab374885ad911bf261d98c2161446eef
+https://pullgz721.qmuiw.com/live/sd-2-3958893.m3u8?auth_key=1795006239-0-0-a3c30be9c2b4d1d03991904a6b7f4d0f
 #EXTINF:-1 tvg-name="江苏南钢女篮 vs 石家庄英励女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/31cb7287295a89750e0489d65325d7e4.png" group-title="篮球",江苏南钢女篮 vs 石家庄英励女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958894.m3u8?auth_key=1795005925-0-0-85d3a21a2f16494b709a1aaaed7469f2
+https://pullgz721.qmuiw.com/live/sd-2-3958894.m3u8?auth_key=1795006239-0-0-c4f4058d6b847f48aeeca7f817e90064
+#EXTINF:-1 tvg-name="烟台白燕 vs 张家口体文旅|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4ab5b8396cc4df3adae119a1d2091e03.png" group-title="篮球",烟台白燕 vs 张家口体文旅|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3960194.m3u8?auth_key=1795006239-0-0-0b75d03efb2237f8c63ab19403d8fc23
+#EXTINF:-1 tvg-name="湖北文旅 vs 贵州猛龙|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/72fc88cbf690df39b8d202b4b449feb8.png" group-title="篮球",湖北文旅 vs 贵州猛龙|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3960195.m3u8?auth_key=1795006239-0-0-c6f4ac71ca14cb3b1823f7f7ce75cd83
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
