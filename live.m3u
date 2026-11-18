@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣地亚哥女篮 vs 亚利桑那州立女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a2cb3563ffa94a68beee83b8460275bc.jpeg" group-title="篮球",圣地亚哥女篮 vs 亚利桑那州立女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="怀俄明大学 vs 萨姆休斯顿州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38e3782e13d29aaf5b00a5728e56d1ab.png" group-title="篮球",怀俄明大学 vs 萨姆休斯顿州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="犹他大学 vs 东华盛顿大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8d171aa9134f4d799f2be0c0b0979215.png" group-title="篮球",犹他大学 vs 东华盛顿大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密西西比大学 vs 尼古拉斯州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5ed5727b6db6ef0a6100b4969452d08.png" group-title="篮球",密西西比大学 vs 尼古拉斯州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德州南方女篮 vs 俄克拉荷马大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c7b5d7265b5e19965b92f07ff4313932.png" group-title="篮球",德州南方女篮 vs 俄克拉荷马大学女篮|完场
@@ -33,23 +27,25 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="华盛顿州立大学女篮 vs 华盛顿大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2880c9bf71bd43848096f027f310401e.png" group-title="篮球",华盛顿州立大学女篮 vs 华盛顿大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="快船 vs 爵士|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/848b21021b2a1db7bde95ea52a1e021b.png" group-title="NBA",快船 vs 爵士|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931699.m3u8?auth_key=1794979982-0-0-a0f24ec33e8a977cea71d41cc300ec5b
-#EXTINF:-1 tvg-name="冈萨加大学 vs 蒙大拿州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/81d05cf71ab862a1e98df0da269e1fe8.png" group-title="篮球",冈萨加大学 vs 蒙大拿州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3951705.m3u8?auth_key=1794979982-0-0-16629f0d35f4db711b96f35a5d671430
+#EXTINF:-1 tvg-name="快船 vs 爵士|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/848b21021b2a1db7bde95ea52a1e021b.png" group-title="NBA",快船 vs 爵士|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="冈萨加大学 vs 蒙大拿州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/81d05cf71ab862a1e98df0da269e1fe8.png" group-title="篮球",冈萨加大学 vs 蒙大拿州立大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="湖人 vs 黄蜂|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fa6f985041ec3f9729172380ae9cebf8.png" group-title="NBA",湖人 vs 黄蜂|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931698.m3u8?auth_key=1794979982-0-0-01bedd6a266c222fb5fd46bfda87b4f1
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931698.m3u8?auth_key=1794982016-0-0-fb558e98e3c24d5100c7c1f9fbbd4b3f
 #EXTINF:-1 tvg-name="新西兰破坏者 vs 东南墨尔本凤凰|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n4e20cb4a61519f6a810b6b307ff8b574.png" group-title="篮球",新西兰破坏者 vs 东南墨尔本凤凰|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡克拉萨克蒂BC U21 vs GO雅加达U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b564e4fdced8f666c3b54ceb73ba8742.png" group-title="篮球",卡克拉萨克蒂BC U21 vs GO雅加达U21|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="天津 vs 上海玄鸟|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ca7a0200923048ff354ddcce89b8f12b.png" group-title="篮球",天津 vs 上海玄鸟|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="新疆 vs 合肥狂风|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b54ffedd1c9a80374581bb3d7096dba6.png" group-title="篮球",新疆 vs 合肥狂风|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北控 vs 江西大谦|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/559cfc139ec9e214e54b4ddae5d1cba7.png" group-title="篮球",北控 vs 江西大谦|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="广州 vs 吉林|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/858cde8d2c075296f24e7ee61929fbeb.png" group-title="篮球",广州 vs 吉林|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="天津 vs 上海玄鸟|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ca7a0200923048ff354ddcce89b8f12b.png" group-title="篮球",天津 vs 上海玄鸟|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="台湾科技大学女篮 vs 文化大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6486c6d157844504187e6f2f547f2855.png" group-title="篮球",台湾科技大学女篮 vs 文化大学女篮|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
