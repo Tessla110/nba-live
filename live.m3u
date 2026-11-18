@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="曼雷萨 vs 泛塞萨洛尼基人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dc19c320ffc58f1fd9e5bb2a2bca3f51.png" group-title="篮球",曼雷萨 vs 泛塞萨洛尼基人|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944490.m3u8?auth_key=1795038206-0-0-14c578842be0b29d3904fcdb304d3d87
 #EXTINF:-1 tvg-name="梅利利亚 vs 阿利根迪|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d94701e8d3b742668ddd4bdc4deaecd6.png" group-title="篮球",梅利利亚 vs 阿利根迪|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴利亚多利德 vs 卡贾87|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1f5ef78c486ceabee07b5c5c0d9e0fe1.png" group-title="篮球",巴利亚多利德 vs 卡贾87|完场
@@ -10,6 +8,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西班牙篮球学院 vs 坎塔布里亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/88d2a03218670e799c303a7af48dbaee.png" group-title="篮球",西班牙篮球学院 vs 坎塔布里亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛罗里达大学 vs 休斯顿大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/98ddc8da5d074b44a22c47cbaa27bb91.png" group-title="篮球",佛罗里达大学 vs 休斯顿大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960540.m3u8?auth_key=1795038206-0-0-1976e5d51279b8faae344808fa79d2a2
+https://pullgz721.qmuiw.com/live/sd-2-3960540.m3u8?auth_key=1795038523-0-0-9b25b5ebabed35ed54d5a09e0f2cec4e
+#EXTINF:-1 tvg-name="西卡罗来纳女篮 vs 辛辛那提女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n884f6425d9adde7e4ea6702baf9aa12a.png" group-title="篮球",西卡罗来纳女篮 vs 辛辛那提女篮|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="弗兰萨 vs 卡西亚斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a65268effd9adde355c5816840d3ee14.png" group-title="篮球",弗兰萨 vs 卡西亚斯|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
