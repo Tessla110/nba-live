@@ -9,13 +9,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="湖北文旅 vs 贵州猛龙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/72fc88cbf690df39b8d202b4b449feb8.png" group-title="篮球",湖北文旅 vs 贵州猛龙|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="江苏 vs 北京|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b25897e323bba837824c2d7fead03826.png" group-title="篮球",江苏 vs 北京|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948083.m3u8?auth_key=1795008821-0-0-c1c550b4b828adbaba28e3b141bf1630
+#EXTINF:-1 tvg-name="江苏 vs 北京|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b25897e323bba837824c2d7fead03826.png" group-title="篮球",江苏 vs 北京|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="四川 vs 青岛|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/nd80e6d5b1e2d6d989b5c3b7790fe0025.png" group-title="篮球",四川 vs 青岛|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948090.m3u8?auth_key=1795008821-0-0-90ba2c2e6ea1b1bf56cb0d4a602ffc08
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948090.m3u8?auth_key=1795009122-0-0-f30ba2b2f313d40fd7e59df84dff9d15
 #EXTINF:-1 tvg-name="宁波 vs 辽宁|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9b17d2feb1397b99fa0530fba4c7385b.png" group-title="篮球",宁波 vs 辽宁|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948097.m3u8?auth_key=1795008821-0-0-b7df2d725e958e045dfdfd9b606fa7cf
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948097.m3u8?auth_key=1795009122-0-0-9e6762f92a096094f924bf507ddf89db
 #EXTINF:-1 tvg-name="山东 vs 广东|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fd94971d5354c254a48249ad402cfb92.png" group-title="篮球",山东 vs 广东|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948102.m3u8?auth_key=1795008821-0-0-da27d0de7d407a4923ba173dc25094fc
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948102.m3u8?auth_key=1795009122-0-0-8e8f187040498c92f64f2bfc32af9db7
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
