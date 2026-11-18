@@ -16,14 +16,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="国际布拉蒂斯拉瓦 vs 波普拉德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7177310fb1c26f68eedb89e93115fafd.png" group-title="篮球",国际布拉蒂斯拉瓦 vs 波普拉德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="喀山尤尼克斯 vs 叶尼塞|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aa59085806510e44514cb561cce3a3c6.png" group-title="篮球",喀山尤尼克斯 vs 叶尼塞|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3936456.m3u8?auth_key=1795023149-0-0-7be9a2ef16236edc539bebcdc61d4b00
-#EXTINF:-1 tvg-name="埃森勒 vs 利尔斯基|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aaf7d289e9c8bf71d7df7b89edcd2c03.png" group-title="篮球",埃森勒 vs 利尔斯基|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944923.m3u8?auth_key=1795023149-0-0-c62cd2177b6ffdd2ccb1087be64b5fee
+https://pullgz721.qmuiw.com/live/hd-en-2-3936456.m3u8?auth_key=1795023458-0-0-832469f8f46931673da39b0103fbd806
+#EXTINF:-1 tvg-name="埃森勒 vs 利尔斯基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aaf7d289e9c8bf71d7df7b89edcd2c03.png" group-title="篮球",埃森勒 vs 利尔斯基|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科洛索斯罗德岛 vs 占贾BC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/945dfd85e60547fc994414813dc0fe0e.png" group-title="篮球",科洛索斯罗德岛 vs 占贾BC|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944924.m3u8?auth_key=1795023149-0-0-d08b5164c4f6b4c21a728154c89b0fe8
+https://pullgz721.qmuiw.com/live/sd-2-3944924.m3u8?auth_key=1795023458-0-0-a1f1f4a51cbe75b221b12ba581531c94
 #EXTINF:-1 tvg-name="MBA莫斯科 vs BC萨马拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35b2056136a3612e0bcb2d3efa66e062.png" group-title="篮球",MBA莫斯科 vs BC萨马拉|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3936377.m3u8?auth_key=1795023149-0-0-a79225658b9ac29fbc4dc065ad9d5d1d
+https://pullgz721.qmuiw.com/live/hd-en-2-3936377.m3u8?auth_key=1795023458-0-0-9ada4b6e37ce874688c2fbf186eeaf28
 #EXTINF:-1 tvg-name="托尔托纳 vs 里加斯泽利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/40510b65305aa21e43eee61d95777a21.png" group-title="篮球",托尔托纳 vs 里加斯泽利|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958001.m3u8?auth_key=1795023149-0-0-cf4aea6d34e13a70ab83ffb727baa484
+https://pullgz721.qmuiw.com/live/sd-2-3958001.m3u8?auth_key=1795023458-0-0-7b81ccf79249ee7d341a472d56ef09bb
+#EXTINF:-1 tvg-name="TTU塔林 vs 文茨皮尔斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f886aee678d08f9f134f4c20b7cd8211.png" group-title="篮球",TTU塔林 vs 文茨皮尔斯|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3936664.m3u8?auth_key=1795023458-0-0-d98185f30125e470e995487f38ba3d45
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
