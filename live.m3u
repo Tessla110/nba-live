@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="布加勒斯特U21 vs 瓦尔恰U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/581291e3a502a061fb4c004178e05605.png" group-title="篮球",布加勒斯特U21 vs 瓦尔恰U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌拉尔马什 vs 库班火车头|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f700410a0fbec2b3843c995d0a9bd0e0.png" group-title="篮球",乌拉尔马什 vs 库班火车头|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936384.m3u8?auth_key=1795015736-0-0-1f714a148fbb9e767a7007e5c617e716
+https://pullgz721.qmuiw.com/live/sd-2-3936384.m3u8?auth_key=1795016045-0-0-23f380f2f0b7677663428bf1d8cea543
 #EXTINF:-1 tvg-name="莫尔纳 vs 伏伊伏丁那|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/247cc739c5e54c26b01f9a98a4d3c9f8.png" group-title="篮球",莫尔纳 vs 伏伊伏丁那|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930033.m3u8?auth_key=1795015736-0-0-0635a37913c00e2a1488fab26d1040d6
+https://pullgz721.qmuiw.com/live/sd-2-3930033.m3u8?auth_key=1795016045-0-0-faee1f84084198c31ae989856fba2e0a
 #EXTINF:-1 tvg-name="阿布歇隆狮子 vs HBK普列维萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/15fd7c14603e1c75c8666e0e25e18443.png" group-title="篮球",阿布歇隆狮子 vs HBK普列维萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944922.m3u8?auth_key=1795015736-0-0-319a5e2822f7c2111d69205f4bfdcedd
+https://pullgz721.qmuiw.com/live/sd-2-3944922.m3u8?auth_key=1795016045-0-0-f20230acba3c4ff3ef247969ee76ce69
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
