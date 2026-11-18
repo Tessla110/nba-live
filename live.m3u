@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="烟台白燕 vs 张家口体文旅|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4ab5b8396cc4df3adae119a1d2091e03.png" group-title="篮球",烟台白燕 vs 张家口体文旅|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="湖北文旅 vs 贵州猛龙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/72fc88cbf690df39b8d202b4b449feb8.png" group-title="篮球",湖北文旅 vs 贵州猛龙|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="江苏 vs 北京|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b25897e323bba837824c2d7fead03826.png" group-title="篮球",江苏 vs 北京|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="四川 vs 青岛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/nd80e6d5b1e2d6d989b5c3b7790fe0025.png" group-title="篮球",四川 vs 青岛|完场
