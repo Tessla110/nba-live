@@ -23,11 +23,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台湾科技大学女篮 vs 文化大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6486c6d157844504187e6f2f547f2855.png" group-title="篮球",台湾科技大学女篮 vs 文化大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="长沙勇胜 vs 重庆苏科雄狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cfaf0a09167483fde945fa0a5a02be52.png" group-title="篮球",长沙勇胜 vs 重庆苏科雄狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960185.m3u8?auth_key=1794996426-0-0-ad335e4af2c041c68b7c6debd394c2ff
+#EXTINF:-1 tvg-name="长沙勇胜 vs 重庆苏科雄狮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cfaf0a09167483fde945fa0a5a02be52.png" group-title="篮球",长沙勇胜 vs 重庆苏科雄狮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山东蜜獾 vs 焦作云台山|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8b40ca8271bd1a8f5236116a3b20b77e.png" group-title="篮球",山东蜜獾 vs 焦作云台山|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960196.m3u8?auth_key=1794996427-0-0-ad4cd4405f3a998e0064af15ce2777ee
+https://pullgz721.qmuiw.com/live/sd-2-3960196.m3u8?auth_key=1794996498-0-0-fd1fe649fcdc0e70f3471b90920e02e2
 #EXTINF:-1 tvg-name="BBM CLS 骑士U21 vs 阿玛莎杭图U21|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4b0060a87591bee9b981893faccc550a.png" group-title="篮球",BBM CLS 骑士U21 vs 阿玛莎杭图U21|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960548.m3u8?auth_key=1794996427-0-0-03c6dbd8ffe8d74f32d3017b9ff30b3f
+https://pullgz721.qmuiw.com/live/sd-2-3960548.m3u8?auth_key=1794996498-0-0-be65d69796afbb8c3de56cdd262e635b
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
