@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="密西西比大学 vs 尼古拉斯州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5ed5727b6db6ef0a6100b4969452d08.png" group-title="篮球",密西西比大学 vs 尼古拉斯州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德州南方女篮 vs 俄克拉荷马大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c7b5d7265b5e19965b92f07ff4313932.png" group-title="篮球",德州南方女篮 vs 俄克拉荷马大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿尔巴U24 vs 哥斯达黎加大学U24|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fac808df0ecebf3f2ea1a97549f8e08c.png" group-title="篮球",阿尔巴U24 vs 哥斯达黎加大学U24|完场
@@ -32,9 +30,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="冈萨加大学 vs 蒙大拿州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/81d05cf71ab862a1e98df0da269e1fe8.png" group-title="篮球",冈萨加大学 vs 蒙大拿州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="湖人 vs 黄蜂|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fa6f985041ec3f9729172380ae9cebf8.png" group-title="NBA",湖人 vs 黄蜂|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931698.m3u8?auth_key=1794983350-0-0-ea17805b5d3f39f10bdc5699d83f7512
-#EXTINF:-1 tvg-name="新西兰破坏者 vs 东南墨尔本凤凰|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n4e20cb4a61519f6a810b6b307ff8b574.png" group-title="篮球",新西兰破坏者 vs 东南墨尔本凤凰|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931698.m3u8?auth_key=1794984156-0-0-c0ad5b05624a7e5e3134a01e66fdd82f
+#EXTINF:-1 tvg-name="新西兰破坏者 vs 东南墨尔本凤凰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n4e20cb4a61519f6a810b6b307ff8b574.png" group-title="篮球",新西兰破坏者 vs 东南墨尔本凤凰|视频直播
+https://pullgz721.qmuiw.com/live/hd-en-2-3925955.m3u8?auth_key=1794984156-0-0-4379d5fd3510dbf99759f8a54eeaeff9
 #EXTINF:-1 tvg-name="卡克拉萨克蒂BC U21 vs GO雅加达U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b564e4fdced8f666c3b54ceb73ba8742.png" group-title="篮球",卡克拉萨克蒂BC U21 vs GO雅加达U21|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="新疆 vs 合肥狂风|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b54ffedd1c9a80374581bb3d7096dba6.png" group-title="篮球",新疆 vs 合肥狂风|未开赛
