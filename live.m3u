@@ -13,19 +13,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="义乌 vs 富阳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ae72aaf9833bb4fc18975e1d1d8d4c77.png" group-title="篮球",义乌 vs 富阳|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="宁波 vs 苍南|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b80a9e9d32c1a707194230c6ef3e8ac5.png" group-title="篮球",宁波 vs 苍南|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938997.m3u8?auth_key=1795095734-0-0-00de8b34400a4227e132ebc3120c81e6
+#EXTINF:-1 tvg-name="宁波 vs 苍南|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b80a9e9d32c1a707194230c6ef3e8ac5.png" group-title="篮球",宁波 vs 苍南|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="广厦 vs 江苏|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/96108e3d2a3cf92f8f5305e5135f2419.png" group-title="篮球",广厦 vs 江苏|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="重庆苏科雄狮 vs 湖北文旅|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b241128af6a48498550893685c8af010.png" group-title="篮球",重庆苏科雄狮 vs 湖北文旅|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴甫洛达尔地区队 vs 希姆肯特|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/394d43f90b6ca1c4ed105496b313d9aa.png" group-title="篮球",巴甫洛达尔地区队 vs 希姆肯特|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960755.m3u8?auth_key=1795095735-0-0-e6089385244de588c6f3dfbcc68140d0
-#EXTINF:-1 tvg-name="上海 vs 四川|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1125281dafbf06dad029825221e83d5a.png" group-title="篮球",上海 vs 四川|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948094.m3u8?auth_key=1795095735-0-0-51832e2577b934103edb83c5ca6e1c07
+#EXTINF:-1 tvg-name="巴甫洛达尔地区队 vs 希姆肯特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/394d43f90b6ca1c4ed105496b313d9aa.png" group-title="篮球",巴甫洛达尔地区队 vs 希姆肯特|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="上海 vs 四川|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1125281dafbf06dad029825221e83d5a.png" group-title="篮球",上海 vs 四川|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山西 vs 宁波|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7ad4ca154d205eb1799c5a1d1ff3370.png" group-title="篮球",山西 vs 宁波|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948095.m3u8?auth_key=1795095735-0-0-a72993e79cba96daaa00e3ab3a3a8251
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948095.m3u8?auth_key=1795096037-0-0-285503a894a39334b78065922c77e6f0
 #EXTINF:-1 tvg-name="广东 vs 浙江|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5689743705f1852f10597c559323f04a.png" group-title="篮球",广东 vs 浙江|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948103.m3u8?auth_key=1795095735-0-0-f1cbfba0995b6577aee224af0e18800f
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948103.m3u8?auth_key=1795096037-0-0-3f44e656a755eb8681a2e8b0a8b4f56c
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
