@@ -7,11 +7,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌法 vs 车里雅宾斯克奥林匹克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f543e2984c94dacf868dd4d86b8fe764.png" group-title="篮球",乌法 vs 车里雅宾斯克奥林匹克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿联酋 vs 叙利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bdee645df8bc3b8f33e4354133224f89.png" group-title="篮球",阿联酋 vs 叙利亚|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科罗纳布拉索夫 vs 布加勒斯特快速|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c2fb0e264ca7c5d721c180f99c045394.png" group-title="篮球",科罗纳布拉索夫 vs 布加勒斯特快速|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944314.m3u8?auth_key=1795107557-0-0-e51b7f2a5cb7fa6af7b2c25b4bd68f66
+https://pullgz721.qmuiw.com/live/sd-2-3944314.m3u8?auth_key=1795107886-0-0-23e66d777a2b00c8b9b3624563b7e5f4
 #EXTINF:-1 tvg-name="苏度瓦曼廷加 vs 奥林帕斯瀑布|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ea48133a5ffc49ee89870ce76dcce481.png" group-title="篮球",苏度瓦曼廷加 vs 奥林帕斯瀑布|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3959908.m3u8?auth_key=1795107557-0-0-c81a5a37d2138db3c219f0c0e51c6751
+https://pullgz721.qmuiw.com/live/sd-2-3959908.m3u8?auth_key=1795107886-0-0-5e411c37967fd614e21ce6c096a6a176
 #EXTINF:-1 tvg-name="考维纳斯 vs 瑞塔斯B|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/73d48a7d9c6ed1b96181ecf481b03281.png" group-title="篮球",考维纳斯 vs 瑞塔斯B|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3959912.m3u8?auth_key=1795107557-0-0-ea788a38f0c0a551543b6397ce2f510b
+https://pullgz721.qmuiw.com/live/sd-2-3959912.m3u8?auth_key=1795107886-0-0-ff3f0284339fce5ad3b6a8de6a4d0134
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
