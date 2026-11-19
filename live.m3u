@@ -5,6 +5,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格德萨B女篮 vs 西梅克B队女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/16d7b04027c9e4663005859040f324bd.png" group-title="篮球",格德萨B女篮 vs 西梅克B队女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="皮涅鲁斯 U20 vs 圣何塞U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f1ef4fdc323bc39dd550765e893a8be.png" group-title="篮球",皮涅鲁斯 U20 vs 圣何塞U20|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="犹他州立女篮 vs 杨百翰大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n60617864bcb82ac2547fcc1413bd6da2.png" group-title="篮球",犹他州立女篮 vs 杨百翰大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛罗里达大学 vs 休斯顿大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/98ddc8da5d074b44a22c47cbaa27bb91.png" group-title="篮球",佛罗里达大学 vs 休斯顿大学|完场
@@ -14,8 +16,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西卡罗来纳女篮 vs 辛辛那提女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n884f6425d9adde7e4ea6702baf9aa12a.png" group-title="篮球",西卡罗来纳女篮 vs 辛辛那提女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗兰萨 vs 卡西亚斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a65268effd9adde355c5816840d3ee14.png" group-title="篮球",弗兰萨 vs 卡西亚斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939639.m3u8?auth_key=1795046516-0-0-3212d07df60ed6401ef1fab5d974cc46
+https://pullgz721.qmuiw.com/live/sd-2-3939639.m3u8?auth_key=1795046818-0-0-e45311f9afda53ca70a48b46f9f2b90f
 #EXTINF:-1 tvg-name="宾夕法尼亚州立大学 vs 印第安纳大学波利斯分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/691feb8390a0f21be28fb14e30c991f4.png" group-title="篮球",宾夕法尼亚州立大学 vs 印第安纳大学波利斯分校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949427.m3u8?auth_key=1795046516-0-0-246a1754f5801258bac6320311609e70
+https://pullgz721.qmuiw.com/live/sd-2-3949427.m3u8?auth_key=1795046818-0-0-cb4a5e7c6e84381ea7df227c36dc5eca
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
