@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山西 vs 宁波|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7ad4ca154d205eb1799c5a1d1ff3370.png" group-title="篮球",山西 vs 宁波|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="广东 vs 浙江|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5689743705f1852f10597c559323f04a.png" group-title="篮球",广东 vs 浙江|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南华 vs 香港永伦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4111c7d7d365410bad2ba47133b8ebda.png" group-title="篮球",南华 vs 香港永伦|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
