@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="杜卡斯 vs 艾尔罗斯安格斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/team_default_h.png" group-title="篮球",杜卡斯 vs 艾尔罗斯安格斯|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马钢城冶金 vs 新西伯利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f313ff84e5a97eea3b99be6cf1819d9.png" group-title="篮球",马钢城冶金 vs 新西伯利亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="尤格拉 vs 列夫达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b8db81d9b8b2049fe87d9abc84cd6c59.png" group-title="篮球",尤格拉 vs 列夫达|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马里兰女篮 vs 罗格斯大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8e1b087fe13c4a268f299a413f8d0331.png" group-title="篮球",马里兰女篮 vs 罗格斯大学女篮|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="科罗纳布拉索夫 vs 布加勒斯特快速|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c2fb0e264ca7c5d721c180f99c045394.png" group-title="篮球",科罗纳布拉索夫 vs 布加勒斯特快速|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3944314.m3u8?auth_key=1795104736-0-0-3064632abf140389eb3f1adaee6c1240
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
