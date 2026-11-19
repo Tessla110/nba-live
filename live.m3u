@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣何塞州立大学 vs 加州州立弗雷斯诺分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/13104e3af18e1bd643768ab356a2a5c0.png" group-title="篮球",圣何塞州立大学 vs 加州州立弗雷斯诺分校|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="亚利桑那州立大学 vs 奥克兰大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n7d0fb4a9ddd954d4e99468ae45f3defd.png" group-title="篮球",亚利桑那州立大学 vs 奥克兰大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="杨百翰大学 vs 北科罗拉多大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6531b5907a010b11c34a85882b01ba5a.jpg" group-title="篮球",杨百翰大学 vs 北科罗拉多大学|完场
@@ -38,6 +36,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="夏威夷大学 vs 华盛顿州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1b5cb83cc14a3c404d8cf362d5240766.png" group-title="篮球",夏威夷大学 vs 华盛顿州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学洛杉矶分校 vs 加州州立富勒顿分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62e12b53d02bfa060c0cba50b87cf948.png" group-title="篮球",加州大学洛杉矶分校 vs 加州州立富勒顿分校|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="佛光大学女篮 vs 台北大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/011c134b1a8c794820053c792743059b.png" group-title="篮球",佛光大学女篮 vs 台北大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台北护理健康大学女篮 vs 台北市立大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9f4e3f2a4b1d545765dad8687b7288b.png" group-title="篮球",台北护理健康大学女篮 vs 台北市立大学女篮|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
