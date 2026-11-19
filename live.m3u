@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="世新大学女篮 vs 台湾清华大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7e86d4aa3624e6841156f99bfecb2e99.png" group-title="篮球",世新大学女篮 vs 台湾清华大学女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="内华达大学 vs 爱达荷大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e2268f4b9d9ef35e97d421172c1f8d04.png" group-title="篮球",内华达大学 vs 爱达荷大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="旧金山大学 vs 路易斯安那拉法叶分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cad45c458fbbbd5aeef134274947bdb3.png" group-title="篮球",旧金山大学 vs 路易斯安那拉法叶分校|完场
@@ -21,19 +19,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台北护理健康大学女篮 vs 台北市立大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9f4e3f2a4b1d545765dad8687b7288b.png" group-title="篮球",台北护理健康大学女篮 vs 台北市立大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="同曦 vs 新疆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a5117efc96b29138d9db8f5abc1aa699.png" group-title="篮球",同曦 vs 新疆|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948091.m3u8?auth_key=1795080020-0-0-a7747f559eece0870b350e9751b3d7ce
+#EXTINF:-1 tvg-name="同曦 vs 新疆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a5117efc96b29138d9db8f5abc1aa699.png" group-title="篮球",同曦 vs 新疆|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="福建 vs 北控|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2428a8c17b5a31163b54cb9502998bbf.png" group-title="篮球",福建 vs 北控|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="吉林 vs 香港金牛|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0ef4bf20fbdcd89b1d7cb4a9b29f0f5a.png" group-title="篮球",吉林 vs 香港金牛|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948100.m3u8?auth_key=1795080020-0-0-00591d03855d5045b6bb8ac6db57c632
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948100.m3u8?auth_key=1795080367-0-0-0bbb983aa7ed7a75a122b77e6ddb3f0f
 #EXTINF:-1 tvg-name="深圳 vs 天津|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb44eee02df789207dee98898982cc16.png" group-title="篮球",深圳 vs 天津|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948084.m3u8?auth_key=1795080020-0-0-96d5c215100e0424706de6c5d69bab39
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948084.m3u8?auth_key=1795080367-0-0-27ca7ee8f70f032c4438b2b0ccfc3a81
 #EXTINF:-1 tvg-name="伊拉瓦拉老鹰 vs 阿德莱德36人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4eceaeddae174577aa2aed681907c7f7.png" group-title="篮球",伊拉瓦拉老鹰 vs 阿德莱德36人|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3925954.m3u8?auth_key=1795080021-0-0-753c5103590222b31745a2ab217ef043
+https://pullgz721.qmuiw.com/live/hd-en-2-3925954.m3u8?auth_key=1795080367-0-0-bf1eb4d4b82df1201003d2466fc80b9f
 #EXTINF:-1 tvg-name="杭州经纬 vs 长沙勇胜|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4d8d48f38dc2c2e9ee303a77d6e58b55.png" group-title="篮球",杭州经纬 vs 长沙勇胜|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960193.m3u8?auth_key=1795080021-0-0-c55246bd9d470ecd92583f64f11699be
+https://pullgz721.qmuiw.com/live/sd-2-3960193.m3u8?auth_key=1795080367-0-0-02ecef85d7706625ebe0a1381cc59a13
 #EXTINF:-1 tvg-name="阿拉木图军团B队 vs 图兰|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cf094f23a146726c19a17cb515d9e6b0.png" group-title="篮球",阿拉木图军团B队 vs 图兰|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="安养赤红火箭 vs 釜山宙斯盾|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/30683c359531664a5b97f129c047fcdc.png" group-title="篮球",安养赤红火箭 vs 釜山宙斯盾|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
