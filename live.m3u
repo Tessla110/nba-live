@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="苏度瓦曼廷加 vs 奥林帕斯瀑布|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ea48133a5ffc49ee89870ce76dcce481.png" group-title="篮球",苏度瓦曼廷加 vs 奥林帕斯瀑布|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="考维纳斯 vs 瑞塔斯B|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/73d48a7d9c6ed1b96181ecf481b03281.png" group-title="篮球",考维纳斯 vs 瑞塔斯B|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克莱佩达 vs 维尔卡维斯基奥佩拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0900b7283cac2460417cb5e9268c2011.png" group-title="篮球",克莱佩达 vs 维尔卡维斯基奥佩拉斯|完场
@@ -25,9 +23,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维迪斯 vs 帕兰加库尔希艾|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d75bf3ee35be9a9b9c3de957d9847f3a.png" group-title="篮球",维迪斯 vs 帕兰加库尔希艾|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="康斯堡企鹅 vs 辛卓老虎|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/54a2f65acedeb640780d3dfbfdaaaddf.png" group-title="篮球",康斯堡企鹅 vs 辛卓老虎|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨拉基利斯 vs 帕纳辛纳科斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d05b2c06841b4f3e6df084479f08594.png" group-title="篮球",萨拉基利斯 vs 帕纳辛纳科斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926816.m3u8?auth_key=1795117091-0-0-20722081bac21f5d1a211533bec503f3
+https://pullgz721.qmuiw.com/live/sd-2-3926816.m3u8?auth_key=1795117438-0-0-e1046814a90cb236a758670d1ffe68a7
 #EXTINF:-1 tvg-name="莱维切 vs 斯特梅特绿山城|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5622fabfebc87cddd8a27374d23328c4.png" group-title="篮球",莱维切 vs 斯特梅特绿山城|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944935.m3u8?auth_key=1795117091-0-0-eaa64fbb1cb9d141fb970839e8a6db11
+https://pullgz721.qmuiw.com/live/sd-2-3944935.m3u8?auth_key=1795117438-0-0-d3bd2be3a4ec29d1a7a94ce8ea49bfed
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
