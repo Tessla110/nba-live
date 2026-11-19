@@ -19,19 +19,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="艾尔曼尼 vs 斯塔尔南|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cdc8e3bdb30803179cb4b665fdedc0e3.png" group-title="篮球",艾尔曼尼 vs 斯塔尔南|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="佛罗里达大学 vs 西弗吉尼亚大学理工学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/98ddc8da5d074b44a22c47cbaa27bb91.png" group-title="篮球",佛罗里达大学 vs 西弗吉尼亚大学理工学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960828.m3u8?auth_key=1795124096-0-0-c019369e5d8eac23102d0fcaf01af58e
+#EXTINF:-1 tvg-name="佛罗里达大学 vs 西弗吉尼亚大学理工学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/98ddc8da5d074b44a22c47cbaa27bb91.png" group-title="篮球",佛罗里达大学 vs 西弗吉尼亚大学理工学院|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="米兰奥林匹亚 vs 费内巴切|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3187dc73fc0b4ff182f270b1d268c9cb.png" group-title="篮球",米兰奥林匹亚 vs 费内巴切|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴黎 vs 特拉维夫夏普尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f96bb22cdad391337c9f1a8585b07dcc.png" group-title="篮球",巴黎 vs 特拉维夫夏普尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926650.m3u8?auth_key=1795124096-0-0-48608c9af1c2f95b16258daf6de3c535
+https://pullgz721.qmuiw.com/live/sd-2-3926650.m3u8?auth_key=1795124446-0-0-41321894596864d57f20fec82ed6a200
 #EXTINF:-1 tvg-name="阿根廷胡宁 LDD vs 拉鲁斯LDD|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6df52cbe1fc74b04a6d5df60e67270c9.png" group-title="篮球",阿根廷胡宁 LDD vs 拉鲁斯LDD|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瓦伦西亚 vs 博洛尼亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a3819bb7ddd5edc47416d1efb5539fd3.png" group-title="篮球",瓦伦西亚 vs 博洛尼亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926502.m3u8?auth_key=1795124096-0-0-59e88ba3152c167d282d49f7a9a61859
+https://pullgz721.qmuiw.com/live/sd-2-3926502.m3u8?auth_key=1795124446-0-0-37cb5f33305af17419f4ee45b8d17683
 #EXTINF:-1 tvg-name="圣母大学 vs 奥本大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/92d778d574d51d681104e1e0df856262.png" group-title="篮球",圣母大学 vs 奥本大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌法兹萨 vs 弗拉门戈|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8aa7d52c76dc585c597c5d0cf537a211.png" group-title="篮球",乌法兹萨 vs 弗拉门戈|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="巴斯克特塔图 vs 阿西斯篮球|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74f1d79646c5e650fbcb473384650b17.png" group-title="篮球",巴斯克特塔图 vs 阿西斯篮球|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
