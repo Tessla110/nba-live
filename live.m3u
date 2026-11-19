@@ -9,15 +9,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿联酋 vs 叙利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bdee645df8bc3b8f33e4354133224f89.png" group-title="篮球",阿联酋 vs 叙利亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="伊泽夫斯克 vs 希姆基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/94756f5594996a4c33e9da506d619dfe.png" group-title="篮球",伊泽夫斯克 vs 希姆基|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科罗纳布拉索夫 vs 布加勒斯特快速|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c2fb0e264ca7c5d721c180f99c045394.png" group-title="篮球",科罗纳布拉索夫 vs 布加勒斯特快速|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944314.m3u8?auth_key=1795108217-0-0-0cc8049652e5d2717f650ae56b3b1457
+https://pullgz721.qmuiw.com/live/sd-2-3944314.m3u8?auth_key=1795108517-0-0-ca010a8e13e2a66e4f2ae5a4386d6bc6
 #EXTINF:-1 tvg-name="苏度瓦曼廷加 vs 奥林帕斯瀑布|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ea48133a5ffc49ee89870ce76dcce481.png" group-title="篮球",苏度瓦曼廷加 vs 奥林帕斯瀑布|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3959908.m3u8?auth_key=1795108217-0-0-60366b5fc7661bcab70fd5fdb36e1ca3
+https://pullgz721.qmuiw.com/live/sd-2-3959908.m3u8?auth_key=1795108518-0-0-a80bc03f5dc207c8e7c4939bcffe509f
 #EXTINF:-1 tvg-name="考维纳斯 vs 瑞塔斯B|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/73d48a7d9c6ed1b96181ecf481b03281.png" group-title="篮球",考维纳斯 vs 瑞塔斯B|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3959912.m3u8?auth_key=1795108217-0-0-3f7b63b22bc519e3a25e0991b53eef5c
-#EXTINF:-1 tvg-name="希卢泰 vs 欧米茄金牛座|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e9d475c88d82bc15aaadee2b49da9905.png" group-title="篮球",希卢泰 vs 欧米茄金牛座|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3959906.m3u8?auth_key=1795108217-0-0-3c664134f4735bdaa25153685234c02d
-#EXTINF:-1 tvg-name="马萨基爱 vs 萨拉基利斯B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/690900867668457089d4e111dbee6143.jpg" group-title="篮球",马萨基爱 vs 萨拉基利斯B队|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3959909.m3u8?auth_key=1795108217-0-0-39f4cd4ca45f264621443457cef2d761
+https://pullgz721.qmuiw.com/live/sd-2-3959912.m3u8?auth_key=1795108518-0-0-9ebe6484eb3cf7dc03ffc19de3b067e6
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
