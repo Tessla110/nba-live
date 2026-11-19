@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科罗拉多州立大学 vs 北达科他州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5cc431b68b485d6a7c350b17e83aa6e.png" group-title="篮球",科罗拉多州立大学 vs 北达科他州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密苏里大学 vs 艾尔康州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f9ae89d34bb4eba955cb17dfc8226ad.png" group-title="篮球",密苏里大学 vs 艾尔康州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="犹他州立大学 vs 韦伯州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/09cc1d375236476ba0ac885b66b11bff.png" group-title="篮球",犹他州立大学 vs 韦伯州立大学|完场
@@ -36,11 +34,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛光大学女篮 vs 台北大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/011c134b1a8c794820053c792743059b.png" group-title="篮球",佛光大学女篮 vs 台北大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="同曦 vs 新疆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a5117efc96b29138d9db8f5abc1aa699.png" group-title="篮球",同曦 vs 新疆|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948091.m3u8?auth_key=1795074396-0-0-2e67fac0dcef4c4feb2f85c1e934db4a
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948091.m3u8?auth_key=1795074706-0-0-bd42175829034cc068fbc2e6d1aca781
 #EXTINF:-1 tvg-name="福建 vs 北控|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2428a8c17b5a31163b54cb9502998bbf.png" group-title="篮球",福建 vs 北控|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948092.m3u8?auth_key=1795074396-0-0-902f6f585c1c22331c6c2deda769b3b3
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948092.m3u8?auth_key=1795074706-0-0-adc13e94996952f0ff2f72b06b38a75e
 #EXTINF:-1 tvg-name="吉林 vs 香港金牛|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0ef4bf20fbdcd89b1d7cb4a9b29f0f5a.png" group-title="篮球",吉林 vs 香港金牛|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948100.m3u8?auth_key=1795074396-0-0-0acc891b893f88d6d653a9f3e840c8ec
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948100.m3u8?auth_key=1795074706-0-0-6931b9fa602f40953ab6b2ea41f702c2
 #EXTINF:-1 tvg-name="深圳 vs 天津|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb44eee02df789207dee98898982cc16.png" group-title="篮球",深圳 vs 天津|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学女篮 vs 辅仁大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4e7f4a2be902aa8617f9ea3856fe809f.png" group-title="篮球",文化大学女篮 vs 辅仁大学女篮|未开赛
