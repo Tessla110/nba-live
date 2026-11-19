@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="安青女篮 vs 伟邦女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b1f484a4c8d724db730c80b7f0c22026.jpg" group-title="篮球",安青女篮 vs 伟邦女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="义乌 vs 富阳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ae72aaf9833bb4fc18975e1d1d8d4c77.png" group-title="篮球",义乌 vs 富阳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="宁波 vs 苍南|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b80a9e9d32c1a707194230c6ef3e8ac5.png" group-title="篮球",宁波 vs 苍南|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="广厦 vs 江苏|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/96108e3d2a3cf92f8f5305e5135f2419.png" group-title="篮球",广厦 vs 江苏|完场
