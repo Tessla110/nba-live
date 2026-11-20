@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38134086682da4fa4f4c4aac84d0e049.png" group-title="篮球",萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="艾米斯阿吉亚 vs 拉夫里罗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/29f23b34f4a209c33dfaf682581168d0.png" group-title="篮球",艾米斯阿吉亚 vs 拉夫里罗|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="盖拉多女篮 vs 科努特格里西姆女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d4a6ded31833cfa6daebae65c992901.png" group-title="篮球",盖拉多女篮 vs 科努特格里西姆女篮|完场
@@ -16,6 +14,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="费内巴切科莱吉 vs 埃拉布篮球|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/878167bdde4291dae43ef6fd8360d1e9.png" group-title="篮球",费内巴切科莱吉 vs 埃拉布篮球|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="能源女篮 vs 新西伯利亚迪纳摩女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fdda503921ce704fea8662678ed2e19a.png" group-title="篮球",能源女篮 vs 新西伯利亚迪纳摩女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939344.m3u8?auth_key=1795195124-0-0-8b4500f75aea65f74fb1998fb9a4fc59
+https://pullgz721.qmuiw.com/live/sd-2-3939344.m3u8?auth_key=1795195449-0-0-d1027e2dabebce8b90a386b9db3fc01d
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
