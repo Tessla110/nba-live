@@ -1,23 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="纽卡斯尔 vs 莱切斯特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/426ae9b7e9b6d74a6bcb63432bb54011.png" group-title="篮球",纽卡斯尔 vs 莱切斯特|完场
+#EXTINF:-1 tvg-name="布尔戈斯圣地亚哥U22 vs 瓦伦西亚U22|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fda975deacee0eae0a8a75d850e426af.png" group-title="篮球",布尔戈斯圣地亚哥U22 vs 瓦伦西亚U22|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="谢菲尔德 vs 伦敦雄狮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bc66c56f3388cd5c20a773e939357675.png" group-title="篮球",谢菲尔德 vs 伦敦雄狮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加尔达拜尔 vs KV雷克查域克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7efa8b6cdcee971c858c894de0605ac9.png" group-title="篮球",加尔达拜尔 vs KV雷克查域克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="图卢兹 vs 温蒂查兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/213e2dc952317fcfc7570287318555ec.png" group-title="篮球",图卢兹 vs 温蒂查兰|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="列日 vs 科特赖克马刺|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/90460ba6f7bcf042726d1c3825eddfb4.jpg" group-title="篮球",列日 vs 科特赖克马刺|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="ASA(K) vs 沙隆-兰斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9edd51202c2f6f3a54441bd40dce642b.png" group-title="篮球",ASA(K) vs 沙隆-兰斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3946678.m3u8?auth_key=1795210267-0-0-dd5f3c0d2ed1452cee5b66aa96f93fb2
-#EXTINF:-1 tvg-name="凯夫拉维克 vs 堤达斯托尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2573d6986d128754a862eac0e40826f3.png" group-title="篮球",凯夫拉维克 vs 堤达斯托尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴塞罗那 vs 贝尔格莱德红星|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3fd0a47f5891f27c0a98cf96e7c221af.png" group-title="篮球",巴塞罗那 vs 贝尔格莱德红星|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926487.m3u8?auth_key=1795210267-0-0-29224084eb9c7401e99e897cc7558536
 #EXTINF:-1 tvg-name="贝尔格莱德游击 vs 贝西克塔斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a7fa7e5d59e7754105e602d0065c0b4d.png" group-title="篮球",贝尔格莱德游击 vs 贝西克塔斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926719.m3u8?auth_key=1795210267-0-0-62fea37f6924252d700e293c8c1104e5
+https://pullgz721.qmuiw.com/live/sd-2-3926719.m3u8?auth_key=1795211073-0-0-68221c44075888c1e71f0fb7c5db0fbb
+#EXTINF:-1 tvg-name="UP 墨西哥 vs 蒙特雷尔大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f61314a69aeac45f80878e0cb5d4db2c.png" group-title="篮球",UP 墨西哥 vs 蒙特雷尔大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
