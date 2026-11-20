@@ -11,9 +11,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="纽州大阿尔巴尼分校 vs 西伊利诺大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1867271405ac58b803ef8300101e6a76.png" group-title="篮球",纽州大阿尔巴尼分校 vs 西伊利诺大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="福塔雷萨 vs 博塔弗戈|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7a4ae422b9d0cc5a06a40d5db991802.png" group-title="篮球",福塔雷萨 vs 博塔弗戈|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939761.m3u8?auth_key=1795215356-0-0-5c1e847a418e7adef211f46477cd2da9
+#EXTINF:-1 tvg-name="福塔雷萨 vs 博塔弗戈|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7a4ae422b9d0cc5a06a40d5db991802.png" group-title="篮球",福塔雷萨 vs 博塔弗戈|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴乌鲁 vs 卡西亚斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80131394fd203e73393b93ae8202fba7.png" group-title="篮球",巴乌鲁 vs 卡西亚斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939565.m3u8?auth_key=1795215356-0-0-2f5ed98056d1da9972a362bcfd7ca839
+https://pullgz721.qmuiw.com/live/sd-2-3939565.m3u8?auth_key=1795215699-0-0-a3c0826adf7532a9096d7a04240b5bae
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
