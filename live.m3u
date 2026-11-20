@@ -5,11 +5,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加拉茨市政体育 vs 塔古慕瑞斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/399bc97c8e64e56f0c586781cff96e0f.png" group-title="篮球",加拉茨市政体育 vs 塔古慕瑞斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="侯华拉 vs 利马帕|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2791a01e3b4cba0250433d95211c96ae.png" group-title="篮球",侯华拉 vs 利马帕|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瓦布希克 vs Gtk格利维采|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac18bb9d1e3bac8e5479b696d0348a96.png" group-title="篮球",瓦布希克 vs Gtk格利维采|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795198620-0-0-06ff8c95daa3d58fb9d447cea7bac856
+https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795198929-0-0-748f8e0265cc347ff5c6846b740084dd
 #EXTINF:-1 tvg-name="霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6cd5a6a58f7ba5ca3681cb060af29fc.png" group-title="篮球",霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795198620-0-0-c7b23dc419adbcebf9b4b398d747ccf2
+https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795198929-0-0-e0d6910985ad5610ea62a766fd96933d
 #EXTINF:-1 tvg-name="FMP拉德尼基 vs 伊戈卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0a8cba7e38b14843378519452c17eaba.png" group-title="篮球",FMP拉德尼基 vs 伊戈卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942754.m3u8?auth_key=1795198620-0-0-bf481b49b18195d119ecb3ccf6bf1f00
+https://pullgz721.qmuiw.com/live/sd-2-3942754.m3u8?auth_key=1795198929-0-0-d64419d5c03ce6bf66852b4ecb208c33
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
