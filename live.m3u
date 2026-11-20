@@ -7,9 +7,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="青岛 vs 上海|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8265cde14b18d7e3716bb1e0b0aed623.png" group-title="篮球",青岛 vs 上海|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="浙江 vs 山东|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d1d77f07287fe840a7e77459e5bd1bfc.png" group-title="篮球",浙江 vs 山东|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948104.m3u8?auth_key=1795182947-0-0-24e08e15b2613d3c1823de471d879679
+#EXTINF:-1 tvg-name="浙江 vs 山东|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d1d77f07287fe840a7e77459e5bd1bfc.png" group-title="篮球",浙江 vs 山东|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="辽宁 vs 山西|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/03173dab50b9418d1a834a91104d90a4.png" group-title="篮球",辽宁 vs 山西|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948105.m3u8?auth_key=1795182947-0-0-b2024979a0c721fce6e7c610395a3826
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948105.m3u8?auth_key=1795183302-0-0-cf4891147486d493aec7ea6c3f3a0117
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
