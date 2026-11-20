@@ -5,5 +5,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加拉茨市政体育 vs 塔古慕瑞斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/399bc97c8e64e56f0c586781cff96e0f.png" group-title="篮球",加拉茨市政体育 vs 塔古慕瑞斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="瓦布希克 vs Gtk格利维采|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac18bb9d1e3bac8e5479b696d0348a96.png" group-title="篮球",瓦布希克 vs Gtk格利维采|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795197969-0-0-14b5d04df7231a888d07d5d36f95ba87
+#EXTINF:-1 tvg-name="霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6cd5a6a58f7ba5ca3681cb060af29fc.png" group-title="篮球",霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795197969-0-0-fe861339bde085c7197b9001dac9e8ad
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
