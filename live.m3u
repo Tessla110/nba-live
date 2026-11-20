@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维拉克洛蒂尔德 vs FD宽扎河|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/43d9bb0c5d82361cda2beba4a819b63a.png" group-title="篮球",维拉克洛蒂尔德 vs FD宽扎河|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴尔多体育 vs 艾扎拉体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7f1b5e277b406fe159f39a6529284844.png" group-title="篮球",巴尔多体育 vs 艾扎拉体育|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="皮特斯蒂 vs 普洛耶什蒂|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3583a12a06d8d89be71408ccbbea38d4.png" group-title="篮球",皮特斯蒂 vs 普洛耶什蒂|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="瓦尔恰 vs 锡比乌|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74f7d8ecddd7b31c412afe2cf1499984.png" group-title="篮球",瓦尔恰 vs 锡比乌|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944370.m3u8?auth_key=1795201559-0-0-c88295d212553c3cca10a29b51f2c1e9
+#EXTINF:-1 tvg-name="瓦尔恰 vs 锡比乌|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74f7d8ecddd7b31c412afe2cf1499984.png" group-title="篮球",瓦尔恰 vs 锡比乌|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马里兰东海岸大学 vs 布卢姆菲尔德学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6ff5f6e2f96411ce6483cf7e4f8f3336.png" group-title="篮球",马里兰东海岸大学 vs 布卢姆菲尔德学院|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="夏利乌夏利亚女篮 vs 利耶帕亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7f54990664a20926dcce954f9673df5f.jpg" group-title="篮球",夏利乌夏利亚女篮 vs 利耶帕亚女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科瑞卡 vs 布拉卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/78f34f2c7bb8aa34ef93df11d9951747.png" group-title="篮球",科瑞卡 vs 布拉卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942746.m3u8?auth_key=1795201559-0-0-bfe2f396855ad0990ffed65a12f85159
+https://pullgz721.qmuiw.com/live/sd-2-3942746.m3u8?auth_key=1795201867-0-0-1d657c174a1106504c699e998212a73f
+#EXTINF:-1 tvg-name="赫帕拉普拉 vs 谭沙鲁公牛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4c0f2bbef2acebed2b2e127fc058bddd.png" group-title="篮球",赫帕拉普拉 vs 谭沙鲁公牛|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="维尔尼亚斯DPV女篮 vs 维尔尼亚斯BC女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/47dbacad408e884b0bdf25976e07d21a.png" group-title="篮球",维尔尼亚斯DPV女篮 vs 维尔尼亚斯BC女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
