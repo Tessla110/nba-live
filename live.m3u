@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="扬博尔 vs 博蒂文|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/07dd291c5063057056734a9b6d2ae3a1.png" group-title="篮球",扬博尔 vs 博蒂文|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布加勒斯特 vs 布加勒斯特星|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bd148d6f912618c4888ddd4f5d4c3d2b.png" group-title="篮球",布加勒斯特 vs 布加勒斯特星|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加拉茨市政体育 vs 塔古慕瑞斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/399bc97c8e64e56f0c586781cff96e0f.png" group-title="篮球",加拉茨市政体育 vs 塔古慕瑞斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瓦布希克 vs Gtk格利维采|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac18bb9d1e3bac8e5479b696d0348a96.png" group-title="篮球",瓦布希克 vs Gtk格利维采|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795197969-0-0-14b5d04df7231a888d07d5d36f95ba87
+https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795198316-0-0-eb7b7e7e8a958ac22a97442baf3a5018
 #EXTINF:-1 tvg-name="霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6cd5a6a58f7ba5ca3681cb060af29fc.png" group-title="篮球",霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795197969-0-0-fe861339bde085c7197b9001dac9e8ad
+https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795198316-0-0-28af0337263dfb20d42c98a927b9885d
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
