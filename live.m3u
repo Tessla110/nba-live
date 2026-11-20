@@ -9,9 +9,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="爱达荷州立大学 vs 南达科他州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/534f89ddd702744e746139d2b442ac88.png" group-title="篮球",爱达荷州立大学 vs 南达科他州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="科英布拉 vs 原子|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/63cff15772a23d1e895dbc535a31ff2b.png" group-title="篮球",科英布拉 vs 原子|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="禾巴卡马卡比 vs 阿特纳斯ASC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/958e17dbdb238d828bf43689261c8458.png" group-title="篮球",禾巴卡马卡比 vs 阿特纳斯ASC|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960292.m3u8?auth_key=1795216330-0-0-951dd8ac6acd769a732bc62a718f5863
+https://pullgz721.qmuiw.com/live/sd-2-3960292.m3u8?auth_key=1795216670-0-0-3593dbf4a0bae4cb6988352d2fb23798
 #EXTINF:-1 tvg-name="弗兰萨 vs 尤尼奥科林蒂安|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a65268effd9adde355c5816840d3ee14.png" group-title="篮球",弗兰萨 vs 尤尼奥科林蒂安|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939579.m3u8?auth_key=1795216330-0-0-ec31e527e917b5645e747d1db6b9bd9c
+https://pullgz721.qmuiw.com/live/sd-2-3939579.m3u8?auth_key=1795216670-0-0-caf9b21af264f2173b149ac3d54a8052
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
