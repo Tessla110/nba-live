@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山形飞龙 vs 金泽武士团|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/22f6a4d64897d33f8408f6d1e6829058.png" group-title="篮球",山形飞龙 vs 金泽武士团|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东京八王子市火车 vs 福岛火绊|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 福岛火绊|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="爱媛维京人 vs 冈山三环|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/718edfc8f37a1f76693b8c117bd41eb8.png" group-title="篮球",爱媛维京人 vs 冈山三环|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="米格代尔哈曼 vs 莫茨金村马卡比|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/37ac3b9de5467e2eb0781d5da642c4f4.png" group-title="篮球",米格代尔哈曼 vs 莫茨金村马卡比|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="艾丽祖尔阿什克伦 vs 佩塔提克瓦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8f397440b09c340036b78b2a9c0b43a3.png" group-title="篮球",艾丽祖尔阿什克伦 vs 佩塔提克瓦|完场
@@ -16,14 +10,14 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="比尔舒华夏普尔 vs 内斯兹奥纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/52bd5971402ea968740633125e8ec15a.png" group-title="篮球",比尔舒华夏普尔 vs 内斯兹奥纳|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="石家庄英励女篮 vs 山东赤水河酒女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/90f31c91c132ca2873b6e574dd0f1d79.png" group-title="篮球",石家庄英励女篮 vs 山东赤水河酒女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958896.m3u8?auth_key=1795180130-0-0-7cc05b40efca5096fa09608120a8b03a
-#EXTINF:-1 tvg-name="合肥文旅女篮 vs 武汉盛帆黄鹤女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n1c29ee5db33794e61fb8eb067fd8921c.png" group-title="篮球",合肥文旅女篮 vs 武汉盛帆黄鹤女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958897.m3u8?auth_key=1795180131-0-0-1c156ea31fbc1d5f270f16fe43ac73fa
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958896.m3u8?auth_key=1795180451-0-0-99b891d28a822bdb511b2896e52871c9
+#EXTINF:-1 tvg-name="合肥文旅女篮 vs 武汉盛帆黄鹤女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n1c29ee5db33794e61fb8eb067fd8921c.png" group-title="篮球",合肥文旅女篮 vs 武汉盛帆黄鹤女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北京 vs 广厦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/46cf02209721e88c21a85f35faeaa5f1.png" group-title="篮球",北京 vs 广厦|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948087.m3u8?auth_key=1795180131-0-0-4cc4286b0600330f0716bb818660154a
-#EXTINF:-1 tvg-name="焦作云台山 vs 烟台白燕|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d26882a709ce4538d7b7ba5bc6ed554b.png" group-title="篮球",焦作云台山 vs 烟台白燕|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960188.m3u8?auth_key=1795180131-0-0-e2b326b41fa305f03d8d3e606d68b0e8
-#EXTINF:-1 tvg-name="贵州猛龙 vs 重庆苏科雄狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62ed9d90c3d030310c6316a001f302dd.png" group-title="篮球",贵州猛龙 vs 重庆苏科雄狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960189.m3u8?auth_key=1795180131-0-0-d75d11afb530269ec3edcda3183b365e
+https://pullgz721.qmuiw.com/live/hd-zh-2-3948087.m3u8?auth_key=1795180451-0-0-04b2df53b4b807ffc01ccfc7d7af306a
+#EXTINF:-1 tvg-name="焦作云台山 vs 烟台白燕|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d26882a709ce4538d7b7ba5bc6ed554b.png" group-title="篮球",焦作云台山 vs 烟台白燕|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="贵州猛龙 vs 重庆苏科雄狮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62ed9d90c3d030310c6316a001f302dd.png" group-title="篮球",贵州猛龙 vs 重庆苏科雄狮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
