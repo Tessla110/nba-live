@@ -1,13 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨格勒布希伯纳 vs 克瓦内尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d31674da697fcfb4b9cb58ba62bf023e.png" group-title="篮球",萨格勒布希伯纳 vs 克瓦内尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨莫波尔 vs 杜布罗尼克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bb1734ce7ec026505c9f62768d5d7c25.png" group-title="篮球",萨莫波尔 vs 杜布罗尼克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="扎达尔 vs 萨波克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/275832817676b5363da455a442bb7068.png" group-title="篮球",扎达尔 vs 萨波克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德里纳 vs 戈拉兹德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2687a3c8bb1869fb649de90c2ef2dc6f.png" group-title="篮球",德里纳 vs 戈拉兹德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="罗阿讷 vs 利摩日|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7dc2f17f8c30e259037a7987ec71d09.png" group-title="篮球",罗阿讷 vs 利摩日|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3941654.m3u8?auth_key=1795205101-0-0-93522b2ee1002d4975ce2e955bddc8f7
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
