@@ -3,13 +3,15 @@
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马库卢索 vs GD体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8c2c3101b3704d349ee8e556936f6e9c.png" group-title="篮球",马库卢索 vs GD体育|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38134086682da4fa4f4c4aac84d0e049.png" group-title="篮球",萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939469.m3u8?auth_key=1795193469-0-0-105b4394a6f36ea550c6aca7541d8ed5
-#EXTINF:-1 tvg-name="盖拉多女篮 vs 科努特格里西姆女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d4a6ded31833cfa6daebae65c992901.png" group-title="篮球",盖拉多女篮 vs 科努特格里西姆女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960801.m3u8?auth_key=1795193469-0-0-57b99269bc78c8efb512ae247ed670c5
+#EXTINF:-1 tvg-name="萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38134086682da4fa4f4c4aac84d0e049.png" group-title="篮球",萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="盖拉多女篮 vs 科努特格里西姆女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d4a6ded31833cfa6daebae65c992901.png" group-title="篮球",盖拉多女篮 vs 科努特格里西姆女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格罗德诺 vs 卡拉斯莫吉廖夫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f5be41d73956fbfee470ca8a41da345.png" group-title="篮球",格罗德诺 vs 卡拉斯莫吉廖夫|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="费内巴切科莱吉 vs 埃拉布篮球|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/878167bdde4291dae43ef6fd8360d1e9.png" group-title="篮球",费内巴切科莱吉 vs 埃拉布篮球|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930447.m3u8?auth_key=1795193469-0-0-bb71d8736fba824bc47a236396766eed
+https://pullgz721.qmuiw.com/live/sd-2-3930447.m3u8?auth_key=1795193803-0-0-2b0a58445f2d9fe0caf48b210118b361
+#EXTINF:-1 tvg-name="能源女篮 vs 新西伯利亚迪纳摩女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fdda503921ce704fea8662678ed2e19a.png" group-title="篮球",能源女篮 vs 新西伯利亚迪纳摩女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3939344.m3u8?auth_key=1795193803-0-0-cca2591d32e6cfe8e73d8943ee3cc2d8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
