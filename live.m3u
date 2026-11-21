@@ -1,19 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="贝尔菲乌斯 vs 菲尔德真特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/86eb4908777714248caec71cbbc0c7db.png" group-title="篮球",贝尔菲乌斯 vs 菲尔德真特|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="斯克特 vs 瓦雷格姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e7f293ffbc2a387caabf74bbb9dc10d0.png" group-title="篮球",斯克特 vs 瓦雷格姆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="青年哥廷森女篮 vs 科特赖克女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c21899345ab5493280b7f52a341e245c.jpg" group-title="篮球",青年哥廷森女篮 vs 科特赖克女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="幂威女篮 vs 莱顿女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a36a06861089beba608981d78494480.png" group-title="篮球",幂威女篮 vs 莱顿女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="NB奎鲁兹 vs SC布拉加|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35ed61014bc8d5b4dbaffff572f810ca.png" group-title="篮球",NB奎鲁兹 vs SC布拉加|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="穆尔西亚 vs 萨拉戈萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e3a3ec04a37490b55dfea4d2c2157e0a.png" group-title="篮球",穆尔西亚 vs 萨拉戈萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3932993.m3u8?auth_key=1795298459-0-0-731762c0c2737070e6181daf0d65dc32
+https://pullgz721.qmuiw.com/live/sd-2-3932993.m3u8?auth_key=1795298768-0-0-95c661c8e1e5c15a0023275bc43c0674
 #EXTINF:-1 tvg-name="威斯康星密尔沃基大学 vs 圣托马斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/539cb7c88f8e501fad14df662ba6ec4d.png" group-title="篮球",威斯康星密尔沃基大学 vs 圣托马斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="印第安纳州立大学 vs 中田纳西州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/16a9868974df1f91d3980a2f7237d26c.png" group-title="篮球",印第安纳州立大学 vs 中田纳西州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="恩波利女篮 vs 萨勒诺92女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/461f71708580d186695a445548f8c63d.png" group-title="篮球",恩波利女篮 vs 萨勒诺92女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
