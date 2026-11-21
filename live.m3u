@@ -1,19 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="基皮纳 vs 卡塔查|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8870ca8f630b84da8768f51e4bb4f315.png" group-title="篮球",基皮纳 vs 卡塔查|完场
+#EXTINF:-1 tvg-name="奎梅萨 vs 费罗卡利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e7c38254e091ce34b7a9d523cbdc9388.png" group-title="篮球",奎梅萨 vs 费罗卡利|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维姆佩林女篮 vs 艾斯堡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0d84213670cec27e34784666440704ae.png" group-title="篮球",维姆佩林女篮 vs 艾斯堡女篮|完场
+#EXTINF:-1 tvg-name="贝内克斯 vs 瓦卡洛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/920951f1e4b1c901c1e3eb37aeb3b996.png" group-title="篮球",贝内克斯 vs 瓦卡洛|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="尼达罗斯喷气机 vs 辛卓老虎|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0f38ee4e61e948537935251fe88a0a03.png" group-title="篮球",尼达罗斯喷气机 vs 辛卓老虎|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="费林根 vs 贝鲁姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4a93be162205479d8c743fbeb8800ef8.png" group-title="篮球",费林根 vs 贝鲁姆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿利图斯爱国者 vs 克莱佩达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a11aed477c8c46bdaa91f350bcd470f0.png" group-title="篮球",阿利图斯爱国者 vs 克莱佩达|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿尔塔女篮 vs 西伯尼亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9b425e7e0902c963d8583bbc5eaa65e1.png" group-title="篮球",阿尔塔女篮 vs 西伯尼亚女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="贝内克斯 vs 瓦卡洛|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/920951f1e4b1c901c1e3eb37aeb3b996.png" group-title="篮球",贝内克斯 vs 瓦卡洛|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961043.m3u8?auth_key=1795278180-0-0-eaddc9840c902707068ec87b2fa28443
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
