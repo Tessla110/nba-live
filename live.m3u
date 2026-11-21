@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="南泰利耶国王 vs 于默奥|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5179611a18facf5fd55d73d1867dc8a.png" group-title="篮球",南泰利耶国王 vs 于默奥|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3927463.m3u8?auth_key=1795281268-0-0-efdf3e61a31bf94968f848f6f6f9700c
+#EXTINF:-1 tvg-name="南泰利耶国王 vs 于默奥|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5179611a18facf5fd55d73d1867dc8a.png" group-title="篮球",南泰利耶国王 vs 于默奥|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="埃什盖拉 vs CAB马德拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/42c8419418aa442d862afc94ed60d06f.png" group-title="篮球",埃什盖拉 vs CAB马德拉|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布尔诺B女篮 vs 斯特拉科尼采女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/83c4ad9e8b23a734eff307ab68c1d2b6.png" group-title="篮球",布尔诺B女篮 vs 斯特拉科尼采女篮|完场
@@ -10,10 +10,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="路斯坦尼亚 vs 桑加柳什|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/681f80fb2e3162384a9a4b1c3bd51149.png" group-title="篮球",路斯坦尼亚 vs 桑加柳什|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕纳辛纳科斯 vs 马鲁西|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bc5e8449c4324653a2f31832866aef5c.png" group-title="篮球",帕纳辛纳科斯 vs 马鲁西|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942156.m3u8?auth_key=1795281268-0-0-881bb169a6583ad30160c838e003c69a
+https://pullgz721.qmuiw.com/live/sd-2-3942156.m3u8?auth_key=1795281572-0-0-cfc99dfcc8b662685e96ac340665753e
 #EXTINF:-1 tvg-name="泛塞萨洛尼基人 vs 阿里斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9c2153014b07c0db6c7b0282d8852852.png" group-title="篮球",泛塞萨洛尼基人 vs 阿里斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942157.m3u8?auth_key=1795281268-0-0-c18e4cc59cb66f5ff1ac83c45e1fc00a
+https://pullgz721.qmuiw.com/live/sd-2-3942157.m3u8?auth_key=1795281572-0-0-5344c1b3659ae3bcb7963927c50db22d
 #EXTINF:-1 tvg-name="弗里堡U23 vs 日内瓦狮子U23|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4bf8978302af6a6d2a2fb8c4bbb3b87b.png" group-title="篮球",弗里堡U23 vs 日内瓦狮子U23|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961039.m3u8?auth_key=1795281268-0-0-3a106e7718164db8543b19a68b3b76ce
+https://pullgz721.qmuiw.com/live/sd-2-3961039.m3u8?auth_key=1795281572-0-0-a1caa46b9eb4280e7988e1f6e1c927ee
+#EXTINF:-1 tvg-name="卡兹女篮 vs FSV女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e6526a549e41e0789f0e9a90b58c9987.png" group-title="篮球",卡兹女篮 vs FSV女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
