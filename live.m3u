@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿斯萨法特 vs 斯佐诺基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/58fe15fa7b03bd91c3c896fc72353d7f.png" group-title="篮球",阿斯萨法特 vs 斯佐诺基|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="BCC德索纳女篮 vs 圣马蒂诺女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4864b0ea7b1b89f38d8100aacbfb8e10.png" group-title="篮球",BCC德索纳女篮 vs 圣马蒂诺女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科马尔诺 vs HBK普列维萨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4e8ca1d4f0b2325abdbd1b0fbf6954e4.png" group-title="篮球",科马尔诺 vs HBK普列维萨|完场
@@ -16,6 +14,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布拉格USKB女篮 vs 卓穆托夫女篮B|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/029d1fd543d04c0681e02202d23f6b32.png" group-title="篮球",布拉格USKB女篮 vs 卓穆托夫女篮B|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="绍莱 vs 布拉扎克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2bf886f6dfa01363c7c3da51113f71fe.png" group-title="篮球",绍莱 vs 布拉扎克|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3941648.m3u8?auth_key=1795287855-0-0-3fa359e4316c936f197f808df7e93a3e
+https://pullgz721.qmuiw.com/live/sd-2-3941648.m3u8?auth_key=1795288174-0-0-87be2acd09664bf1dc91f9bbeaa4cd89
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
