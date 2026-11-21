@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="威斯康星密尔沃基大学 vs 圣托马斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/539cb7c88f8e501fad14df662ba6ec4d.png" group-title="篮球",威斯康星密尔沃基大学 vs 圣托马斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="印第安纳州立大学 vs 中田纳西州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/16a9868974df1f91d3980a2f7237d26c.png" group-title="篮球",印第安纳州立大学 vs 中田纳西州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="恩波利女篮 vs 萨勒诺92女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/461f71708580d186695a445548f8c63d.png" group-title="篮球",恩波利女篮 vs 萨勒诺92女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="康塞普西翁大学女篮 vs 斯波蒂瓦女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/be047205fa0d4b9da55f6d500271fd72.png" group-title="篮球",康塞普西翁大学女篮 vs 斯波蒂瓦女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密苏里州立大学 vs 德瑞克大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/085c3e9138e24937b40356cdd1751ff8.png" group-title="篮球",密苏里州立大学 vs 德瑞克大学|完场
@@ -16,6 +10,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="里斯本塞尔斯亚诺斯 vs TVDE协会|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/696ae2beec6a57d0180ed88842cf00ff.png" group-title="篮球",里斯本塞尔斯亚诺斯 vs TVDE协会|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="宾汉顿大学 vs 西点军校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d5cc3535b8e9dacbe9408e7e99ae9a6e.png" group-title="篮球",宾汉顿大学 vs 西点军校|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="CB维亚娜女篮 vs 玛丽亚达丰特女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bfe6284bd31e043bf47067defc0a9a01.png" group-title="篮球",CB维亚娜女篮 vs 玛丽亚达丰特女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="BAC vs 比兰尼塞斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2163bd0ee393c5854f57cd83787bed90.png" group-title="篮球",BAC vs 比兰尼塞斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
