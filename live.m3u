@@ -2,7 +2,9 @@
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布尔萨体育 vs 博尔多篮球会|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/baa06b63541e719e3854961a7a304955.png" group-title="篮球",布尔萨体育 vs 博尔多篮球会|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929853.m3u8?auth_key=1795289484-0-0-27b5976e8a69095452daa59391c96bb3
+https://pullgz721.qmuiw.com/live/sd-2-3929853.m3u8?auth_key=1795289825-0-0-d19ae17a3b37e1f3d664c9d875dc203c
+#EXTINF:-1 tvg-name="哥廷根 vs 梅迪拜罗伊特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/40ead539e5748ac9bb5385c7407c8957.png" group-title="篮球",哥廷根 vs 梅迪拜罗伊特|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黄金海岸袋鼠 vs 维拉尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/50b7988cb8a14d642b7a98ec6cd0d1cc.png" group-title="篮球",黄金海岸袋鼠 vs 维拉尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="EB伊比利亚 vs CB 萨拉戈萨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac19ffec1405f5ed4466a166916d24d5.png" group-title="篮球",EB伊比利亚 vs CB 萨拉戈萨|完场
@@ -17,7 +19,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="普鲁斯科 vs KS沃维奇|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/078fd11faa9947b3b2065b638cc5d98f.png" group-title="篮球",普鲁斯科 vs KS沃维奇|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布伦瑞克 vs 保罗沙|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb70916c23a3fa60fcfafe9c93ae50b3.png" group-title="篮球",布伦瑞克 vs 保罗沙|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936110.m3u8?auth_key=1795289484-0-0-ba38cab83929b1cec46f9f9aa70eade6
+#EXTINF:-1 tvg-name="布伦瑞克 vs 保罗沙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb70916c23a3fa60fcfafe9c93ae50b3.png" group-title="篮球",布伦瑞克 vs 保罗沙|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
