@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥林匹亚科斯女篮 vs 帕纳多里高斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23e74531b65bda9fd68e6ea835907bba.png" group-title="篮球",奥林匹亚科斯女篮 vs 帕纳多里高斯女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克雷廷加 vs 马萨基爱|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/49733bcd43e176bb7c96189a5cd07e7d.png" group-title="篮球",克雷廷加 vs 马萨基爱|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="真特罗篮球 vs 莫吉马尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/478ca09ed8a9342b54f3a20f224e6870.png" group-title="篮球",真特罗篮球 vs 莫吉马尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="土耳其电信 vs 托法斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4020fad7d6e6f9272cd6630a3fe4f450.png" group-title="篮球",土耳其电信 vs 托法斯|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3929991.m3u8?auth_key=1795270754-0-0-dcb114c4e27434c39728982249142590
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
