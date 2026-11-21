@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="中原大学 vs 台湾艺大|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ba95936390b7180d34770d0a81c86a90.png" group-title="篮球",中原大学 vs 台湾艺大|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="华盛顿大学女篮 vs 斯坦福大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3349cb0a71ef470490f4e262f95941b8.png" group-title="篮球",华盛顿大学女篮 vs 斯坦福大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科切拉谷湖人 vs 斯托克顿国王|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/060a50745811410beeb6ac8237b7cb19.png" group-title="NBA",科切拉谷湖人 vs 斯托克顿国王|完场
