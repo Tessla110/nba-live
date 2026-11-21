@@ -1,19 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="广东奥普特女篮 vs 上海浦发银行女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/00523cd4bf48d4e5c995253012cce01e.png" group-title="篮球",广东奥普特女篮 vs 上海浦发银行女篮|完场
+#EXTINF:-1 tvg-name="科卡莱 vs 科尼亞格利西姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4ce3593899de40d188cf87ecd8bd7d0f.png" group-title="篮球",科卡莱 vs 科尼亞格利西姆|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="河南豫光金铅女篮 vs 江苏南钢女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fc01a1c1284848305881929497c06cb.png" group-title="篮球",河南豫光金铅女篮 vs 江苏南钢女篮|完场
+#EXTINF:-1 tvg-name="格但斯克戈尔塔塔学院 vs 索科尔米基乔德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3dcc0182fd427b9811bf1a7392d913c3.png" group-title="篮球",格但斯克戈尔塔塔学院 vs 索科尔米基乔德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="衢州 vs 金华|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/810b4d56e5981167e446aa53f2117420.png" group-title="篮球",衢州 vs 金华|完场
+#EXTINF:-1 tvg-name="贝尔格莱德红星女篮 vs 塞尔维亚尼巴​​克女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0d051493fd467589222ceefa597447f4.png" group-title="篮球",贝尔格莱德红星女篮 vs 塞尔维亚尼巴​​克女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="江山 vs 杭州|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11e84abf023df2c1730d57a579c8ae8e.png" group-title="篮球",江山 vs 杭州|完场
+#EXTINF:-1 tvg-name="奥林匹亚科斯女篮 vs 帕纳多里高斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23e74531b65bda9fd68e6ea835907bba.png" group-title="篮球",奥林匹亚科斯女篮 vs 帕纳多里高斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="烟台白燕 vs 山东蜜獾|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4ab5b8396cc4df3adae119a1d2091e03.png" group-title="篮球",烟台白燕 vs 山东蜜獾|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="贵州猛龙 vs 杭州经纬|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62ed9d90c3d030310c6316a001f302dd.png" group-title="篮球",贵州猛龙 vs 杭州经纬|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="帕兰加库尔希艾 vs 希卢泰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/48ae3e4b4ea507dd7ad7748ff047ac44.png" group-title="篮球",帕兰加库尔希艾 vs 希卢泰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960247.m3u8?auth_key=1795268793-0-0-2ca96f57be453d1a87ded53aff83af96
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
