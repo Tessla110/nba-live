@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="NCA女篮 vs CSA女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/065da5c34c1e825aad24376978733374.png" group-title="篮球",NCA女篮 vs CSA女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝西克塔斯女篮 vs 伊斯坦布尔青年体育女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8dada59dc3a8f9387271a7910316003c.png" group-title="篮球",贝西克塔斯女篮 vs 伊斯坦布尔青年体育女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="切迪奥斯曼 vs 哈尔体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/071adc8252080a140f7d93eb5e30271b.png" group-title="篮球",切迪奥斯曼 vs 哈尔体育|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930418.m3u8?auth_key=1795265553-0-0-cafd6a010e731876317323f1a0364fbf
+#EXTINF:-1 tvg-name="切迪奥斯曼 vs 哈尔体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/071adc8252080a140f7d93eb5e30271b.png" group-title="篮球",切迪奥斯曼 vs 哈尔体育|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塔皮奥拉洪卡女篮 vs 托帕女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5cdd6f28ea4d50e27397f42d9512f03.png" group-title="篮球",塔皮奥拉洪卡女篮 vs 托帕女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
