@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德比开拓者 vs 纽卡斯尔骑士|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6d11287a4f2cc1c4e647c2c6907aede9.png" group-title="篮球",德比开拓者 vs 纽卡斯尔骑士|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="纳穆尔女篮 vs 列治女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f2d7f98970a33b5d4637ea9260ee6172.png" group-title="篮球",纳穆尔女篮 vs 列治女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布莱恩女篮 vs 沙勒罗瓦女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/145e7aeb70ff45fca3cf4bccfd71b080.png" group-title="篮球",布莱恩女篮 vs 沙勒罗瓦女篮|完场
@@ -22,7 +20,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="幂威女篮 vs 莱顿女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a36a06861089beba608981d78494480.png" group-title="篮球",幂威女篮 vs 莱顿女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="穆尔西亚 vs 萨拉戈萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e3a3ec04a37490b55dfea4d2c2157e0a.png" group-title="篮球",穆尔西亚 vs 萨拉戈萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3932993.m3u8?auth_key=1795297449-0-0-cf5bd8f9690f0ee2b4410ba8fe43b2f5
+https://pullgz721.qmuiw.com/live/sd-2-3932993.m3u8?auth_key=1795297805-0-0-075f15ab0e92417708d70829337294b4
 #EXTINF:-1 tvg-name="恩波利女篮 vs 萨勒诺92女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/461f71708580d186695a445548f8c63d.png" group-title="篮球",恩波利女篮 vs 萨勒诺92女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="康塞普西翁大学女篮 vs 斯波蒂瓦女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/be047205fa0d4b9da55f6d500271fd72.png" group-title="篮球",康塞普西翁大学女篮 vs 斯波蒂瓦女篮|完场
