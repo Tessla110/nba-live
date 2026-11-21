@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="坦佩雷恩 vs 拉赫蒂|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/709cfe4bf02558b91bf295d9adce2940.png" group-title="篮球",坦佩雷恩 vs 拉赫蒂|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蒂米什瓦拉 vs 克拉约瓦大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5eb735aeea89dac6aa2877e26c3241c6.png" group-title="篮球",蒂米什瓦拉 vs 克拉约瓦大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="沃伦塔利 vs 奥雷迪|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3ec247d4aca544ebadcd6fd67db59773.png" group-title="篮球",沃伦塔利 vs 奥雷迪|完场
+#EXTINF:-1 tvg-name="伊犁 vs 普里什蒂纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/588e528492cb3015ea3117489db0097a.png" group-title="篮球",伊犁 vs 普里什蒂纳|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北卡罗莱纳绿乡大学 vs 南卡罗莱纳北部大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f0511cdf4f8e08a89d856cc6ad80b493.jpg" group-title="篮球",北卡罗莱纳绿乡大学 vs 南卡罗莱纳北部大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="瓦莱塔狮子 vs 德皮罗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1cefb5b50346cf2b401f33ba45b0d640.png" group-title="篮球",瓦莱塔狮子 vs 德皮罗|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄斯特拉法 vs BK奥洛穆茨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6f980a65d13298e09ac248bda81acbed.png" group-title="篮球",俄斯特拉法 vs BK奥洛穆茨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3924788.m3u8?auth_key=1795284152-0-0-a2523c9105c9b6bb2907c4f8339cd9d7
+https://pullgz721.qmuiw.com/live/sd-2-3924788.m3u8?auth_key=1795284472-0-0-81fce55d715820281c299253f19e3dec
+#EXTINF:-1 tvg-name="特拉维夫夏普尔 vs 艾罗尼基尔亚特阿塔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ca224b11d94be0f26e2043aa8584db09.png" group-title="篮球",特拉维夫夏普尔 vs 艾罗尼基尔亚特阿塔|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3938319.m3u8?auth_key=1795284472-0-0-8c6849bda1d1030339c267ead5c26347
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
