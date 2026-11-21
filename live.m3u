@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="泰坦学院 vs 特斯维基亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dd2c4467a4cc18bf6e1a02780588ffb3.png" group-title="篮球",泰坦学院 vs 特斯维基亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="内斯贝艾登女篮 vs 埃姆拉克女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4cc6c8d992de830e6a993dbac1b08759.png" group-title="篮球",内斯贝艾登女篮 vs 埃姆拉克女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加济安泰普 vs 格兹特佩|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b320842f96c44ce38ee34fd197e15916.png" group-title="篮球",加济安泰普 vs 格兹特佩|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930382.m3u8?auth_key=1795272993-0-0-2c8496b59e472764d6595e3f72cc5c8d
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
