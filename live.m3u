@@ -3,7 +3,13 @@
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="安德列斯奥斯 vs 里昂索|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fd7301ebcdbbd591c7bde338e7815476.png" group-title="篮球",安德列斯奥斯 vs 里昂索|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="图尔联都会 vs 塔布卢尔德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/08bbbba5b0742cf0e1bef3589407ba05.png" group-title="篮球",图尔联都会 vs 塔布卢尔德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="UJAP坎佩尔 vs 伊埃尔土伦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/55cbae09b8590449f70b672c2e51b6d8.png" group-title="篮球",UJAP坎佩尔 vs 伊埃尔土伦|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特拉华州立女篮 vs 罗格斯大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6f1a3c9310c4468bb97916e8bc9f0f17.png" group-title="篮球",特拉华州立女篮 vs 罗格斯大学女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="普罗旺斯 vs 迪纳恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d61efe858407398d662c27b7df4259e4.png" group-title="篮球",普罗旺斯 vs 迪纳恩|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥尔登堡 vs 法兰克福|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/50a44d30a4b17bbd36061c0ffc580d1c.png" group-title="篮球",奥尔登堡 vs 法兰克福|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -22,8 +28,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="普渡大学韦恩堡分校 vs 克莱门特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ccbda95a0eecf0098c390b15d8c1dcf8.png" group-title="篮球",普渡大学韦恩堡分校 vs 克莱门特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="雄狮 vs 克洛斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2aca9c5bc19084d1d5d26f4cf99fabd9.png" group-title="篮球",雄狮 vs 克洛斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3928775.m3u8?auth_key=1795294726-0-0-f719a3772caab5f4f48600182a0f3f7e
+https://pullgz721.qmuiw.com/live/sd-2-3928775.m3u8?auth_key=1795294813-0-0-0f4d65e7e136918f5ede980c3cc494f1
 #EXTINF:-1 tvg-name="南泰尔 vs 斯特拉斯堡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7ef0be43a23caeb29a1b06a53afa0d27.png" group-title="篮球",南泰尔 vs 斯特拉斯堡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3941652.m3u8?auth_key=1795294726-0-0-ebaa4d99195030c544e2807275903d51
+https://pullgz721.qmuiw.com/live/sd-2-3941652.m3u8?auth_key=1795294813-0-0-cba5bfc95082343c8f27a53e8325faed
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
