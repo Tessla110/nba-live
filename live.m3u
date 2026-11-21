@@ -1,7 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维尼亚斯斯特卡斯 vs 苏度瓦曼廷加|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fcfaa12ce2604d472a17f1eeb193e5ce.png" group-title="篮球",维尼亚斯斯特卡斯 vs 苏度瓦曼廷加|完场
+#EXTINF:-1 tvg-name="基辅 vs 扎波罗热|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/56ab8fea8f0a3b8dea4b653f8d3d91ca.png" group-title="篮球",基辅 vs 扎波罗热|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="奥尔维克女篮 vs 奥斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/95010246969b66de9fad9dc5b69a8930.png" group-title="篮球",奥尔维克女篮 vs 奥斯女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="候格斯堡女篮 vs 乌普萨拉女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/06f56e296489152d7eb01511bd957c0a.png" group-title="篮球",候格斯堡女篮 vs 乌普萨拉女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯拉维亚布拉格ERA NBK vs 布尔诺|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cb3a3db1ff9152a545c00875668bc389.png" group-title="篮球",斯拉维亚布拉格ERA NBK vs 布尔诺|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3924700.m3u8?auth_key=1795276594-0-0-5563a1c504c4d89ba18cafa4e1644e24
+#EXTINF:-1 tvg-name="维耶 vs 华路斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9349f07dea6b453eb8a5782779e23533.png" group-title="篮球",维耶 vs 华路斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
