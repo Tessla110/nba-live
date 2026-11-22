@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="戈美尔B队 vs 努伯B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f040d0d13f74420409f5ae1927590f5.png" group-title="篮球",戈美尔B队 vs 努伯B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="格罗德诺GrSU vs 卡拉斯莫吉廖夫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9064e888a0bd14f9514787edf2e9413a.png" group-title="篮球",格罗德诺GrSU vs 卡拉斯莫吉廖夫|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黎明学院 vs 文化大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/041fd440b673dac192587be1b453d038.png" group-title="篮球",黎明学院 vs 文化大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哈维若夫女篮 vs 斯特拉科尼采女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5fbdb1594dcb479989cf6579403e6d46.png" group-title="篮球",哈维若夫女篮 vs 斯特拉科尼采女篮|完场
