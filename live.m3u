@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="安美鲁 vs TNT 塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/47a93361979a07558245fd0c89afcc93.png" group-title="篮球",安美鲁 vs TNT 塔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="杰里斯女篮 vs 埃斯蒂特斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ce57847db6febda8b5572123b441772.jfif" group-title="篮球",杰里斯女篮 vs 埃斯蒂特斯女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奎鲁兹奥诺索II vs 莫斯卡维德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/07af3ed83fd9544cf6ef167deb2fb01e.png" group-title="篮球",奎鲁兹奥诺索II vs 莫斯卡维德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="里加斯青年 vs TTU塔林|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cb763ecb2b9b5cbfe7a02348405da67a.png" group-title="篮球",里加斯青年 vs TTU塔林|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="CLIP B（W） vs AAUTAD女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/34cc968f70a54c2ebfc1d80092457ced.png" group-title="篮球",CLIP B（W） vs AAUTAD女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="KS公爵女篮 vs 火焰篮球会女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fd9974323fa8827e7daf8ef3f4dcfebd.jpg" group-title="篮球",KS公爵女篮 vs 火焰篮球会女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿夫姆女篮 vs 比拉马女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/234e560d0a1634ef6f3c786c7a983be9.png" group-title="篮球",阿夫姆女篮 vs 比拉马女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯卡法蒂 vs 坎图|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ace16b1642ff49a99e2fda460402ce45.png" group-title="篮球",斯卡法蒂 vs 坎图|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
