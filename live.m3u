@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥林匹亚科斯 vs 卡尔季察ASK|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e713068dda3d8da9f9872e61a850a142.png" group-title="篮球",奥林匹亚科斯 vs 卡尔季察ASK|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942159.m3u8?auth_key=1795357996-0-0-ef70939f6421fd36fda863d3fb4ae161
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
