@@ -1,21 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="费路尔女篮 vs 马略卡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/34fcdecc553eb970f0303cc8065da163.png" group-title="篮球",费路尔女篮 vs 马略卡女篮|完场
+#EXTINF:-1 tvg-name="埃斯蒂特斯 vs 奥伦塞|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/41f90d8aaf65e8b8f1aeaf774bdef591.png" group-title="篮球",埃斯蒂特斯 vs 奥伦塞|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="格尔尼卡女篮 vs 卡迪拉苏女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e0e3b5ea69e49a990af2dd2d8837bf6.jpg" group-title="篮球",格尔尼卡女篮 vs 卡迪拉苏女篮|完场
+#EXTINF:-1 tvg-name="阿尔巴塞特 vs 基普斯夸|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bf01ec413d73333c6bf54c01b10b2616.jpg" group-title="篮球",阿尔巴塞特 vs 基普斯夸|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="米科诺斯 vs 维科斯猎鹰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d94f2819d2a0659c4bdf57593ed8786a.png" group-title="篮球",米科诺斯 vs 维科斯猎鹰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942158.m3u8?auth_key=1795351820-0-0-2f4a14d8603ee7bafbe37104f0a47081
-#EXTINF:-1 tvg-name="奥布拉多 vs 吉罗纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2a665dd04839b77def746a1280e28a82.png" group-title="篮球",奥布拉多 vs 吉罗纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3932810.m3u8?auth_key=1795351820-0-0-17c5f36de10ac996e89cae1f7810f972
-#EXTINF:-1 tvg-name="毕尔巴鄂 vs 巴斯克尼亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e32f367b5805232d040fcbd502944e58.png" group-title="篮球",毕尔巴鄂 vs 巴斯克尼亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933023.m3u8?auth_key=1795351820-0-0-b74322f3b8a9b468a6badb0ee1c25af6
-#EXTINF:-1 tvg-name="梅加 vs SC德尔比|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a43729b219e030160aaeaee1069661b0.png" group-title="篮球",梅加 vs SC德尔比|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942764.m3u8?auth_key=1795351820-0-0-dfa33c62dc70aa859de1e41bfd0dffbd
-#EXTINF:-1 tvg-name="哈尔基夫斯基 vs 扎波罗热|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8993b08fcd09b049ac612a3b20ac3eb2.png" group-title="篮球",哈尔基夫斯基 vs 扎波罗热|完场
+#EXTINF:-1 tvg-name="恩斯诺女篮 vs 赫罗纳女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3c788e9166dc0d79898fa1080e9bb26b.png" group-title="篮球",恩斯诺女篮 vs 赫罗纳女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="开塞利贝洛娜女篮 vs CBK梅尔辛女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0cf0ad54770c2dcb0db02c30d9053dae.jfif" group-title="篮球",开塞利贝洛娜女篮 vs CBK梅尔辛女篮|完场
+#EXTINF:-1 tvg-name="瓦伦西亚女篮 vs 雷加利斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e696ae074e98d69027a9346ad374619b.png" group-title="篮球",瓦伦西亚女篮 vs 雷加利斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="拉科鲁尼亚 vs 莱里达|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c07c10156a191227aba68cc149673084.png" group-title="篮球",拉科鲁尼亚 vs 莱里达|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3932840.m3u8?auth_key=1795352822-0-0-2d73eb067f236b2c3028a7203cb97071
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
