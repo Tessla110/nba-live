@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="汉堡 vs 哈根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b39c1fc2fbfd73b3b04fbeae9837dcc8.png" group-title="篮球",汉堡 vs 哈根|完场
+#EXTINF:-1 tvg-name="卡卡94 vs 兹拉蒂博尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a6b04d092711119f0c28209cb3e257c2.png" group-title="篮球",卡卡94 vs 兹拉蒂博尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="路德维希堡 vs 中央德国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2b434c60d717f359dc315064848bbf9e.png" group-title="篮球",路德维希堡 vs 中央德国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795368744-0-0-526666421bf8b1a3ab014e408903a07f
-#EXTINF:-1 tvg-name="凯拉KK vs 帕尔努|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/63c64ecee179918d8e78502ed5011203.png" group-title="篮球",凯拉KK vs 帕尔努|完场
+#EXTINF:-1 tvg-name="特雷普卡 vs KB联盟|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/57695aa0211a3ddd32c2737c6d493161.png" group-title="篮球",特雷普卡 vs KB联盟|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="利物浦 vs 莱切斯特|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a64f3e95a66f881145e9323006de132.png" group-title="篮球",利物浦 vs 莱切斯特|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3935666.m3u8?auth_key=1795368744-0-0-45a8e9a390c63f3dab0bbf0ed55f2f14
-#EXTINF:-1 tvg-name="曼彻斯特篮球 vs 伦敦雄狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/79c14f61346b8495cf35dfdd9dcdcd6e.png" group-title="篮球",曼彻斯特篮球 vs 伦敦雄狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3935941.m3u8?auth_key=1795368744-0-0-bba818e4baa54cf8eab9785cb146c195
+#EXTINF:-1 tvg-name="安美鲁 vs TNT 塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/47a93361979a07558245fd0c89afcc93.png" group-title="篮球",安美鲁 vs TNT 塔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="杰里斯女篮 vs 埃斯蒂特斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ce57847db6febda8b5572123b441772.jfif" group-title="篮球",杰里斯女篮 vs 埃斯蒂特斯女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
