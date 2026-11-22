@@ -5,11 +5,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贺森斯 vs 哥本哈根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d7618ccd719638c4cd4ebb10d9837a6b.jpg" group-title="篮球",贺森斯 vs 哥本哈根|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴黎 vs 格拉沃利讷|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f96bb22cdad391337c9f1a8585b07dcc.png" group-title="篮球",巴黎 vs 格拉沃利讷|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3941653.m3u8?auth_key=1795367777-0-0-9b7532d722b11d3dfb991a8b62e9b574
+#EXTINF:-1 tvg-name="巴黎 vs 格拉沃利讷|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f96bb22cdad391337c9f1a8585b07dcc.png" group-title="篮球",巴黎 vs 格拉沃利讷|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="汉堡 vs 哈根|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b39c1fc2fbfd73b3b04fbeae9837dcc8.png" group-title="篮球",汉堡 vs 哈根|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936167.m3u8?auth_key=1795367777-0-0-0312880b6bd941bb744eb5c5c5631d14
+https://pullgz721.qmuiw.com/live/sd-2-3936167.m3u8?auth_key=1795368087-0-0-f209204eb626d3675904810e99e5ee0b
 #EXTINF:-1 tvg-name="路德维希堡 vs 中央德国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2b434c60d717f359dc315064848bbf9e.png" group-title="篮球",路德维希堡 vs 中央德国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795367777-0-0-f7642580667efc90dece94f0b57cebbf
+https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795368087-0-0-b623767591c224159c591dfa7a03fb82
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
