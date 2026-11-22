@@ -5,13 +5,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡华拉女篮 vs 阿闵塔斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f953d5221b7539eb005a5095ce072372.png" group-title="篮球",卡华拉女篮 vs 阿闵塔斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="格尔尼卡女篮 vs 卡迪拉苏女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e0e3b5ea69e49a990af2dd2d8837bf6.jpg" group-title="篮球",格尔尼卡女篮 vs 卡迪拉苏女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="米科诺斯 vs 维科斯猎鹰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d94f2819d2a0659c4bdf57593ed8786a.png" group-title="篮球",米科诺斯 vs 维科斯猎鹰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942158.m3u8?auth_key=1795350682-0-0-4593a3c68fb4a24147981b35aa4677a3
+https://pullgz721.qmuiw.com/live/sd-2-3942158.m3u8?auth_key=1795351011-0-0-c07f3f1b163bf9826db4dafce2345d25
 #EXTINF:-1 tvg-name="奥布拉多 vs 吉罗纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2a665dd04839b77def746a1280e28a82.png" group-title="篮球",奥布拉多 vs 吉罗纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3932810.m3u8?auth_key=1795350682-0-0-7ec79e0fce896483841150058d794cb6
+https://pullgz721.qmuiw.com/live/sd-2-3932810.m3u8?auth_key=1795351011-0-0-2f6ddaee33ea09e391961ead5d789cba
 #EXTINF:-1 tvg-name="毕尔巴鄂 vs 巴斯克尼亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e32f367b5805232d040fcbd502944e58.png" group-title="篮球",毕尔巴鄂 vs 巴斯克尼亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933023.m3u8?auth_key=1795350682-0-0-e02ae93cd290739ff6020f7e006f8bf4
+https://pullgz721.qmuiw.com/live/sd-2-3933023.m3u8?auth_key=1795351011-0-0-ba1e269eff92b0a516b94076805bcdea
 #EXTINF:-1 tvg-name="梅加 vs SC德尔比|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a43729b219e030160aaeaee1069661b0.png" group-title="篮球",梅加 vs SC德尔比|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942764.m3u8?auth_key=1795350682-0-0-edbef45dec51fde216e9de6162748220
+https://pullgz721.qmuiw.com/live/sd-2-3942764.m3u8?auth_key=1795351011-0-0-69ad6f9c347a03222c6c8d108dd0fb59
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
