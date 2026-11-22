@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="黎明学院 vs 文化大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/041fd440b673dac192587be1b453d038.png" group-title="篮球",黎明学院 vs 文化大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哈维若夫女篮 vs 斯特拉科尼采女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5fbdb1594dcb479989cf6579403e6d46.png" group-title="篮球",哈维若夫女篮 vs 斯特拉科尼采女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="下诺夫哥罗德B队 vs 圣彼得堡泽尼特青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/30bd9655556410ac4cb5df4c984f90a7.png" group-title="篮球",下诺夫哥罗德B队 vs 圣彼得堡泽尼特青年队|完场
@@ -10,6 +8,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕尔马彼尔姆青年队 vs 海参崴迪纳摩B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6754032207caa611d91be062fb943088.png" group-title="篮球",帕尔马彼尔姆青年队 vs 海参崴迪纳摩B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨马拉B队 vs 希姆基B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/41b6eae5a9facad9d65bb741582a20ee.png" group-title="篮球",萨马拉B队 vs 希姆基B队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="特鲁特诺夫火车头女篮 vs 卡拉洛维女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/93f44b5bd67aeeafd9b74974733d8a1b.png" group-title="篮球",特鲁特诺夫火车头女篮 vs 卡拉洛维女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="MVP篮球U21 vs 沙迪亚瓦卡纳U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e040beca5858a3ce41a9ad2d840c47eb.png" group-title="篮球",MVP篮球U21 vs 沙迪亚瓦卡纳U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
