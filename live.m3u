@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="曼巴BKB学院 vs 埃克拉姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/632be665f694504ab585b27256621cdb.png" group-title="篮球",曼巴BKB学院 vs 埃克拉姆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="中密西根女篮 vs 明尼苏达女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/376c83e632aa0300c2c8c3fdee43028b.png" group-title="篮球",中密西根女篮 vs 明尼苏达女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿拉巴马农工大学女篮 vs Ole密西西比女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/32ee08f7ceda3cd099349b61ce3c3193.png" group-title="篮球",阿拉巴马农工大学女篮 vs Ole密西西比女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德克萨斯大学 vs 南印第安纳大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/43f763f8d1cfed2f7b04d5296888119a.png" group-title="篮球",德克萨斯大学 vs 南印第安纳大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="大急流城黄金 vs 克利夫兰剑客|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a0fe581252a41a64175f1f59b7f1141.png" group-title="NBA",大急流城黄金 vs 克利夫兰剑客|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄克拉荷马城蓝色 vs 奥斯汀马刺|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a1b3ca9ccb5ec4c12204458e126e6646.png" group-title="NBA",俄克拉荷马城蓝色 vs 奥斯汀马刺|完场
@@ -25,13 +17,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="犹他州立女篮 vs TCU女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n60617864bcb82ac2547fcc1413bd6da2.png" group-title="篮球",犹他州立女篮 vs TCU女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="老鹰 vs 活塞|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4e67b14905a05af9e1bd04406bf8690f.png" group-title="NBA",老鹰 vs 活塞|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931722.m3u8?auth_key=1795387766-0-0-b67c4bdef89c6891bf9d6a42492bb8e3
+#EXTINF:-1 tvg-name="老鹰 vs 活塞|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4e67b14905a05af9e1bd04406bf8690f.png" group-title="NBA",老鹰 vs 活塞|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="德州州立 vs 麦克尼斯州立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ffe5ea24159c4a4f92c81c6ec48bc0d2.png" group-title="篮球",德州州立 vs 麦克尼斯州立|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴乌鲁 vs 尤尼奥科林蒂安|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80131394fd203e73393b93ae8202fba7.png" group-title="篮球",巴乌鲁 vs 尤尼奥科林蒂安|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939659.m3u8?auth_key=1795387766-0-0-5cc4635584429946af24d89f3e4f96c1
+https://pullgz721.qmuiw.com/live/sd-2-3939659.m3u8?auth_key=1795388087-0-0-02012dba902cd74bed05cf78ee8d268f
 #EXTINF:-1 tvg-name="康塞普西翁大学女篮 vs 塞尔吉奥女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/be047205fa0d4b9da55f6d500271fd72.png" group-title="篮球",康塞普西翁大学女篮 vs 塞尔吉奥女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="吉姆纳斯蒂卡女篮 vs 路易斯马特拉拉因女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35f5b6dbae5d13a0b98324ce1cdadda8.png" group-title="篮球",吉姆纳斯蒂卡女篮 vs 路易斯马特拉拉因女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="东肯塔基大学 vs 爱丽思洛衣德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/nd739fb8dca4947d629ae37dbd3f651fc.png" group-title="篮球",东肯塔基大学 vs 爱丽思洛衣德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
