@@ -9,5 +9,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="杰里斯女篮 vs 埃斯蒂特斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8ce57847db6febda8b5572123b441772.jfif" group-title="篮球",杰里斯女篮 vs 埃斯蒂特斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="奎鲁兹奥诺索II vs 莫斯卡维德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/07af3ed83fd9544cf6ef167deb2fb01e.png" group-title="篮球",奎鲁兹奥诺索II vs 莫斯卡维德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
