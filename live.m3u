@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="上奥地利芭蕾舞者 vs 拉登特海恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b66cde8b2403a6628b5eedc27ccc7057.png" group-title="篮球",上奥地利芭蕾舞者 vs 拉登特海恩|完场
+#EXTINF:-1 tvg-name="巴维维尔福德 vs 维勒布鲁克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/59ba5d7b040e680eec9ce97e7601960d.png" group-title="篮球",巴维维尔福德 vs 维勒布鲁克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="哈丁格 vs 埃斯基尔斯图纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/006883b0c57ecc19f984fcd8b3a272f7.png" group-title="篮球",哈丁格 vs 埃斯基尔斯图纳|完场
+#EXTINF:-1 tvg-name="莫斯科中央陆军 vs 喀山尤尼克斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1e50fb1d458ceb79ac86ffcd2730b9fe.png" group-title="篮球",莫斯科中央陆军 vs 喀山尤尼克斯|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3936401.m3u8?auth_key=1795362971-0-0-7964a6ba9ec7223adde86af78333c857
+#EXTINF:-1 tvg-name="舍佩斯女篮 vs 塔高维斯塔女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/79d3fc989490e69a7e95b185ed8b310f.png" group-title="篮球",舍佩斯女篮 vs 塔高维斯塔女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
