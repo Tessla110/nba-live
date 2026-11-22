@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蒂罗尔突袭者 vs 马特斯堡火箭|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ddff7d0b53632b4526e144d991eddf36.png" group-title="篮球",蒂罗尔突袭者 vs 马特斯堡火箭|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贺森斯 vs 哥本哈根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d7618ccd719638c4cd4ebb10d9837a6b.jpg" group-title="篮球",贺森斯 vs 哥本哈根|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴黎 vs 格拉沃利讷|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f96bb22cdad391337c9f1a8585b07dcc.png" group-title="篮球",巴黎 vs 格拉沃利讷|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="TK汉诺威女篮 vs 萨尔路易斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d59e9b3fc04f6c782501a94ea1bfe2e5.png" group-title="篮球",TK汉诺威女篮 vs 萨尔路易斯女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="汉堡 vs 哈根|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b39c1fc2fbfd73b3b04fbeae9837dcc8.png" group-title="篮球",汉堡 vs 哈根|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936167.m3u8?auth_key=1795368087-0-0-f209204eb626d3675904810e99e5ee0b
+https://pullgz721.qmuiw.com/live/sd-2-3936167.m3u8?auth_key=1795368410-0-0-10a4a4368f538e0eaaf0600b4f146e1a
 #EXTINF:-1 tvg-name="路德维希堡 vs 中央德国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2b434c60d717f359dc315064848bbf9e.png" group-title="篮球",路德维希堡 vs 中央德国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795368087-0-0-b623767591c224159c591dfa7a03fb82
+https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795368410-0-0-3854f1aef8961bb470c30faf57b02d8b
+#EXTINF:-1 tvg-name="凯拉KK vs 帕尔努|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/63c64ecee179918d8e78502ed5011203.png" group-title="篮球",凯拉KK vs 帕尔努|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
