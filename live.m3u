@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿斯塔纳 vs 阿特劳飞豹B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8fa213e951d6cf8d3ceb032993b9a142.png" group-title="篮球",阿斯塔纳 vs 阿特劳飞豹B队|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961433.m3u8?auth_key=1795448031-0-0-fcdc3906e115060385637574958dad27
+#EXTINF:-1 tvg-name="阿斯塔纳 vs 阿特劳飞豹B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8fa213e951d6cf8d3ceb032993b9a142.png" group-title="篮球",阿斯塔纳 vs 阿特劳飞豹B队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="达尔城 vs 贝拉铁路|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5e8ec8d9e4c5d850f6a88c6a8e15021.png" group-title="篮球",达尔城 vs 贝拉铁路|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961435.m3u8?auth_key=1795448031-0-0-a0099146c3f6c2d4af7a833c1cc35d52
+https://pullgz721.qmuiw.com/live/sd-2-3961435.m3u8?auth_key=1795448340-0-0-18d5dc122b85dec8cfed6d81a87806ae
 #EXTINF:-1 tvg-name="布尔汉尼耶 vs 波德鲁姆女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a1e718599e87c91b36dc0f91e0b3593d.png" group-title="篮球",布尔汉尼耶 vs 波德鲁姆女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960802.m3u8?auth_key=1795448031-0-0-4d82b8657f77e2a60aefe211ca13d9ab
+https://pullgz721.qmuiw.com/live/sd-2-3960802.m3u8?auth_key=1795448340-0-0-ca8c855f482ef6dcf546268bec99c4c8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
