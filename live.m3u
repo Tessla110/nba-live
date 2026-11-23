@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="泛伊奥尼亚 vs 皮斯奇科|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/69d390df63447a41db41551bf5996428.png" group-title="篮球",泛伊奥尼亚 vs 皮斯奇科|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东伊利诺大学 vs 南本德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/211be35f9a2b6b104b03e4a19c4a1357.png" group-title="篮球",东伊利诺大学 vs 南本德|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="佛罗里达国际大学 vs 加州州立大学长滩分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/87bf4bac3e42a11ce4fcfccae682ca70.png" group-title="篮球",佛罗里达国际大学 vs 加州州立大学长滩分校|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="爱荷华大学女篮 vs 犹他大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/29d9c3e6661169ab79f2ee0b744008ac.png" group-title="篮球",爱荷华大学女篮 vs 犹他大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛罗里达湾岸大学 vs 夏洛特大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8de1834402d4fdb3b5b706ed4fd95400.png" group-title="篮球",佛罗里达湾岸大学 vs 夏洛特大学|完场
@@ -17,5 +11,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="普隆尼亚 vs 普隆尼亚比唐|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/653bbd1aad39a1e5419a82242caec32d.png" group-title="篮球",普隆尼亚 vs 普隆尼亚比唐|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿库雷里 vs 阿克拉内斯IA|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/595709726a4abe64584f65db08745905.png" group-title="篮球",阿库雷里 vs 阿克拉内斯IA|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="密西西比大学 vs 克莱姆森大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5ed5727b6db6ef0a6100b4969452d08.png" group-title="篮球",密西西比大学 vs 克莱姆森大学|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3952524.m3u8?auth_key=1795467363-0-0-7bc66ce2c9fa7fc80ac6576b81580be4
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
