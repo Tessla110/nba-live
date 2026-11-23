@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="基安尼纳女篮 vs PAOK萨洛尼卡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/76cbdecd7ae767621d3ca9e925b207bf.jpg" group-title="篮球",基安尼纳女篮 vs PAOK萨洛尼卡女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布良斯克杰斯纳 vs 坦波夫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3b3e1cf3bc32afc863007751d0b7448c.png" group-title="篮球",布良斯克杰斯纳 vs 坦波夫|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="托莱多女篮 vs 海军水手女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n2601e5c4fa3067cc8ce4b499d03ed0e9.png" group-title="篮球",托莱多女篮 vs 海军水手女篮|完场
@@ -16,6 +14,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪克瓦夏普尔女篮 vs 耶路撒冷列弗夏普尔女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0e31add17b9e32b109ab394bca2fcf8e.png" group-title="篮球",迪克瓦夏普尔女篮 vs 耶路撒冷列弗夏普尔女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="内罗毕城雷霆 vs 乌鲁纳尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fd82d75a82e84b7486056b10c070cb8.png" group-title="篮球",内罗毕城雷霆 vs 乌鲁纳尼|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961443.m3u8?auth_key=1795458983-0-0-9ae83ba3f7cb6c4b9907853089cb473e
+https://pullgz721.qmuiw.com/live/sd-2-3961443.m3u8?auth_key=1795459304-0-0-e6d57ebe6ec7ba941f4f72403ec95238
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
