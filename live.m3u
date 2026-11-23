@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维京人 vs 盖克斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7fdbc61f8313ca6520bc79111d044218.png" group-title="篮球",维京人 vs 盖克斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="自由大学 vs 里奇蒙德大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e8486ff7b9c9de823c407ae17e69f97d.png" group-title="篮球",自由大学 vs 里奇蒙德大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马里兰东海岸大学 vs 印第安纳大学波利斯分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6ff5f6e2f96411ce6483cf7e4f8f3336.png" group-title="篮球",马里兰东海岸大学 vs 印第安纳大学波利斯分校|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="洛约拉马利蒙特大学 vs 加州大学尔湾分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7051bd1b3d717930844616e64b280de5.png" group-title="篮球",洛约拉马利蒙特大学 vs 加州大学尔湾分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波士顿学院 vs 新泽西理工学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/213163cfeddc8328eec120c8daba6022.png" group-title="篮球",波士顿学院 vs 新泽西理工学院|完场
@@ -20,16 +14,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨姆福德学院 vs 北卡阿什维尔分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2a86ff0133f11dc4f28496985762dd00.png" group-title="篮球",萨姆福德学院 vs 北卡阿什维尔分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="史提夫奥斯汀州立大学 vs 天普大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/94c97eadebb6975c23c593a6cd789183.png" group-title="篮球",史提夫奥斯汀州立大学 vs 天普大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961087.m3u8?auth_key=1795393574-0-0-9dc1150b3901df88672c8018267646c3
+https://pullgz721.qmuiw.com/live/sd-2-3961087.m3u8?auth_key=1795393909-0-0-7cc8edabf8f3d11d0b1b2bd16fe07050
 #EXTINF:-1 tvg-name="德国学院PV U21 vs 康塞普西翁大学U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0cba712838b4232477ab23159dc8f832.png" group-title="篮球",德国学院PV U21 vs 康塞普西翁大学U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="UCLA女篮 vs 田纳西大学女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/df83cb04c77d29eb68ece1035f17b204.png" group-title="篮球",UCLA女篮 vs 田纳西大学女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961417.m3u8?auth_key=1795393574-0-0-ab6377cbde89dbab4769a4b6239dc9fa
+https://pullgz721.qmuiw.com/live/sd-2-3961417.m3u8?auth_key=1795393909-0-0-8f6d33ef57edc45d0cb42e5572ee59b1
 #EXTINF:-1 tvg-name="吉纳西亚科摩多罗 vs 博卡青年|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a9d5a85a0a9186ea16fde9ebe97febd4.png" group-title="篮球",吉纳西亚科摩多罗 vs 博卡青年|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960559.m3u8?auth_key=1795393574-0-0-cc9857b3ffab97f597b2f6b01cb7b293
+https://pullgz721.qmuiw.com/live/sd-2-3960559.m3u8?auth_key=1795393909-0-0-f7809bf62dbc4238a82697b8e57fce0d
 #EXTINF:-1 tvg-name="明尼苏达大学 vs 犹他大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f5da779e2b6d7338175cd6600d3e886.png" group-title="篮球",明尼苏达大学 vs 犹他大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3952135.m3u8?auth_key=1795393574-0-0-6edda4a0217685be6d2414936cfc90da
+https://pullgz721.qmuiw.com/live/sd-2-3952135.m3u8?auth_key=1795393909-0-0-91e8b08aaeaa3e285c642a93cdb4fc53
 #EXTINF:-1 tvg-name="热火 vs 雷霆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ff7ccef6a6b79c6417ee8367946b0aec.png" group-title="NBA",热火 vs 雷霆|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931723.m3u8?auth_key=1795393574-0-0-eb12f09d64513ecbcd638cf0c73ab38d
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931723.m3u8?auth_key=1795393909-0-0-7656efe719fc195683a21803ac3f31b5
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
