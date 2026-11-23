@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东方龙狮女篮 vs 均安女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5df37f7b1a4b1b8056fa756e6ae3c1fe.png" group-title="篮球",东方龙狮女篮 vs 均安女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="爱国者队 vs 穆纳尔太阳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0dea0b20e7260c94eccf8bea16f7c05a.png" group-title="篮球",爱国者队 vs 穆纳尔太阳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山东赤水河酒女篮 vs 四川远达美乐女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a5dd1e3f6bffdc47b90bea563134aa2.png" group-title="篮球",山东赤水河酒女篮 vs 四川远达美乐女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="上海浦发银行女篮 vs 江苏南钢女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c35932bb9740f4d95a0832975f722be5.png" group-title="篮球",上海浦发银行女篮 vs 江苏南钢女篮|完场
