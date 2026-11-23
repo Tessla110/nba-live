@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="弗吉尼亚大学女篮 vs 俄克拉荷马大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/188bfdbd28768985ee167504805bf437.png" group-title="篮球",弗吉尼亚大学女篮 vs 俄克拉荷马大学女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="密西西比大学 vs 克莱姆森大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5ed5727b6db6ef0a6100b4969452d08.png" group-title="篮球",密西西比大学 vs 克莱姆森大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="中田纳西州立大学 vs 南伊利诺大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3fa64d68f504236987d4c62307ae6bea.png" group-title="篮球",中田纳西州立大学 vs 南伊利诺大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南犹他大学 vs 阿肯色州立|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5d76b60627c75870c29e2cd8f9259107.png" group-title="篮球",南犹他大学 vs 阿肯色州立|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3953046.m3u8?auth_key=1795473937-0-0-de19100ce7e03c3de29172dc2cccf055
+https://pullgz721.qmuiw.com/live/sd-2-3953046.m3u8?auth_key=1795474249-0-0-3651e3ade8217e5159afbb7d829f8920
 #EXTINF:-1 tvg-name="威廉玛丽大学 vs 印第安纳大学波利斯分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c05338ef738bca11977998563b75c611.png" group-title="篮球",威廉玛丽大学 vs 印第安纳大学波利斯分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="耶鲁大学 vs 贝尔蒙特大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4971dc4b7ade405be73c6dea97411f0.png" group-title="篮球",耶鲁大学 vs 贝尔蒙特大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3951599.m3u8?auth_key=1795473937-0-0-652a407c54c1c600b845e864f0b448cd
+#EXTINF:-1 tvg-name="海波因特大学女篮 vs 大峡谷大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/75620c507d70548f9221f7ee4ffb7b0b.png" group-title="篮球",海波因特大学女篮 vs 大峡谷大学女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="耶鲁大学 vs 贝尔蒙特大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4971dc4b7ade405be73c6dea97411f0.png" group-title="篮球",耶鲁大学 vs 贝尔蒙特大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="巴克斯卡坦杜瓦U20女篮 vs 圣安德雷女篮U20|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a7427d47d2308ac9c596bf5a331f94ed.png" group-title="篮球",巴克斯卡坦杜瓦U20女篮 vs 圣安德雷女篮U20|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
