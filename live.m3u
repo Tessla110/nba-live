@@ -3,8 +3,8 @@
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="中田纳西州立大学 vs 南伊利诺大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3fa64d68f504236987d4c62307ae6bea.png" group-title="篮球",中田纳西州立大学 vs 南伊利诺大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="南犹他大学 vs 阿肯色州立|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5d76b60627c75870c29e2cd8f9259107.png" group-title="篮球",南犹他大学 vs 阿肯色州立|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3953046.m3u8?auth_key=1795474898-0-0-c34b4c8fcc56de270a17e9dd7d77c1db
+#EXTINF:-1 tvg-name="南犹他大学 vs 阿肯色州立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5d76b60627c75870c29e2cd8f9259107.png" group-title="篮球",南犹他大学 vs 阿肯色州立|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="威廉玛丽大学 vs 印第安纳大学波利斯分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c05338ef738bca11977998563b75c611.png" group-title="篮球",威廉玛丽大学 vs 印第安纳大学波利斯分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密歇根女篮 vs 佛罗里达迈阿密大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n70d6b6759a63d443f0923c2498da5cf9.png" group-title="篮球",密歇根女篮 vs 佛罗里达迈阿密大学女篮|完场
@@ -21,11 +21,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布法罗大学 vs 罗切斯特理工大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/994875bc7de9402e772886d374539e66.png" group-title="篮球",布法罗大学 vs 罗切斯特理工大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="杨斯镇州立 vs 马里兰东海岸大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/05cd07399cc1df7f4a44f490217bd731.png" group-title="篮球",杨斯镇州立 vs 马里兰东海岸大学|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="首都队 vs 雅典耀皮里亚波利斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9dbc18f6ecb8000380cf87677e86ca4c.png" group-title="篮球",首都队 vs 雅典耀皮里亚波利斯|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莱莫恩 vs 宾夕法尼亚大学曼斯菲尔德分校|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a893627eef6cdfaec914dca7b8fe4fd4.png" group-title="篮球",莱莫恩 vs 宾夕法尼亚大学曼斯菲尔德分校|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="艾奥纳学院 vs 菲尔莱狄更斯大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/44a7b7079adb0e4d5343ac6b3c3c943d.png" group-title="篮球",艾奥纳学院 vs 菲尔莱狄更斯大学|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="北肯塔基大学 vs 乔治亚南方学院|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n99ce469ac086c2d22d935e251cfaeb17.png" group-title="篮球",北肯塔基大学 vs 乔治亚南方学院|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
