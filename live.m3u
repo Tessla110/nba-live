@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="帕拉尔米拿罗斯 vs 瓜卡拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80a1520cb56fc2adeb8c501d143a41f8.png" group-title="篮球",帕拉尔米拿罗斯 vs 瓜卡拉斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗吉尼亚联邦大学 vs 普罗维登斯学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3873aa4cb6eb6b434df421c72b8d441d.png" group-title="篮球",弗吉尼亚联邦大学 vs 普罗维登斯学院|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="爱达荷大学 vs 狄克森州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e78c59c497d39893baf665fbdc66aaf7.png" group-title="篮球",爱达荷大学 vs 狄克森州立大学|完场
@@ -33,8 +31,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣何塞州立大学 vs 加州大学圣地亚哥分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/13104e3af18e1bd643768ab356a2a5c0.png" group-title="篮球",圣何塞州立大学 vs 加州大学圣地亚哥分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="台湾科技大学 vs 黎明学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 黎明学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960914.m3u8?auth_key=1795510063-0-0-14bb922f2c242e2a5da0d27e95809887
+#EXTINF:-1 tvg-name="台湾科技大学 vs 黎明学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 黎明学院|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学 vs 台湾艺大|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 台湾艺大|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="河内 vs 林同|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/22a49dc3f81d4743ba7fe1cf9366fa71.png" group-title="篮球",河内 vs 林同|未开赛
