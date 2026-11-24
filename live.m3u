@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="北科罗拉多大学 vs 东南路易斯安纳大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0311d168587be37d9e60734b2fd5e027.png" group-title="篮球",北科罗拉多大学 vs 东南路易斯安纳大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝尔蒙特大学 vs 阿克伦大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4008a28ae4bf09749c8389049aced785.png" group-title="篮球",贝尔蒙特大学 vs 阿克伦大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿玛格女篮 vs 佛肯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4632a4c126ef31645ad847b24437ea79.png" group-title="篮球",阿玛格女篮 vs 佛肯女篮|完场
@@ -20,8 +18,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛罗里达国际大学 vs 南犹他大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/87bf4bac3e42a11ce4fcfccae682ca70.png" group-title="篮球",佛罗里达国际大学 vs 南犹他大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="匹兹堡大学 vs 俄克拉荷马大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n1466a11dbb0ea749d117f971b03ebc2a.png" group-title="篮球",匹兹堡大学 vs 俄克拉荷马大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3952470.m3u8?auth_key=1795551129-0-0-2c59c914eb8f5683b374e26889bc979d
+https://pullgz721.qmuiw.com/live/sd-2-3952470.m3u8?auth_key=1795553044-0-0-cb6d22b1a2f87de556987e675e117127
 #EXTINF:-1 tvg-name="拜仁慕尼黑 vs 特拉维夫马卡比|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/99a5187dc20d019f4fd223a6a6de80a6.png" group-title="篮球",拜仁慕尼黑 vs 特拉维夫马卡比|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926494.m3u8?auth_key=1795551129-0-0-756c4c9602cd6c2b622b8c2de14ad2f0
+https://pullgz721.qmuiw.com/live/sd-2-3926494.m3u8?auth_key=1795553044-0-0-97a7ca6f4e735c19a76084b69be8a22d
+#EXTINF:-1 tvg-name="马里博尔 vs 霍普斯波尔泽拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7aea518b9991046c18ae5fa59893b5c8.png" group-title="篮球",马里博尔 vs 霍普斯波尔泽拉|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
