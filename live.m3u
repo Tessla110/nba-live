@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/00523cd4bf48d4e5c995253012cce01e.png" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 武汉盛帆黄鹤女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 武汉盛帆黄鹤女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="温州 vs 海宁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7668891984cf151b9f9ff5d2b3aef82d.png" group-title="篮球",温州 vs 海宁|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="金华 vs 玉环|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/20d95ce8ce49f7d1c7febcac9395ec6c.png" group-title="篮球",金华 vs 玉环|完场
