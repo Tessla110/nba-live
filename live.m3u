@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加州大学伯克利分校 vs 阿拉巴马州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/643fcb9e69aa4247bf4cf117e29c246f.png" group-title="篮球",加州大学伯克利分校 vs 阿拉巴马州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="中原大学 vs 健行科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ba95936390b7180d34770d0a81c86a90.png" group-title="篮球",中原大学 vs 健行科技大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南加州大学女篮 vs 北亚利桑那女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/105a16a227e9b7fc84d99fe67cbf8cdc.png" group-title="篮球",南加州大学女篮 vs 北亚利桑那女篮|完场
@@ -28,12 +26,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学 vs 台湾艺大|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 台湾艺大|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝拉铁路 vs 海豚BC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/236ff08be336dc7cc2a6a36fc5aa7a2a.png" group-title="篮球",贝拉铁路 vs 海豚BC|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961534.m3u8?auth_key=1795517074-0-0-4316266874f476912785d3109060f924
+https://pullgz721.qmuiw.com/live/sd-2-3961534.m3u8?auth_key=1795517433-0-0-78f9af0368bf30c6395e2824b085232b
 #EXTINF:-1 tvg-name="珀斯山猫女篮 vs UC首都女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs UC首都女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3925789.m3u8?auth_key=1795517074-0-0-20b75630086aea7bd4a7ce0162c07f70
+https://pullgz721.qmuiw.com/live/hd-en-2-3925789.m3u8?auth_key=1795517433-0-0-475373b2ff985db7fe2f6b8bb737cff2
 #EXTINF:-1 tvg-name="阿布拉韦弗斯 vs 奎松胡斯克尔|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5251264ba0d83732beb7883f424e6a8f.png" group-title="篮球",阿布拉韦弗斯 vs 奎松胡斯克尔|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="延世大学 vs 清华大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b3e40592c163231a6049a7eb105ef18c.png" group-title="篮球",延世大学 vs 清华大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960731.m3u8?auth_key=1795517074-0-0-f54e65636da6799da0a9b85764a10e3a
+https://pullgz721.qmuiw.com/live/sd-2-3960731.m3u8?auth_key=1795517433-0-0-dc3b838ac9fc65d26ec69abd07ff2964
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
