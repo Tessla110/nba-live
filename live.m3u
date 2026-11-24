@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="CSU布拉索夫 vs 雅西波利泰尼卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0fe27e529cc7e3027d0a0003b01a7d4d.png" group-title="篮球",CSU布拉索夫 vs 雅西波利泰尼卡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="纳穆旺戈开拓者 vs 达尔城|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e16bc56154ab21bb73d83673fdaff173.png" group-title="篮球",纳穆旺戈开拓者 vs 达尔城|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="同奈 vs 庆和|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ce8c85d255eec0aa1440dd127445bf43.png" group-title="篮球",同奈 vs 庆和|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
