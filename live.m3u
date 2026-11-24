@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="莫茨金村马卡比 vs 亚夫涅|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9d8901b68236c64857ac0fe941b2205b.png" group-title="篮球",莫茨金村马卡比 vs 亚夫涅|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马卡比雷霍沃特 vs 马卡比迦特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cd5e05d7b44ae3b5287e73bfc78c3894.png" group-title="篮球",马卡比雷霍沃特 vs 马卡比迦特|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉萨尔大学女篮 vs 维拉诺瓦女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3d59fb3e7ae8acaee8c7402ab02656e.png" group-title="篮球",拉萨尔大学女篮 vs 维拉诺瓦女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="肖姆龙 vs 米格代尔哈曼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bc000dc872fedf2a22532c8c1678091b.png" group-title="篮球",肖姆龙 vs 米格代尔哈曼|完场
@@ -17,19 +13,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科洛特里 vs 凯鲁万|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/812793f65a5b41d894b14dd3ab3486fc.png" group-title="篮球",科洛特里 vs 凯鲁万|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="穆纳尔太阳 vs 内罗毕城雷霆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/798027e56c628894b4ec529e6b2ff0ba.png" group-title="篮球",穆纳尔太阳 vs 内罗毕城雷霆|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961550.m3u8?auth_key=1795547923-0-0-87bdb6a95e42242ba57b265e205d0c10
+#EXTINF:-1 tvg-name="穆纳尔太阳 vs 内罗毕城雷霆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/798027e56c628894b4ec529e6b2ff0ba.png" group-title="篮球",穆纳尔太阳 vs 内罗毕城雷霆|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克雷廷加 vs 希卢泰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/49733bcd43e176bb7c96189a5cd07e7d.png" group-title="篮球",克雷廷加 vs 希卢泰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="海法马卡比女篮 vs 霍隆女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b51423ba4d286e71d05ec9d1c591258b.jpg" group-title="篮球",海法马卡比女篮 vs 霍隆女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="欧米茄金牛座 vs 马萨基爱|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/34ce3a8240cd28197f6c78894b335f4f.png" group-title="篮球",欧米茄金牛座 vs 马萨基爱|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961088.m3u8?auth_key=1795547923-0-0-583b37d88d7024fa904510b6b29b0263
+https://pullgz721.qmuiw.com/live/sd-2-3961088.m3u8?auth_key=1795548264-0-0-3ba6e5249ecd8d63afd8d7149498a65e
 #EXTINF:-1 tvg-name="史科巴肯女篮 vs 阿比霍治女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4c406ed67293de168c1da12aea9c5594.png" group-title="篮球",史科巴肯女篮 vs 阿比霍治女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝尔蒙特大学 vs 阿克伦大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4008a28ae4bf09749c8389049aced785.png" group-title="篮球",贝尔蒙特大学 vs 阿克伦大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3953735.m3u8?auth_key=1795547923-0-0-8d9f5b60d1549632e0ae004dc707e8b4
+https://pullgz721.qmuiw.com/live/sd-2-3953735.m3u8?auth_key=1795548264-0-0-bde109df1d00c736e93bfa11a57b298a
 #EXTINF:-1 tvg-name="贝尔格莱德红星 vs 博洛尼亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c39da666a430eeb95c2dd0838b267d77.jpg" group-title="篮球",贝尔格莱德红星 vs 博洛尼亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926800.m3u8?auth_key=1795547923-0-0-4657a94d2f24f9284cf81f1bf3df0f6d
+https://pullgz721.qmuiw.com/live/sd-2-3926800.m3u8?auth_key=1795548264-0-0-8c5c0f00f4f8717ed62c79c14b03d72e
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
