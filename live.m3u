@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="爱达荷大学 vs 狄克森州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e78c59c497d39893baf665fbdc66aaf7.png" group-title="篮球",爱达荷大学 vs 狄克森州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒙大拿大学 vs 卡罗尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2149e608896ada2c3f8dd7004883df8d.png" group-title="篮球",蒙大拿大学 vs 卡罗尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="芝加哥洛约拉大学 vs 西雅图大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d7c9cf0ba2a8eb5247835659b6a3362.png" group-title="篮球",芝加哥洛约拉大学 vs 西雅图大学|完场
@@ -34,7 +32,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="岘港 vs 芹苴鲶鱼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7c31ff2fe4f675e3900007fa3a75c92.png" group-title="篮球",岘港 vs 芹苴鲶鱼|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学 vs 台湾艺大|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 台湾艺大|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960915.m3u8?auth_key=1795512848-0-0-0a319e4ce90f4bf175d18523d9171764
+https://pullgz721.qmuiw.com/live/sd-2-3960915.m3u8?auth_key=1795513905-0-0-46b335a9d39cee756c5e1f68c69cc8a4
 #EXTINF:-1 tvg-name="英塔黄蜂 vs 新华|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a96c2bee47caf1e2bef7cf76df7ff6e.png" group-title="篮球",英塔黄蜂 vs 新华|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="珀斯山猫女篮 vs UC首都女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs UC首都女篮|未开赛
