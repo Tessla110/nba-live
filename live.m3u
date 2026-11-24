@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="底特律莫瑟大学 vs 北达科他大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8121b4b03a775b069d5c3bae307211c0.png" group-title="篮球",底特律莫瑟大学 vs 北达科他大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴塞罗那 vs 费内巴切|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3fd0a47f5891f27c0a98cf96e7c221af.png" group-title="篮球",巴塞罗那 vs 费内巴切|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="耶鲁大学 vs 阿帕拉契亚州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4971dc4b7ade405be73c6dea97411f0.png" group-title="篮球",耶鲁大学 vs 阿帕拉契亚州立大学|完场
@@ -17,9 +15,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="温斯诺普女篮 vs 詹姆斯麦迪逊女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n84bf4864ecf5f15a14ad520d99a603dc.png" group-title="篮球",温斯诺普女篮 vs 詹姆斯麦迪逊女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="海军官校 vs 宾州州立大学利伯克郡分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a7ca69ec76190d016be4611b4f18297.png" group-title="篮球",海军官校 vs 宾州州立大学利伯克郡分校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3956786.m3u8?auth_key=1795560868-0-0-4d6d1c88bb6a0e5e4a4065622c4f5b4c
-#EXTINF:-1 tvg-name="肯尼索州立 vs 东密歇根|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/83f965fb903444c395778fc180ed704a.png" group-title="篮球",肯尼索州立 vs 东密歇根|未开赛
+#EXTINF:-1 tvg-name="纽黑文大学 vs 林登伍德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f28a51fa5a9c462d81d60c8f9ca4a231.png" group-title="篮球",纽黑文大学 vs 林登伍德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="海军官校 vs 宾州州立大学利伯克郡分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a7ca69ec76190d016be4611b4f18297.png" group-title="篮球",海军官校 vs 宾州州立大学利伯克郡分校|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3956786.m3u8?auth_key=1795561182-0-0-1188afef2e5ec36f04cfb50c56ab5363
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
