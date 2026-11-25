@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="穆哈拉格 vs 麦纳麦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/28bd02791ce6a77ff7a8958316d95886.png" group-title="篮球",穆哈拉格 vs 麦纳麦|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣博纳旺蒂大学 vs 贝尔蒙特大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ef114294b0fcc961fa76ac0a015f2e41.png" group-title="篮球",圣博纳旺蒂大学 vs 贝尔蒙特大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨格女篮 vs 布杜克诺斯特女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/beb16de7b6e75c89511f8d1d4767a7f7.png" group-title="篮球",萨格女篮 vs 布杜克诺斯特女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="库尔斯克迪纳摩女篮 vs 莫斯科MBA女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/941be3e966d5a0a3231f8981b52c9d6f.png" group-title="篮球",库尔斯克迪纳摩女篮 vs 莫斯科MBA女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪拜 vs 贝尔格莱德游击|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7ceee3b48fa0f0bcf1a705348539cbb.png" group-title="篮球",迪拜 vs 贝尔格莱德游击|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926712.m3u8?auth_key=1795628741-0-0-b438608faa434aa3ea3a1ecc5de335be
+https://pullgz721.qmuiw.com/live/sd-2-3926712.m3u8?auth_key=1795629044-0-0-9eb1c8559c001c0c223aa81b0d23a860
+#EXTINF:-1 tvg-name="爱荷华大学女篮 vs 海军水手女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/29d9c3e6661169ab79f2ee0b744008ac.png" group-title="篮球",爱荷华大学女篮 vs 海军水手女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德州南方女篮 vs 佛蒙特大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c7b5d7265b5e19965b92f07ff4313932.png" group-title="篮球",德州南方女篮 vs 佛蒙特大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埃姆拉克女篮 vs 布尔日女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b26c8af5866359259dcd7b9fa72fe661.png" group-title="篮球",埃姆拉克女篮 vs 布尔日女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3947351.m3u8?auth_key=1795628741-0-0-887e4140b64fcdc9b4d657c2773ae05e
+#EXTINF:-1 tvg-name="埃姆拉克女篮 vs 布尔日女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b26c8af5866359259dcd7b9fa72fe661.png" group-title="篮球",埃姆拉克女篮 vs 布尔日女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="弗拉基米尔大学VlGU女篮 vs 叶尼塞女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aebb31495c5e6a8fafa147cdd13802ee.png" group-title="篮球",弗拉基米尔大学VlGU女篮 vs 叶尼塞女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3939404.m3u8?auth_key=1795629044-0-0-afc52370908279dae7e7e1f2ac9c08a5
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
