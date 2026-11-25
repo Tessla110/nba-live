@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="梅尼萨JS vs CS斯法辛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c2e12a0f01c6d26494723a497c099760.png" group-title="篮球",梅尼萨JS vs CS斯法辛|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="格罗蒙巴利亚 vs ES拉德斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb669910833c49ec88a181b5d0c300ce.png" group-title="篮球",格罗蒙巴利亚 vs ES拉德斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="席特拉 vs 萨马海伊|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fc1b9db193bf4db6ab0b4ede2d0bd0de.png" group-title="篮球",席特拉 vs 萨马海伊|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班斯卡比斯特里察女篮 vs 科希策青年女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/783856dbc96837953031f69caec68002.png" group-title="篮球",班斯卡比斯特里察女篮 vs 科希策青年女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格但斯克戈尔塔塔学院 vs AZS托伦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3dcc0182fd427b9811bf1a7392d913c3.png" group-title="篮球",格但斯克戈尔塔塔学院 vs AZS托伦|完场
@@ -32,6 +26,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="LCC大学女篮 vs 阿利图斯RKL女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/19206864e4d82bf46e29cfb42daac0eb.png" group-title="篮球",LCC大学女篮 vs 阿利图斯RKL女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="霍什奥尔姆女篮 vs 西素女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f3ed2783b4340c34effe823f0a40b4c.png" group-title="篮球",霍什奥尔姆女篮 vs 西素女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="耶鲁大学 vs 莱特州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4971dc4b7ade405be73c6dea97411f0.png" group-title="篮球",耶鲁大学 vs 莱特州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波兹南女篮 vs BCC德索纳女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/709b27c9d545430da3109e0dd2f5f630.png" group-title="篮球",波兹南女篮 vs BCC德索纳女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
