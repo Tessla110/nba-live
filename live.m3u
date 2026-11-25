@@ -5,5 +5,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="穆哈拉格 vs 麦纳麦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/28bd02791ce6a77ff7a8958316d95886.png" group-title="篮球",穆哈拉格 vs 麦纳麦|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="圣博纳旺蒂大学 vs 贝尔蒙特大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ef114294b0fcc961fa76ac0a015f2e41.png" group-title="篮球",圣博纳旺蒂大学 vs 贝尔蒙特大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="萨格女篮 vs 布杜克诺斯特女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/beb16de7b6e75c89511f8d1d4767a7f7.png" group-title="篮球",萨格女篮 vs 布杜克诺斯特女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="迪拜 vs 贝尔格莱德游击|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7ceee3b48fa0f0bcf1a705348539cbb.png" group-title="篮球",迪拜 vs 贝尔格莱德游击|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3926712.m3u8?auth_key=1795626759-0-0-84020aa72bcf4d730efa3b03dc82487c
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
