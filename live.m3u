@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="帕拉尔米拿罗斯 vs 瓜卡拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80a1520cb56fc2adeb8c501d143a41f8.png" group-title="篮球",帕拉尔米拿罗斯 vs 瓜卡拉斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="博伊西州立大学 vs 爱达荷州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3a227e3e4bf34f47bd6e030108a75db2.png" group-title="篮球",博伊西州立大学 vs 爱达荷州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学圣塔巴巴拉分校 vs 北卡罗莱纳绿乡大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb1815f4b2844930b2fd1327bd8fa23a.png" group-title="篮球",加州大学圣塔巴巴拉分校 vs 北卡罗莱纳绿乡大学|完场
@@ -32,7 +30,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="林同女篮 vs 胡志明市女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c22a75e228adbffb3c67576c6f8dfc78.png" group-title="篮球",林同女篮 vs 胡志明市女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台湾艺大 vs 健行科技大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/524af83e5fe29af743d728cf079b54b6.png" group-title="篮球",台湾艺大 vs 健行科技大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960846.m3u8?auth_key=1795589295-0-0-601ebb90c98f753ae696fc36dec0182e
+https://pullgz721.qmuiw.com/live/sd-2-3960846.m3u8?auth_key=1795589599-0-0-44802b20969ffdc5195a95ddb6430735
 #EXTINF:-1 tvg-name="釜山宙斯盾后备 vs 高阳天空枪手预备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5951f30de22008a12a6c97e37858d0f0.png" group-title="篮球",釜山宙斯盾后备 vs 高阳天空枪手预备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="政治大学 vs 黎明学院|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a375c3cfabdb09790f68881f0afb3b3.png" group-title="篮球",政治大学 vs 黎明学院|未开赛
