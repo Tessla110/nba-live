@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="林同女篮 vs 胡志明市女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c22a75e228adbffb3c67576c6f8dfc78.png" group-title="篮球",林同女篮 vs 胡志明市女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台湾艺大 vs 健行科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/524af83e5fe29af743d728cf079b54b6.png" group-title="篮球",台湾艺大 vs 健行科技大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="釜山宙斯盾后备 vs 高阳天空枪手预备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5951f30de22008a12a6c97e37858d0f0.png" group-title="篮球",釜山宙斯盾后备 vs 高阳天空枪手预备队|完场
@@ -20,8 +18,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="丛安仁丹女篮 vs 河内女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dfa06a56f8c8ae3d576c17c66c64821b.png" group-title="篮球",丛安仁丹女篮 vs 河内女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="中原大学 vs 文化大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ba95936390b7180d34770d0a81c86a90.png" group-title="篮球",中原大学 vs 文化大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960848.m3u8?auth_key=1795602852-0-0-432fba799e5a91afdd7240405f1767df
+https://pullgz721.qmuiw.com/live/sd-2-3960848.m3u8?auth_key=1795603159-0-0-9f714f781b0b31702f96a87a7c7c3a98
 #EXTINF:-1 tvg-name="UST咆哮虎 vs ADU猎鹰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a6670119f5094730ba6f2d7dc7ed219d.png" group-title="篮球",UST咆哮虎 vs ADU猎鹰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957950.m3u8?auth_key=1795602852-0-0-433b09c5d76e3871922fb44dfca46906
+https://pullgz721.qmuiw.com/live/sd-2-3957950.m3u8?auth_key=1795603159-0-0-d7ef8d42735f1cf25d1990686a0d5ad0
+#EXTINF:-1 tvg-name="友利银行女篮 vs 清州KB之星女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/372ebf16ae571d85ee98090b0ee60e41.png" group-title="篮球",友利银行女篮 vs 清州KB之星女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3946105.m3u8?auth_key=1795603159-0-0-aab66314564480275cf069f95caf2a18
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
