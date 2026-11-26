@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="内布拉斯加奥马哈大学 vs 加州大学戴维斯分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f1dff0ffc4b6490aa244f2fd040be5ba.png" group-title="篮球",内布拉斯加奥马哈大学 vs 加州大学戴维斯分校|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="梅塔帕 vs 科胡特佩克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f98516b0b37244c7ad087b47e96f33d9.png" group-title="篮球",梅塔帕 vs 科胡特佩克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="得州大学埃尔帕索分校 vs 东密歇根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f20096d34066fc0c483ee5d2f86867f.png" group-title="篮球",得州大学埃尔帕索分校 vs 东密歇根|完场
@@ -31,10 +29,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="开拓者 vs 马刺|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4512175b1415f69816e816160093bcc0.png" group-title="NBA",开拓者 vs 马刺|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="太平洋大学 vs 杰克逊维尔州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/402e4e3d93de592a0bb7cc75e9418e33.png" group-title="篮球",太平洋大学 vs 杰克逊维尔州立大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台湾科技大学 vs 中原大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 中原大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960850.m3u8?auth_key=1795672316-0-0-a05c94df6272fcfe6f663b1bc03e78f9
+https://pullgz721.qmuiw.com/live/sd-2-3960850.m3u8?auth_key=1795672640-0-0-5488af1d166b26343cf3a673eef0c928
 #EXTINF:-1 tvg-name="斐济 vs 中国香港|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3e6a86278c2671cad16cd7f26c08db8b.png" group-title="篮球",斐济 vs 中国香港|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943508.m3u8?auth_key=1795672316-0-0-437efcf4dc6e36ee9baaf65711d58882
+https://pullgz721.qmuiw.com/live/sd-2-3943508.m3u8?auth_key=1795672640-0-0-5333d8d52ec60b1ca465b6a165690980
 #EXTINF:-1 tvg-name="健行科技大学 vs 政治大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7372c41e738b7e55c532c8ffc7baa30c.png" group-title="篮球",健行科技大学 vs 政治大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="JRU重型轰炸机 vs CSJL骑士|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d07c02ab99c2b6cb790cf8d265fedc9.png" group-title="篮球",JRU重型轰炸机 vs CSJL骑士|未开赛
