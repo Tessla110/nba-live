@@ -15,6 +15,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佐治亚大学女篮 vs 科罗拉多州大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2eca21ed29014d81a9c65c637b4d3865.png" group-title="篮球",佐治亚大学女篮 vs 科罗拉多州大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="波士顿学院 vs 中佛罗里达大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/213163cfeddc8328eec120c8daba6022.png" group-title="篮球",波士顿学院 vs 中佛罗里达大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="里尔女篮 vs 阿什杜德马卡比女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11784a74e03b02cb270cc4541e459770.png" group-title="篮球",里尔女篮 vs 阿什杜德马卡比女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒙彼利埃女篮 vs 潘塞莱科斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b1a566dc69fcafa356d7a726666289fa.png" group-title="篮球",蒙彼利埃女篮 vs 潘塞莱科斯女篮|完场
@@ -25,9 +27,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="葡萄牙 vs 乌克兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3ac89a5f052460169843d9793296c29.png" group-title="篮球",葡萄牙 vs 乌克兰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="德克萨斯-圣安东尼奥女篮 vs 宾厄姆顿女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dd0995223cdf44cdb7756bf835e65da9.png" group-title="篮球",德克萨斯-圣安东尼奥女篮 vs 宾厄姆顿女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="戴维森女篮 vs 佛罗里达州女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/eb81b64c2341ae3e3c3cf05f759f452f.png" group-title="篮球",戴维森女篮 vs 佛罗里达州女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="冰岛 vs 波黑|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8b62f8455fb49ede7c5f5b45aed7850a.jpg" group-title="篮球",冰岛 vs 波黑|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931011.m3u8?auth_key=1795727247-0-0-4096cecf3f93422d7e834f51a7e5632f
+https://pullgz721.qmuiw.com/live/sd-2-3931011.m3u8?auth_key=1795727350-0-0-0b47c67fb36d74e86ff62de5177f4e3d
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
