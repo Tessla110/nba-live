@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蒙大拿州立大学 vs 西北印第安学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/03e7f7fe111143c7abbf378c19245b44.png" group-title="篮球",蒙大拿州立大学 vs 西北印第安学院|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黎明学院 vs 台湾艺大|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/041fd440b673dac192587be1b453d038.png" group-title="篮球",黎明学院 vs 台湾艺大|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗吉尼亚联邦大学 vs 华盛顿大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3873aa4cb6eb6b434df421c72b8d441d.png" group-title="篮球",弗吉尼亚联邦大学 vs 华盛顿大学|完场
@@ -30,12 +28,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣路易斯大学 vs 斯坦福大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8178a03ea19f890618234b8edb82af36.jpg" group-title="篮球",圣路易斯大学 vs 斯坦福大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="JRU重型轰炸机 vs CSJL骑士|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d07c02ab99c2b6cb790cf8d265fedc9.png" group-title="篮球",JRU重型轰炸机 vs CSJL骑士|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961717.m3u8?auth_key=1795683865-0-0-227b9b425f5ca8938234fa44fc0d59e1
+https://pullgz721.qmuiw.com/live/sd-2-3961717.m3u8?auth_key=1795684184-0-0-9c9b73b6024a2d9ec696d12ea7aab65c
 #EXTINF:-1 tvg-name="健行科技大学 vs 政治大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7372c41e738b7e55c532c8ffc7baa30c.png" group-title="篮球",健行科技大学 vs 政治大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="泰国 vs 马来西亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3eb1aaf546afafbaedf7aa8298be7c9c.png" group-title="篮球",泰国 vs 马来西亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943513.m3u8?auth_key=1795683865-0-0-9edfd671134c3bc454edc77357ee5bd3
+https://pullgz721.qmuiw.com/live/sd-2-3943513.m3u8?auth_key=1795684184-0-0-f59f1cd698415b8c8e2edf3cdbec57f2
+#EXTINF:-1 tvg-name="芹且鲶鱼女篮 vs 胡志明市女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fa359724446da18d887ea4cfa7691236.png" group-title="篮球",芹且鲶鱼女篮 vs 胡志明市女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3961699.m3u8?auth_key=1795684184-0-0-0d54d64f7b0f1c13d26e52b44361ed85
+#EXTINF:-1 tvg-name="OC海狮 vs SCC圣徒|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e111693b19c796acd02002d3f8a7dc20.png" group-title="篮球",OC海狮 vs SCC圣徒|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/59d79f751df984595a6d5384f476efec.png" group-title="篮球",本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3925790.m3u8?auth_key=1795683865-0-0-b9f26be06e245f455ccab30a6f910159
+https://pullgz721.qmuiw.com/live/hd-en-2-3925790.m3u8?auth_key=1795684184-0-0-7fc233b025e1924a67d410313b5d2908
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
