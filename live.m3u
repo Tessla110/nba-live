@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蒙古 vs 印尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f8bb56fe64efcf7f3d1daffb5b8dd8c.png" group-title="篮球",蒙古 vs 印尼|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="同奈 vs 军队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ce8c85d255eec0aa1440dd127445bf43.png" group-title="篮球",同奈 vs 军队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="四川远达美乐女篮 vs 江苏南钢女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮|完场
@@ -16,6 +14,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="达尔城 vs 海豚BC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5e8ec8d9e4c5d850f6a88c6a8e15021.png" group-title="篮球",达尔城 vs 海豚BC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="岘港 vs 河内|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7c31ff2fe4f675e3900007fa3a75c92.png" group-title="篮球",岘港 vs 河内|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961700.m3u8?auth_key=1795701540-0-0-0cc37b6846c905437935a40f91403846
+https://pullgz721.qmuiw.com/live/sd-2-3961700.m3u8?auth_key=1795701851-0-0-8fcce675ccf7fba2c37ac3f7fda6a8a2
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
