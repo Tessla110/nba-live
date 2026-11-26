@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="四川远达美乐女篮 vs 江苏南钢女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c654d3c56f74e62af5ceb3c9fb7451de.png" group-title="篮球",武汉盛帆黄鹤女篮 vs 石家庄英励女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台州 vs 江山|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c82e37019c13de7bb7737093062f8bf4.png" group-title="篮球",台州 vs 江山|完场
@@ -14,6 +10,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="岘港 vs 河内|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7c31ff2fe4f675e3900007fa3a75c92.png" group-title="篮球",岘港 vs 河内|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙特 vs 中国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74598b2e0e004c9a8c87e221e8f65996.png" group-title="篮球",沙特 vs 中国|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3923784.m3u8?auth_key=1795703101-0-0-e4c5ed541e619a28478c62d3262bf845
+https://pullgz721.qmuiw.com/live/hd-en-2-3923784.m3u8?auth_key=1795703413-0-0-2370dca8ae68323bc5d499ce044b2675
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
