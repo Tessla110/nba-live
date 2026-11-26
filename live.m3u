@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="得州大学埃尔帕索分校 vs 东密歇根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f20096d34066fc0c483ee5d2f86867f.png" group-title="篮球",得州大学埃尔帕索分校 vs 东密歇根|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="火箭 vs 太阳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcfe797437f18526ff4e62177021f638.png" group-title="NBA",火箭 vs 太阳|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="洛约拉马利蒙特大学 vs 东华盛顿大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7051bd1b3d717930844616e64b280de5.png" group-title="篮球",洛约拉马利蒙特大学 vs 东华盛顿大学|完场
@@ -36,9 +34,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斐济 vs 中国香港|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3e6a86278c2671cad16cd7f26c08db8b.png" group-title="篮球",斐济 vs 中国香港|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科罗拉多州立大学 vs 克莱姆森大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5cc431b68b485d6a7c350b17e83aa6e.png" group-title="篮球",科罗拉多州立大学 vs 克莱姆森大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961595.m3u8?auth_key=1795676428-0-0-0e0766b23be88f252d14d0023e33c530
+https://pullgz721.qmuiw.com/live/sd-2-3961595.m3u8?auth_key=1795676743-0-0-800ad0c9977014134e685ccd1b5f5242
 #EXTINF:-1 tvg-name="圣路易斯大学 vs 斯坦福大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8178a03ea19f890618234b8edb82af36.jpg" group-title="篮球",圣路易斯大学 vs 斯坦福大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961617.m3u8?auth_key=1795676428-0-0-1c82ff9efc184e6bd7db4f7c7dbda46c
+https://pullgz721.qmuiw.com/live/sd-2-3961617.m3u8?auth_key=1795676743-0-0-38228a528f15b38d3a1928fa42ace3c2
 #EXTINF:-1 tvg-name="健行科技大学 vs 政治大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7372c41e738b7e55c532c8ffc7baa30c.png" group-title="篮球",健行科技大学 vs 政治大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="JRU重型轰炸机 vs CSJL骑士|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d07c02ab99c2b6cb790cf8d265fedc9.png" group-title="篮球",JRU重型轰炸机 vs CSJL骑士|未开赛
