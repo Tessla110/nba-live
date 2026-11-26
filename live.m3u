@@ -5,11 +5,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="皮兰托 vs AC奥卢|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/95cef3ab2ebcaecdcb15b72953002ce8.png" group-title="篮球",皮兰托 vs AC奥卢|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="希卢泰 vs 瑞塔斯B|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e9d475c88d82bc15aaadee2b49da9905.png" group-title="篮球",希卢泰 vs 瑞塔斯B|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="考维纳斯 vs 维尼亚斯斯特卡斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/73d48a7d9c6ed1b96181ecf481b03281.png" group-title="篮球",考维纳斯 vs 维尼亚斯斯特卡斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布良斯克杰斯纳 vs 伊泽夫斯克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3b3e1cf3bc32afc863007751d0b7448c.png" group-title="篮球",布良斯克杰斯纳 vs 伊泽夫斯克|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939609.m3u8?auth_key=1795714088-0-0-a92ecebd3068529ff41fcb1c1a967a3e
+https://pullgz721.qmuiw.com/live/sd-2-3939609.m3u8?auth_key=1795714958-0-0-b02428494815bdafb741e2055911e1fb
 #EXTINF:-1 tvg-name="卡塔尔 vs 韩国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/28d423b7ff35b08122bfaa4585931204.png" group-title="篮球",卡塔尔 vs 韩国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3923783.m3u8?auth_key=1795714088-0-0-577a8a72766383d9b6ca6be8a5bc50c9
+https://pullgz721.qmuiw.com/live/sd-2-3923783.m3u8?auth_key=1795714958-0-0-82ec39cccb465e1086cf65a40e42b1ce
+#EXTINF:-1 tvg-name="克莱姆森女篮 vs 罗伯特莫里斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/496ffc6aecc64e67a822d68178fa48ef.png" group-title="篮球",克莱姆森女篮 vs 罗伯特莫里斯女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佐治亚大学 vs 辛辛那提大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/522d4b43efc78097d9d8829b499829ce.png" group-title="篮球",佐治亚大学 vs 辛辛那提大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3953436.m3u8?auth_key=1795714088-0-0-28a885178ff273cb45dc8e3629a6bea2
+https://pullgz721.qmuiw.com/live/sd-2-3953436.m3u8?auth_key=1795714958-0-0-aee19e3d099c5b4dbbee20945f206d34
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
