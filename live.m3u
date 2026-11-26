@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马歇尔大学 vs 普雷里维尤农工大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4b78a0ab77744485aa2a07313b7f3001.png" group-title="篮球",马歇尔大学 vs 普雷里维尤农工大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="犹他理工大学 vs 贝塞斯达大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3e985673c734919f4a7390815daf9515.png" group-title="篮球",犹他理工大学 vs 贝塞斯达大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="普林斯顿大学 vs 自由大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ned4a81c17413b144f818130f0d5545d9.png" group-title="篮球",普林斯顿大学 vs 自由大学|完场
@@ -26,10 +24,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学河滨分校  vs 波特兰州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/43decda2fcf3e98f66dbe87285a20c23.png" group-title="篮球",加州大学河滨分校  vs 波特兰州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="76人 vs 热火|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/06e7bde6cca98873fe971fad4e67a9b6.png" group-title="NBA",76人 vs 热火|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931499.m3u8?auth_key=1795652537-0-0-e639ad6bfd828475b43e330fb55eae91
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931499.m3u8?auth_key=1795652837-0-0-74f480c4c6dc1f69ab498f291f194358
 #EXTINF:-1 tvg-name="普罗维登斯学院 vs 杨百翰大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1205814a995a3af7483b1acff243691b.png" group-title="篮球",普罗维登斯学院 vs 杨百翰大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961573.m3u8?auth_key=1795652537-0-0-aff8c15838f3b0fbdff11064fc0ecfe8
+https://pullgz721.qmuiw.com/live/sd-2-3961573.m3u8?auth_key=1795652837-0-0-41a05f1305a231cb33560f8736c019e5
 #EXTINF:-1 tvg-name="韦伯州立大学 vs 加州州立北岭分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f921b80f112f6a52112a4f25758fd302.png" group-title="篮球",韦伯州立大学 vs 加州州立北岭分校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949645.m3u8?auth_key=1795652537-0-0-5904da21686587bd274b98bfb29676bd
+https://pullgz721.qmuiw.com/live/sd-2-3949645.m3u8?auth_key=1795652837-0-0-17ccec3772a6a713ae080ee3e0b6f2bd
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
