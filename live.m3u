@@ -5,5 +5,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙特 vs 中国|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74598b2e0e004c9a8c87e221e8f65996.png" group-title="篮球",沙特 vs 中国|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="穆纳尔太阳 vs 乌鲁纳尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/798027e56c628894b4ec529e6b2ff0ba.png" group-title="篮球",穆纳尔太阳 vs 乌鲁纳尼|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3961721.m3u8?auth_key=1795705840-0-0-fd6ef39ad5985574d6db35454181d072
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
