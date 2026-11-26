@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="OC海狮 vs SCC圣徒|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e111693b19c796acd02002d3f8a7dc20.png" group-title="篮球",OC海狮 vs SCC圣徒|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/59d79f751df984595a6d5384f476efec.png" group-title="篮球",本迪高精灵女篮 vs 塔斯马尼亚珍宝女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学 vs 台湾师大|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 台湾师大|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="庆和 vs 西宁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/33c64036434b66a7fc2285b7f5fa4e02.png" group-title="篮球",庆和 vs 西宁|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="贝拉铁路 vs 纳穆旺戈开拓者|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/236ff08be336dc7cc2a6a36fc5aa7a2a.png" group-title="篮球",贝拉铁路 vs 纳穆旺戈开拓者|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961719.m3u8?auth_key=1795692288-0-0-ef26d2fcbbe3a95892f974c9a24e2188
+#EXTINF:-1 tvg-name="贝拉铁路 vs 纳穆旺戈开拓者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/236ff08be336dc7cc2a6a36fc5aa7a2a.png" group-title="篮球",贝拉铁路 vs 纳穆旺戈开拓者|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="EAC将军 vs 圣贝达红狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0594676a76dc417a8a94ecb81fc1e593.png" group-title="篮球",EAC将军 vs 圣贝达红狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961718.m3u8?auth_key=1795692288-0-0-1c6089741c9e6708d40ae54ce4b3060c
+https://pullgz721.qmuiw.com/live/sd-2-3961718.m3u8?auth_key=1795692600-0-0-989e76b2ac66abc2879d9e9908245de9
 #EXTINF:-1 tvg-name="蒙古 vs 印尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f8bb56fe64efcf7f3d1daffb5b8dd8c.png" group-title="篮球",蒙古 vs 印尼|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943510.m3u8?auth_key=1795692288-0-0-ea356c23cdbd2d1d271a868d3db154da
+https://pullgz721.qmuiw.com/live/sd-2-3943510.m3u8?auth_key=1795692600-0-0-7b3208d68213bbfa1a6ced2f9516772d
+#EXTINF:-1 tvg-name="同奈 vs 军队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ce8c85d255eec0aa1440dd127445bf43.png" group-title="篮球",同奈 vs 军队|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3961698.m3u8?auth_key=1795692600-0-0-574ce03102428f6ed2d9e365725bd31e
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
