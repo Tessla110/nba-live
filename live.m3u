@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="戈尔佐夫女篮 vs 恩斯诺女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/45e473a800d9162013348562ce2423da.png" group-title="篮球",戈尔佐夫女篮 vs 恩斯诺女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="希腊 vs 格鲁吉亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b17842ce6fb723a04d8795d8adb195f7.png" group-title="篮球",希腊 vs 格鲁吉亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黑山 vs 西班牙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d611867da29bd4ebe52826f8622c96d6.jpg" group-title="篮球",黑山 vs 西班牙|完场
@@ -17,15 +15,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佐治亚大学女篮 vs 科罗拉多州大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2eca21ed29014d81a9c65c637b4d3865.png" group-title="篮球",佐治亚大学女篮 vs 科罗拉多州大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="里尔女篮 vs 阿什杜德马卡比女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11784a74e03b02cb270cc4541e459770.png" group-title="篮球",里尔女篮 vs 阿什杜德马卡比女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒙彼利埃女篮 vs 潘塞莱科斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b1a566dc69fcafa356d7a726666289fa.png" group-title="篮球",蒙彼利埃女篮 vs 潘塞莱科斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="黎巴嫩 vs 日本|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/01fbdbd570011d3ff9420955163f2cbf.jpg" group-title="篮球",黎巴嫩 vs 日本|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3923781.m3u8?auth_key=1795725790-0-0-34844116478b76b0d672d6bf16b29935
-#EXTINF:-1 tvg-name="意大利 vs 土耳其|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/08bfffbb80cd7dca9fca43d93584a87d.png" group-title="篮球",意大利 vs 土耳其|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931012.m3u8?auth_key=1795725790-0-0-429d51f8cdccc883b443f67ebf36aceb
-#EXTINF:-1 tvg-name="葡萄牙 vs 乌克兰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3ac89a5f052460169843d9793296c29.png" group-title="篮球",葡萄牙 vs 乌克兰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931015.m3u8?auth_key=1795725790-0-0-9c7203f774444249c41c0f67d03ea7c1
+#EXTINF:-1 tvg-name="黎巴嫩 vs 日本|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/01fbdbd570011d3ff9420955163f2cbf.jpg" group-title="篮球",黎巴嫩 vs 日本|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="意大利 vs 土耳其|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/08bfffbb80cd7dca9fca43d93584a87d.png" group-title="篮球",意大利 vs 土耳其|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="葡萄牙 vs 乌克兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3ac89a5f052460169843d9793296c29.png" group-title="篮球",葡萄牙 vs 乌克兰|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="戴维森女篮 vs 佛罗里达州女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/eb81b64c2341ae3e3c3cf05f759f452f.png" group-title="篮球",戴维森女篮 vs 佛罗里达州女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="冰岛 vs 波黑|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8b62f8455fb49ede7c5f5b45aed7850a.jpg" group-title="篮球",冰岛 vs 波黑|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931011.m3u8?auth_key=1795725790-0-0-75e0d2d94a2c0ea37f901fb675bdba03
+https://pullgz721.qmuiw.com/live/sd-2-3931011.m3u8?auth_key=1795727247-0-0-4096cecf3f93422d7e834f51a7e5632f
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
