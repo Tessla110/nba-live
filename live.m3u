@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="哥斯达黎加大学U24 vs 贾科波浪U24|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/062fcfb86ec588b24843706201b6af29.png" group-title="篮球",哥斯达黎加大学U24 vs 贾科波浪U24|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="内梅奥雄狮U21 vs 福尔松U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3ba78264526fd224aadfccf0fa909f60.png" group-title="篮球",内梅奥雄狮U21 vs 福尔松U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="政治大学 vs 台湾艺大|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a375c3cfabdb09790f68881f0afb3b3.png" group-title="篮球",政治大学 vs 台湾艺大|完场
@@ -30,14 +28,14 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黎明学院 vs 健行科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/041fd440b673dac192587be1b453d038.png" group-title="篮球",黎明学院 vs 健行科技大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="印尼 vs 泰国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8d4aca15bee632dc0709e24152c7f529.png" group-title="篮球",印尼 vs 泰国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943516.m3u8?auth_key=1795771071-0-0-e209f36831c55ad2443723cc59c6341f
-#EXTINF:-1 tvg-name="老街女篮 vs 胡志明市女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1de154634f1b9898543c3d344b71e8e8.png" group-title="篮球",老街女篮 vs 胡志明市女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961775.m3u8?auth_key=1795771071-0-0-0b77b84d04e5bbec16230af5251d15ce
+https://pullgz721.qmuiw.com/live/sd-2-3943516.m3u8?auth_key=1795771392-0-0-0fb04fbf20672146a5a616c57a5a3d26
+#EXTINF:-1 tvg-name="老街女篮 vs 胡志明市女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1de154634f1b9898543c3d344b71e8e8.png" group-title="篮球",老街女篮 vs 胡志明市女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="UC首都女篮 vs 吉朗毒液女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf8d00e9a4df141d819d0be02302d42.png" group-title="篮球",UC首都女篮 vs 吉朗毒液女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925791.m3u8?auth_key=1795771071-0-0-b44e58ab63f7b75e104c4c9a8798cf8e
+https://pullgz721.qmuiw.com/live/sd-2-3925791.m3u8?auth_key=1795771392-0-0-8cf10975a09aa4ec45f7d57d42312ed9
 #EXTINF:-1 tvg-name="台湾科技大学 vs 文化大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 文化大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960856.m3u8?auth_key=1795771071-0-0-0f5afad78074abeaa46328b1e7345915
+https://pullgz721.qmuiw.com/live/sd-2-3960856.m3u8?auth_key=1795771392-0-0-899e968552f4a50c88ff1d119688c3b0
 #EXTINF:-1 tvg-name="伊朗 vs 澳大利亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/77418e1cfd63306bf63717d76c23e910.png" group-title="篮球",伊朗 vs 澳大利亚|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3923788.m3u8?auth_key=1795771071-0-0-6ec35e30ced2fbee2b9dd3c9550648e6
+https://pullgz721.qmuiw.com/live/hd-zh-2-3923788.m3u8?auth_key=1795771392-0-0-c6ffeced94ca2d7a5db35a6934266006
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
