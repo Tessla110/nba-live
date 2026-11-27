@@ -221,6 +221,10 @@ if (!domain) {
   process.exit(1);
 }
 const all = await fetchLiveList(domain);
+if (!all.length) {
+  console.log("empty live list, keeping old live.m3u");
+  process.exit(0);
+}
 const items = all.filter((m) => m.ball_type === 2);
 writeFileSync("live.m3u", buildM3U(items));
 const live = items.filter((m) => m.m_status === 1).length;
