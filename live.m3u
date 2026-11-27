@@ -27,15 +27,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黎明学院 vs 健行科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/041fd440b673dac192587be1b453d038.png" group-title="篮球",黎明学院 vs 健行科技大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="印尼 vs 泰国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8d4aca15bee632dc0709e24152c7f529.png" group-title="篮球",印尼 vs 泰国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943516.m3u8?auth_key=1795772692-0-0-c8fb9ba0df074ceea9b56b588e0cff60
+#EXTINF:-1 tvg-name="印尼 vs 泰国|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8d4aca15bee632dc0709e24152c7f529.png" group-title="篮球",印尼 vs 泰国|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="老街女篮 vs 胡志明市女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1de154634f1b9898543c3d344b71e8e8.png" group-title="篮球",老街女篮 vs 胡志明市女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="UC首都女篮 vs 吉朗毒液女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf8d00e9a4df141d819d0be02302d42.png" group-title="篮球",UC首都女篮 vs 吉朗毒液女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925791.m3u8?auth_key=1795772692-0-0-013c73756e93cf25b7d1fdd92cbdbb1d
+https://pullgz721.qmuiw.com/live/sd-2-3925791.m3u8?auth_key=1795773005-0-0-689f10eb1c2c12877f4585c173c40bf6
 #EXTINF:-1 tvg-name="台湾科技大学 vs 文化大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 文化大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960856.m3u8?auth_key=1795772692-0-0-74c4b6ab0729c70aba59f26d4eb47650
+https://pullgz721.qmuiw.com/live/sd-2-3960856.m3u8?auth_key=1795773005-0-0-0a628cbccfe90a04e27c34bb65b363fa
 #EXTINF:-1 tvg-name="伊朗 vs 澳大利亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/77418e1cfd63306bf63717d76c23e910.png" group-title="篮球",伊朗 vs 澳大利亚|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3923788.m3u8?auth_key=1795772692-0-0-b5279f7cd5c50e72dca2cc04950ef4de
+https://pullgz721.qmuiw.com/live/hd-zh-2-3923788.m3u8?auth_key=1795773005-0-0-f7304ee6318fecbe95ed814527fdf749
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
