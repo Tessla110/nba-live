@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="向日葵女篮 vs 电装小仙女女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2095ca3b65b5c9a4d12e6f82cc6365ba.png" group-title="篮球",向日葵女篮 vs 电装小仙女女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="日立美洲狮女篮 vs 丰田羚羊女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bad75919cdda442884b16a9ac990dc42.png" group-title="篮球",日立美洲狮女篮 vs 丰田羚羊女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="东京羽田酷猫女篮 vs 姬路白鹭女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7be43a07bf4cf8d560e67639138d828a.png" group-title="篮球",东京羽田酷猫女篮 vs 姬路白鹭女篮|完场
@@ -25,13 +23,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="大陆普瓦凯女篮 vs 皇后女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/55a34103e311f9131150b1b21af83ae6.png" group-title="篮球",大陆普瓦凯女篮 vs 皇后女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="远东大学矮水牛 vs 德拉萨大学绿色弓箭手|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c655be985ce25be6a7665a7a145aa29e.png" group-title="篮球",远东大学矮水牛 vs 德拉萨大学绿色弓箭手|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="友利银行女篮 vs 富川KEB女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/372ebf16ae571d85ee98090b0ee60e41.png" group-title="篮球",友利银行女篮 vs 富川KEB女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3946109.m3u8?auth_key=1795856216-0-0-8af1b43e56ded46546128fc3ebb01c9a
+https://pullgz721.qmuiw.com/live/sd-2-3946109.m3u8?auth_key=1795856536-0-0-bedd0df8fc0e769cbfa7b846e0218e1e
 #EXTINF:-1 tvg-name="巴林 vs 哈萨克斯坦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/939045fc3f62477368f62d714ab67401.png" group-title="篮球",巴林 vs 哈萨克斯坦|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943514.m3u8?auth_key=1795856216-0-0-f40cfad6d7dbad3c0064442504d9775c
+https://pullgz721.qmuiw.com/live/sd-2-3943514.m3u8?auth_key=1795856536-0-0-b1ee8dd88a884656194a1ee082f5a4bb
 #EXTINF:-1 tvg-name="珀斯山猫女篮 vs 阿德莱德闪电女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs 阿德莱德闪电女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925793.m3u8?auth_key=1795856216-0-0-1b8bd6a83202d0966678ae6261257cb8
+https://pullgz721.qmuiw.com/live/sd-2-3925793.m3u8?auth_key=1795856536-0-0-f096bfa3b49cef11c4d64e905b0130c3
 #EXTINF:-1 tvg-name="东京八王子市火车 vs 东京地球之友|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 东京地球之友|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795856216-0-0-a60fc9d6555c73b4ddb201905c31858d
+https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795856536-0-0-567cc76fb607b7758c5a71c9e38099b8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
