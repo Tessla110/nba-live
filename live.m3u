@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴林 vs 哈萨克斯坦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/939045fc3f62477368f62d714ab67401.png" group-title="篮球",巴林 vs 哈萨克斯坦|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="珀斯山猫女篮 vs 阿德莱德闪电女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs 阿德莱德闪电女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东京八王子市火车 vs 东京地球之友|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 东京地球之友|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
