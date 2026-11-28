@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="CSA女篮 vs 阿比让女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1ad269631a51004f1ca278ebc7c720be.png" group-title="篮球",CSA女篮 vs 阿比让女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="安塔利亚青年体育 vs 乔尔卢|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/608b28b4246282d05ca8d52e0a29a672.png" group-title="篮球",安塔利亚青年体育 vs 乔尔卢|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥林匹亚科斯女篮 vs 卡华拉女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23e74531b65bda9fd68e6ea835907bba.png" group-title="篮球",奥林匹亚科斯女篮 vs 卡华拉女篮|完场
