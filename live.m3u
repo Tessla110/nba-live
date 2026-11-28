@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="桃园领航猿 vs 洋基工程|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/72071509f46ca594ce3da851a6c175a9.png" group-title="篮球",桃园领航猿 vs 洋基工程|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961758.m3u8?auth_key=1795866249-0-0-1d191c6dcb253f3881fcdef2813d7317
+#EXTINF:-1 tvg-name="奥尔曼安卡拉 vs 科斯欧仁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/beab522d26d3d501c90c028a1e927a9e.png" group-title="篮球",奥尔曼安卡拉 vs 科斯欧仁|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="基辅女篮 vs 布迪维尔尼克女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/efb7783588293c221cc0d5352e60a24a.png" group-title="篮球",基辅女篮 vs 布迪维尔尼克女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
