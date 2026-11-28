@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿勒坦基艾劳 vs 贝内克斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e8ceeb09fef45a4d31e0d6fe39f17baf.png" group-title="篮球",阿勒坦基艾劳 vs 贝内克斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥斯女篮 vs 维斯比女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a29cdd348a6981ec802f7837a38e04ab.png" group-title="篮球",奥斯女篮 vs 维斯比女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
