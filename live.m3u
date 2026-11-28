@@ -3,8 +3,8 @@
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="米高斯女篮 vs 里斯本竞技女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bce2cacc11007341af71a47a47cce895.png" group-title="篮球",米高斯女篮 vs 里斯本竞技女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="长沙勇胜 vs 香港金牛|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cfaf0a09167483fde945fa0a5a02be52.png" group-title="篮球",长沙勇胜 vs 香港金牛|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960563.m3u8?auth_key=1795872675-0-0-7be03b7afdb354dec9596e538f5dddd7
+#EXTINF:-1 tvg-name="长沙勇胜 vs 香港金牛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cfaf0a09167483fde945fa0a5a02be52.png" group-title="篮球",长沙勇胜 vs 香港金牛|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="四川远达美乐女篮 vs 江苏南钢女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮|完场
@@ -14,6 +14,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="富阳 vs 云和|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/344d896ca97b766d0e02469f78964072.png" group-title="篮球",富阳 vs 云和|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="绍兴 vs 瑞安|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e9096fb9d998ea178bef08aebd66ffd7.png" group-title="篮球",绍兴 vs 瑞安|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939013.m3u8?auth_key=1795872675-0-0-71840788ac60c27ef399343160a65898
+https://pullgz721.qmuiw.com/live/sd-2-3939013.m3u8?auth_key=1795872997-0-0-cf41c596624a0dda4c860f64b18a0b5c
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
