@@ -1,9 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥尔曼安卡拉 vs 科斯欧仁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/beab522d26d3d501c90c028a1e927a9e.png" group-title="篮球",奥尔曼安卡拉 vs 科斯欧仁|完场
+#EXTINF:-1 tvg-name="特斯维基亚 vs 卡拉塔伊市立体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5368a2e5585be0acf6cc7a2aebbe2dbb.png" group-title="篮球",特斯维基亚 vs 卡拉塔伊市立体育|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="基辅女篮 vs 布迪维尔尼克女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/efb7783588293c221cc0d5352e60a24a.png" group-title="篮球",基辅女篮 vs 布迪维尔尼克女篮|完场
+#EXTINF:-1 tvg-name="数字女篮 vs SOA女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7d43c17b76789794b590e35900e1002d.png" group-title="篮球",数字女篮 vs SOA女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="长沙勇胜 vs 香港金牛|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cfaf0a09167483fde945fa0a5a02be52.png" group-title="篮球",长沙勇胜 vs 香港金牛|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3960563.m3u8?auth_key=1795870696-0-0-16f2d6c15af0fa4ac1c206991e8989b8
+#EXTINF:-1 tvg-name="四川远达美乐女篮 vs 江苏南钢女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮|视频直播
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958913.m3u8?auth_key=1795870696-0-0-a9e5fe5c206d80a4345272eb2657b661
+#EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮|视频直播
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958914.m3u8?auth_key=1795870696-0-0-ac87e5634580a6b053ec8d44df610b73
+#EXTINF:-1 tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c654d3c56f74e62af5ceb3c9fb7451de.png" group-title="篮球",武汉盛帆黄鹤女篮 vs 石家庄英励女篮|视频直播
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958915.m3u8?auth_key=1795870696-0-0-8c21790387ad2608986cb87ae4ccd567
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
