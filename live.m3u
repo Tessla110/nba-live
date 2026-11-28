@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="保利斯塔诺 U20 vs 圣何塞U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/17cfceb2858f74348f68e5bfd8c341cb.png" group-title="篮球",保利斯塔诺 U20 vs 圣何塞U20|完场
+#EXTINF:-1 tvg-name="爱国者队 vs 纳穆旺戈开拓者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5dd7d26ded146cac95022f31f040dacc.png" group-title="篮球",爱国者队 vs 纳穆旺戈开拓者|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蔚蓝红女篮 vs 康塞普西翁大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c8821804dabb2993a8a7d20858e3aea2.png" group-title="篮球",蔚蓝红女篮 vs 康塞普西翁大学女篮|完场
+#EXTINF:-1 tvg-name="托雷斯陀罗 vs 戴芬多|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/180fb832b775f9d74b31b9b8eb83e252.png" group-title="篮球",托雷斯陀罗 vs 戴芬多|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="国际布拉蒂斯拉瓦 vs 科希策狼队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7177310fb1c26f68eedb89e93115fafd.png" group-title="篮球",国际布拉蒂斯拉瓦 vs 科希策狼队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="耶莱尼亚女篮 vs 维泽夫洛兹女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ff93fbe95884fc23dc22c4b6a1ed6cbe.png" group-title="篮球",耶莱尼亚女篮 vs 维泽夫洛兹女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埃斯佩罗斯 vs 佩拉马蒂科马奇特斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c007e3b85114dd039373d7922ca34a01.png" group-title="篮球",埃斯佩罗斯 vs 佩拉马蒂科马奇特斯|完场
+#EXTINF:-1 tvg-name="杰西卡女篮 vs 马里博尔女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/771e1abec36e4391881d5d0155696b26.png" group-title="篮球",杰西卡女篮 vs 马里博尔女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
