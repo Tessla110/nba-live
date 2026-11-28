@@ -1,19 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="熊本火山 vs 爱媛维京人|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3a904c6ca7e5ec78c504c2fedac9234.png" group-title="篮球",熊本火山 vs 爱媛维京人|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="大陆普瓦凯女篮 vs 皇后女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/55a34103e311f9131150b1b21af83ae6.png" group-title="篮球",大陆普瓦凯女篮 vs 皇后女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="远东大学矮水牛 vs 德拉萨大学绿色弓箭手|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c655be985ce25be6a7665a7a145aa29e.png" group-title="篮球",远东大学矮水牛 vs 德拉萨大学绿色弓箭手|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="友利银行女篮 vs 富川KEB女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/372ebf16ae571d85ee98090b0ee60e41.png" group-title="篮球",友利银行女篮 vs 富川KEB女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴林 vs 哈萨克斯坦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/939045fc3f62477368f62d714ab67401.png" group-title="篮球",巴林 vs 哈萨克斯坦|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="珀斯山猫女篮 vs 阿德莱德闪电女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs 阿德莱德闪电女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="东京八王子市火车 vs 东京地球之友|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 东京地球之友|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795860478-0-0-b741ed53a7c3126c85048c6c2875a5ac
+#EXTINF:-1 tvg-name="东京八王子市火车 vs 东京地球之友|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 东京地球之友|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
