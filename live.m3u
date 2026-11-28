@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山口爱国者 vs 沃尔加湘南|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/882a952b67dffa28caad93a2d3aafc34.png" group-title="篮球",山口爱国者 vs 沃尔加湘南|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="岩手大公牛 vs 青森热力|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcb478f91fa9177647848bc08ccc209c.png" group-title="篮球",岩手大公牛 vs 青森热力|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="横滨卓越 vs 岐阜猛扑|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d1f21b4d887417fa73a700b77d948f36.png" group-title="篮球",横滨卓越 vs 岐阜猛扑|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德岛甘巴罗斯 vs 新潟天鹅|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5e82ce8473525078f706a8da09d776f7.png" group-title="篮球",德岛甘巴罗斯 vs 新潟天鹅|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="立川骰子 vs 鹿儿岛列布尼斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35304b4487874d6acf7bfe72fa73966b.png" group-title="篮球",立川骰子 vs 鹿儿岛列布尼斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埼玉野马 vs 东京联合|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/974399e43d0f70056e0393740c62deba.png" group-title="篮球",埼玉野马 vs 东京联合|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="熊本火山 vs 爱媛维京人|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3a904c6ca7e5ec78c504c2fedac9234.png" group-title="篮球",熊本火山 vs 爱媛维京人|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="大陆普瓦凯女篮 vs 皇后女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/55a34103e311f9131150b1b21af83ae6.png" group-title="篮球",大陆普瓦凯女篮 vs 皇后女篮|完场
@@ -21,11 +9,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="友利银行女篮 vs 富川KEB女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/372ebf16ae571d85ee98090b0ee60e41.png" group-title="篮球",友利银行女篮 vs 富川KEB女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴林 vs 哈萨克斯坦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/939045fc3f62477368f62d714ab67401.png" group-title="篮球",巴林 vs 哈萨克斯坦|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943514.m3u8?auth_key=1795859534-0-0-1e647cf287cd844d23211c0a915a7743
-#EXTINF:-1 tvg-name="珀斯山猫女篮 vs 阿德莱德闪电女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs 阿德莱德闪电女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925793.m3u8?auth_key=1795859534-0-0-616c79bc986edbab332ea4d90e00c825
+#EXTINF:-1 tvg-name="巴林 vs 哈萨克斯坦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/939045fc3f62477368f62d714ab67401.png" group-title="篮球",巴林 vs 哈萨克斯坦|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="珀斯山猫女篮 vs 阿德莱德闪电女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs 阿德莱德闪电女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="东京八王子市火车 vs 东京地球之友|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 东京地球之友|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795859534-0-0-90f67fde8b5b63157d2e7cc96880c904
+https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795860408-0-0-f07a389a4bcf1ab85cc5d2047a8aab9e
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
