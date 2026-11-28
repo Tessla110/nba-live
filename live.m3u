@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥斯女篮 vs 维斯比女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a29cdd348a6981ec802f7837a38e04ab.png" group-title="篮球",奥斯女篮 vs 维斯比女篮|完场
+#EXTINF:-1 tvg-name="蒂朱卡U22 vs 博塔弗戈U22|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6aebf6ff9bb432650b683dead3974f80.png" group-title="篮球",蒂朱卡U22 vs 博塔弗戈U22|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科威特 vs 巴勒斯坦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a2e927f0f8ba4aa050e3c319abf5b407.png" group-title="篮球",科威特 vs 巴勒斯坦|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943517.m3u8?auth_key=1795881346-0-0-f33c616f6d7645b0f8bb672663ba4baf
-#EXTINF:-1 tvg-name="奥尔曼女篮 vs 伯塔斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9c3b19e444436088fb6f882fada8a35c.png" group-title="篮球",奥尔曼女篮 vs 伯塔斯女篮|完场
+#EXTINF:-1 tvg-name="非洲人 vs 哈曼苏斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0898e7cba6237b1fc02cb6ef3681590a.png" group-title="篮球",非洲人 vs 哈曼苏斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="瑞塔斯B vs 希卢泰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f9e4501503d9a484d3e781ac91f20fde.png" group-title="篮球",瑞塔斯B vs 希卢泰|完场
+#EXTINF:-1 tvg-name="ITU斯波尔 vs 泰坦学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8212fd060f7b21e347e2ea778f6ff23a.png" group-title="篮球",ITU斯波尔 vs 泰坦学院|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克雷廷加 vs 凯代尼艾SC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/49733bcd43e176bb7c96189a5cd07e7d.png" group-title="篮球",克雷廷加 vs 凯代尼艾SC|完场
+#EXTINF:-1 tvg-name="梅加女篮 vs 贝尔格莱德红星女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c1a4318582a8bdfeb5e76de9d63bad34.png" group-title="篮球",梅加女篮 vs 贝尔格莱德红星女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="苏度瓦曼廷加 vs 尤尔巴科|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ea48133a5ffc49ee89870ce76dcce481.png" group-title="篮球",苏度瓦曼廷加 vs 尤尔巴科|完场
+#EXTINF:-1 tvg-name="萨斯菲尔德女篮 vs 基尔梅斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b9d05201178b4d7d9c55d28bb81acfa3.jpg" group-title="篮球",萨斯菲尔德女篮 vs 基尔梅斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维迪斯 vs 奥林帕斯瀑布|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d75bf3ee35be9a9b9c3de957d9847f3a.png" group-title="篮球",维迪斯 vs 奥林帕斯瀑布|完场
+#EXTINF:-1 tvg-name="西伯尼亚女篮 vs 德皮罗女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6e45bd9f43b6e86c4b6b52069643018.png" group-title="篮球",西伯尼亚女篮 vs 德皮罗女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
