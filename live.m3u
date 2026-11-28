@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="CSA女篮 vs 阿比让女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1ad269631a51004f1ca278ebc7c720be.png" group-title="篮球",CSA女篮 vs 阿比让女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="安塔利亚青年体育 vs 乔尔卢|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/608b28b4246282d05ca8d52e0a29a672.png" group-title="篮球",安塔利亚青年体育 vs 乔尔卢|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥林匹亚科斯女篮 vs 卡华拉女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23e74531b65bda9fd68e6ea835907bba.png" group-title="篮球",奥林匹亚科斯女篮 vs 卡华拉女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="加济安泰普 vs 费内巴切科莱吉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b320842f96c44ce38ee34fd197e15916.png" group-title="篮球",加济安泰普 vs 费内巴切科莱吉|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3930489.m3u8?auth_key=1795879280-0-0-f7cba9547327d4c80d43d92263341ad3
+#EXTINF:-1 tvg-name="阿玛格女篮 vs 海莱乌女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4632a4c126ef31645ad847b24437ea79.png" group-title="篮球",阿玛格女篮 vs 海莱乌女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
