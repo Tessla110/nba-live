@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科希策青年女篮 vs 沙莫林女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/efa699109aee83e0374a1a426fa34b11.png" group-title="篮球",科希策青年女篮 vs 沙莫林女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="保利斯塔诺 U20 vs 圣何塞U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/17cfceb2858f74348f68e5bfd8c341cb.png" group-title="篮球",保利斯塔诺 U20 vs 圣何塞U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蔚蓝红女篮 vs 康塞普西翁大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c8821804dabb2993a8a7d20858e3aea2.png" group-title="篮球",蔚蓝红女篮 vs 康塞普西翁大学女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="国际布拉蒂斯拉瓦 vs 科希策狼队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7177310fb1c26f68eedb89e93115fafd.png" group-title="篮球",国际布拉蒂斯拉瓦 vs 科希策狼队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="耶莱尼亚女篮 vs 维泽夫洛兹女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ff93fbe95884fc23dc22c4b6a1ed6cbe.png" group-title="篮球",耶莱尼亚女篮 vs 维泽夫洛兹女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="埃斯佩罗斯 vs 佩拉马蒂科马奇特斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c007e3b85114dd039373d7922ca34a01.png" group-title="篮球",埃斯佩罗斯 vs 佩拉马蒂科马奇特斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
