@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="突尼斯新月女篮 vs 突尼斯加泽莱克女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b830a8548322202ba0a02637ccff5875.png" group-title="篮球",突尼斯新月女篮 vs 突尼斯加泽莱克女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕兰加库尔希艾 vs 特尔希艾|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/48ae3e4b4ea507dd7ad7748ff047ac44.png" group-title="篮球",帕兰加库尔希艾 vs 特尔希艾|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="明斯克 vs 格罗德诺GrSU|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/21ca47e798c577f8948bbd04275c63e9.png" group-title="篮球",明斯克 vs 格罗德诺GrSU|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="埃拉布篮球 vs 达鲁萨法卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1b7af597b623918789b17e50f41ef5a5.png" group-title="篮球",埃拉布篮球 vs 达鲁萨法卡|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3930351.m3u8?auth_key=1795875446-0-0-3ca083a2412983d5d0ce817527b456fe
+#EXTINF:-1 tvg-name="格兹特佩 vs 哈尔体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e6da5d3cb20a8622b8e217ce40867d3a.png" group-title="篮球",格兹特佩 vs 哈尔体育|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3930486.m3u8?auth_key=1795875446-0-0-e0a336d5921a57059cef6d78bd1fce47
 #EXTINF:-1 tvg-name="ESPN 2 (美国)" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="体育频道",ESPN 2 (美国)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
